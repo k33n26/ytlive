@@ -11,25 +11,24 @@ def get_channel_live_ids(kanal_adi):
     """
     url = f"https://www.youtube.com/@{kanal_adi}/streams"
     
-    # yt-dlp komutu: Sadece canlı yayın olan videoların ID ve is_live durumunu flat-playlist olarak çek
     cmd = [
         "yt-dlp",
         "--flat-playlist",
         "--dump-single-json",
-        "--playlist-items", "1-10", # İlk 10 içeriği tara
+        "--playlist-items", "1-10",
         url
     ]
     
     found_ids = []
     
     try:
-        result = subprocess.run(cmd, capture_output=True, text=encoding="utf-8", timeout=30)
+        # Hata veren text=encoding satırı burada düzeltildi: text=True, encoding="utf-8"
+        result = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", timeout=30)
         if result.returncode == 0 and result.stdout:
             data = json.loads(result.stdout)
             entries = data.get("entries", [])
             
             for entry in entries:
-                # 'is_live' True olan veya live_status 'is_live' olan videoları al
                 is_live = entry.get("is_live")
                 live_status = entry.get("live_status")
                 
@@ -45,13 +44,12 @@ def get_channel_live_ids(kanal_adi):
     if not found_ids:
         cmd_fallback = ["yt-dlp", "--get-id", f"https://www.youtube.com/@{kanal_adi}/live"]
         try:
-            res_fb = subprocess.run(cmd_fallback, capture_output=True, text=encoding="utf-8", timeout=15)
+            res_fb = subprocess.run(cmd_fallback, capture_output=True, text=True, encoding="utf-8", timeout=15)
             if res_fb.returncode == 0 and res_fb.stdout.strip():
                 found_ids.append(res_fb.stdout.strip())
         except Exception:
             pass
 
-    # Tekrarları temizle
     return list(dict.fromkeys(found_ids))
 
 def process_all_channels():
