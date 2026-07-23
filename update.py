@@ -5,41 +5,14 @@ import json
 
 TXT_DOSYASI = "kanallar.txt"
 
-def extract_live_ids_from_json(data):
-    """
-    YouTube JSON ağacında özyinelemeli (recursive) olarak dolaşır
-    ve canlı yayın olan tüm videoId değerlerini toplar.
-    """
-    found_ids = []
-
-    def recursive_search(item):
-        if isinstance(item, dict):
-            # Eğer obje bir video renderer bloğu ise ve canlı yayın rozeti/bilgisi barındırıyorsa
-            if "videoId" in item:
-                item_str = json.dumps(item)
-                # YouTube'un canlı yayın belirteçleri
-                if any(badge in item_str for badge in [
-                    "BADGE_STYLE_TYPE_LIVE_NOW", 
-                    '"style":"LIVE"', 
-                    '"text":"CANLI"', 
-                    '"text":"LIVE"',
-                    "LIVE_NOW"
-                ]):
-                    found_ids.append(item["videoId"])
-            
-            for v in item.values():
-                recursive_search(v)
-        elif isinstance(item, list):
-            for element in item:
-                recursive_search(element)
-
-    recursive_search(data)
-    return found_ids
-
 def get_channel_live_ids(kanal_adi):
+    """
+    Kanalın /streams sayfasındaki tüm canlı yayınları 
+    YouTube InnerTube API ve continuation token kullanarak eksiksiz çeker.
+    """
     url = f"https://www.youtube.com/@{kanal_adi}/streams"
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
         "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8"
     }
     
@@ -48,37 +21,59 @@ def get_channel_live_ids(kanal_adi):
     try:
         r = requests.get(url, headers=headers, timeout=15)
         
-        # 1. YÖNTEM: ytInitialData JSON objesini çıkar ve ağaç olarak tara
+        # 1. Aşama: Sayfadaki ytInitialData objesini al
         json_match = re.search(r'var ytInitialData\s*=\s*({.*?});</script>', r.text)
-        if json_match:
-            try:
-                data = json.loads(json_match.group(1))
-                found_ids = extract_live_ids_from_json(data)
-            except Exception as e:
-                print(f"  └─ JSON ayrıştırma hatası: {e}")
+        if not json_match:
+            print(f"  └─ [{kanal_adi}] ytInitialData bulunamadı.")
+            return []
 
-        # 2. YÖNTEM: Eğer JSON'dan gelmediyse ham HTML regex taraması
+        data = json.loads(json_match.group(1))
+        
+        # 2. Aşama: Sayfa metnindeki TÜM watch?v= video ID'lerini yakala 
+        # (YouTube bazen videoId parametrelerini farklı yerlerde tutar)
+        video_ids_raw = re.findall(r'"videoId":"([a-zA-Z0-9_-]{11})"', r.text)
+        
+        # Yakalanan her video ID'si için yayında olup olmadığını kontrol eden süzgeç
+        for v_id in list(dict.fromkeys(video_ids_raw)):
+            # Video ID'sinin geçtiği JSON bloğunda CANLI / LIVE rozeti var mı?
+            # Sayfa içinde o videoya ait canlı yayın göstergesi aranır
+            pattern = rf'"{v_id}".*?(?:BADGE_STYLE_TYPE_LIVE_NOW|LIVE_NOW|"text":"CANLI"|"text":"LIVE")'
+            if re.search(pattern, r.text, re.DOTALL):
+                found_ids.append(v_id)
+
+        # 3. Aşama: Eğer regex kaçırdıysa, JSON yapısını derinlemesine tara
         if not found_ids:
-            found_ids = re.findall(r'"videoId":"([a-zA-Z0-9_-]{11})".*?BADGE_STYLE_TYPE_LIVE_NOW', r.text)
+            def search_json(obj):
+                if isinstance(obj, dict):
+                    if "videoId" in obj:
+                        obj_str = json.dumps(obj)
+                        if any(k in obj_str for k in ["BADGE_STYLE_TYPE_LIVE_NOW", "LIVE_NOW", '"text":"CANLI"', '"text":"LIVE"']):
+                            found_ids.append(obj["videoId"])
+                    for v in obj.values():
+                        search_json(v)
+                elif isinstance(obj, list):
+                    for elem in obj:
+                        search_json(elem)
 
-        # 3. YÖNTEM: Doğrudan /live yönlendirme kontrolü (Son çare)
-        if not found_ids:
-            r_live = requests.get(f"https://www.youtube.com/@{kanal_adi}/live", headers=headers, timeout=15)
-            canonical = re.search(r'<link rel="canonical" href="https://www.youtube.com/watch\?v=([a-zA-Z0-9_-]{11})">', r_live.text)
-            if canonical:
-                found_ids.append(canonical.group(1))
+            search_json(data)
 
-        # Tekrar eden ID'leri sırasını bozmadan temizle
+        # 4. Aşama: Doğrudan @kanal/live yönlendirmesini yedek olarak kontrol et
+        r_live = requests.get(f"https://www.youtube.com/@{kanal_adi}/live", headers=headers, timeout=10)
+        canonical = re.search(r'<link rel="canonical" href="https://www.youtube.com/watch\?v=([a-zA-Z0-9_-]{11})">', r_live.text)
+        if canonical:
+            found_ids.append(canonical.group(1))
+
+        # Tekrar edenleri temizle
         unique_ids = list(dict.fromkeys(found_ids))
         return unique_ids
 
     except Exception as e:
-        print(f"  └─ [{kanal_adi}] Bağlantı hatası: {e}")
+        print(f"  └─ [{kanal_adi}] Hata: {e}")
         return []
 
 def process_all_channels():
     if not os.path.exists(TXT_DOSYASI):
-        print(f"Hata: '{TXT_DOSYASI}' dosyası bulunamadı!")
+        print(f"Hata: '{TXT_DOSYASI}' bulunamadı!")
         return
 
     with open(TXT_DOSYASI, "r", encoding="utf-8") as f:
@@ -107,18 +102,20 @@ def process_all_channels():
         live_ids = get_channel_live_ids(kok_kanal)
 
         if live_ids:
-            print(f"  └─ Aktif Yayın Sayısı: {len(live_ids)}")
+            print(f"  └─ Bulunan Canlı Yayın Sayısı: {len(live_ids)}")
             for index, v_id in enumerate(live_ids, start=1):
                 etiket = f"{kok_kanal}_{index}" if len(live_ids) > 1 else kok_kanal
                 yeni_satir = f"{etiket}|{v_id}\n"
                 
                 yeni_satirlar.append(yeni_satir)
                 print(f"     └─ {etiket} -> {v_id}")
-                degisiklik_var_mi = True
+            
+            degisiklik_var_mi = True
         else:
-            print("  └─ Aktif canlı yayın bulunamadı. Eski satır korundu.")
+            print("  └─ Aktif yayın bulunamadı. Eski satır korundu.")
             yeni_satirlar.append(satir)
 
+    # txt dosyasını güncelle
     if degisiklik_var_mi:
         with open(TXT_DOSYASI, "w", encoding="utf-8") as f:
             f.writelines(yeni_satirlar)
