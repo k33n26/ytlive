@@ -5,44 +5,65 @@ import json
 
 TXT_DOSYASI = "kanallar.txt"
 
+def extract_live_ids_from_json(data):
+    """
+    YouTube JSON ağacında özyinelemeli (recursive) olarak dolaşır
+    ve canlı yayın olan tüm videoId değerlerini toplar.
+    """
+    found_ids = []
+
+    def recursive_search(item):
+        if isinstance(item, dict):
+            # Eğer obje bir video renderer bloğu ise ve canlı yayın rozeti/bilgisi barındırıyorsa
+            if "videoId" in item:
+                item_str = json.dumps(item)
+                # YouTube'un canlı yayın belirteçleri
+                if any(badge in item_str for badge in [
+                    "BADGE_STYLE_TYPE_LIVE_NOW", 
+                    '"style":"LIVE"', 
+                    '"text":"CANLI"', 
+                    '"text":"LIVE"',
+                    "LIVE_NOW"
+                ]):
+                    found_ids.append(item["videoId"])
+            
+            for v in item.values():
+                recursive_search(v)
+        elif isinstance(item, list):
+            for element in item:
+                recursive_search(element)
+
+    recursive_search(data)
+    return found_ids
+
 def get_channel_live_ids(kanal_adi):
-    """
-    Kanalın /streams sayfasındaki JavaScript verilerini (ytInitialData) 
-    ayrıştırarak AKTİF olan tüm canlı yayın ID'lerini bulur.
-    """
     url = f"https://www.youtube.com/@{kanal_adi}/streams"
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
         "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8"
     }
     
     found_ids = []
     
     try:
-        r = requests.get(url, headers=headers, timeout=12)
+        r = requests.get(url, headers=headers, timeout=15)
         
-        # 1. YÖNTEM: YouTube'un ytInitialData JSON objesinden 'CANLI/LIVE' olanları tara
-        json_match = re.search(r'var ytInitialData = ({.*?});</script>', r.text)
+        # 1. YÖNTEM: ytInitialData JSON objesini çıkar ve ağaç olarak tara
+        json_match = re.search(r'var ytInitialData\s*=\s*({.*?});</script>', r.text)
         if json_match:
             try:
                 data = json.loads(json_match.group(1))
-                # JSON metninde geçen tüm videoId ve overlay/label yapılarını string olarak tara
-                json_str = json.dumps(data)
-                
-                # "style":"LIVE"` veya `"label":"CANLI"` / `"label":"LIVE"` içeren video render bloklarını yakala
-                live_blocks = re.findall(r'{"videoId":"([a-zA-Z0-9_-]{11})".*?(?:LIVE|CANLI)', json_str)
-                found_ids.extend(live_blocks)
-            except Exception:
-                pass
+                found_ids = extract_live_ids_from_json(data)
+            except Exception as e:
+                print(f"  └─ JSON ayrıştırma hatası: {e}")
 
-        # 2. YÖNTEM: Sayfa ham metninden canlı yayın rozeti içeren videoId'leri regex ile tara (Yedek)
+        # 2. YÖNTEM: Eğer JSON'dan gelmediyse ham HTML regex taraması
         if not found_ids:
-            raw_matches = re.findall(r'"videoId":"([a-zA-Z0-9_-]{11})"[^}]{0,300}?(?:style":"LIVE"|label":"CANLI")', r.text)
-            found_ids.extend(raw_matches)
+            found_ids = re.findall(r'"videoId":"([a-zA-Z0-9_-]{11})".*?BADGE_STYLE_TYPE_LIVE_NOW', r.text)
 
-        # 3. YÖNTEM: Özel yönlendirme /live link kontrolü
+        # 3. YÖNTEM: Doğrudan /live yönlendirme kontrolü (Son çare)
         if not found_ids:
-            r_live = requests.get(f"https://www.youtube.com/@{kanal_adi}/live", headers=headers, timeout=12)
+            r_live = requests.get(f"https://www.youtube.com/@{kanal_adi}/live", headers=headers, timeout=15)
             canonical = re.search(r'<link rel="canonical" href="https://www.youtube.com/watch\?v=([a-zA-Z0-9_-]{11})">', r_live.text)
             if canonical:
                 found_ids.append(canonical.group(1))
@@ -75,11 +96,9 @@ def process_all_channels():
             continue
 
         ham_kanal, mevcut_id = satir_clean.split("|", 1)
-        # Eğer kanalda önceden eklenmiş _1, _2 eki varsa temizleyip kök kanal adını alır
         kok_kanal = ham_kanal.split("_")[0].strip()
 
         if kok_kanal in islenen_kanallar:
-            # Bu kanal zaten yukarıda işlendiği için eski alt yayın satırlarını atlar
             continue
 
         islenen_kanallar.add(kok_kanal)
@@ -90,8 +109,6 @@ def process_all_channels():
         if live_ids:
             print(f"  └─ Aktif Yayın Sayısı: {len(live_ids)}")
             for index, v_id in enumerate(live_ids, start=1):
-                # Kanalın 1 tane yayını varsa: NostaljiTRT|ID
-                # Kanalın 2 veya daha çok yayını varsa: NostaljiTRT_1|ID1, NostaljiTRT_2|ID2
                 etiket = f"{kok_kanal}_{index}" if len(live_ids) > 1 else kok_kanal
                 yeni_satir = f"{etiket}|{v_id}\n"
                 
@@ -102,7 +119,6 @@ def process_all_channels():
             print("  └─ Aktif canlı yayın bulunamadı. Eski satır korundu.")
             yeni_satirlar.append(satir)
 
-    # txt dosyasını güncelle
     if degisiklik_var_mi:
         with open(TXT_DOSYASI, "w", encoding="utf-8") as f:
             f.writelines(yeni_satirlar)
