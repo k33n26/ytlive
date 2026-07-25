@@ -116,4 +116,5 @@ NatGeo_1|eVty8-fUGJY
 NatGeo_2|lJOROUvD8sU
 NatGeoAnimals_1|J4IYwyEUwrI
 NatGeoAnimals_2|MiQe9ob9aDc
-natgeokids|
+natgeokids_1|H-h657jXQyA
+natgeokids_2|q5xC6wv9Ut0
