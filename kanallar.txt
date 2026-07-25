@@ -4,8 +4,7 @@ bizimevtv2000|5SlT_WQkyFA
 guldurguldurtv|uzVE5VTNZHY
 tgrtbelgeseltv|32y7IEtD5OU
 Halktvkanali|jHMsvYrf-UA
-Sozcutelevizyonu_1|Mxg7Vn8UMmU
-Sozcutelevizyonu_2|ztmY_cCtUl0
+Sozcutelevizyonu|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
 KemalSunalFilmleriveSahneleri|VkXvDzJyUQs
 arzufilm1964|RqegY0WKtZA
@@ -47,8 +46,9 @@ KurtlarVadisi|4QICVoMeA4s
 ShauntheSheepOfficial|j6Mo4ZbQ5Yo
 Behzatc.|qcR-HPtZkJQ
 ASpor|-zSaswVrQ_M
-cnnturk_1|ZxAr1LubD4Y
-cnnturk_2|6N8_r2uwLEc
+cnnturk_1|NepoiNKQUgQ
+cnnturk_2|ZxAr1LubD4Y
+cnnturk_3|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|YSFRjJdKigU
 Ahaber_1|WI8dXiMKvZw
@@ -112,4 +112,5 @@ SelenaDizi|1lyLi6l74fs
 CocuklarDuymasnKanalD|g7oVIIevRMk
 CocuklarDuymasin|4SrvTqYmHvM
 YalanDunyaKanalD|Efh06uzzORM
-NatGeo|
+NatGeo_1|eVty8-fUGJY
+NatGeo_2|lJOROUvD8sU
