@@ -52,4 +52,5 @@ cnnturk_2|ZxAr1LubD4Y
 cnnturk_3|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|YSFRjJdKigU
-Ahaber|4WfTuzeIVSc
+Ahaber_1|WI8dXiMKvZw
+Ahaber_2|4WfTuzeIVSc
