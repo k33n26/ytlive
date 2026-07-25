@@ -167,7 +167,8 @@ ABCNews_2|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV|Gcxkjxhbhk8
+ulusalkanalTV_1|L-2wBZpEX2A
+ulusalkanalTV_2|Gcxkjxhbhk8
 CGTNEurope_1|fkWGEbmzMZo
 CGTNEurope_2|_hLSxTIgYhM
 CGTNEurope_3|nEdIS7eCfDE
@@ -216,12 +217,7 @@ CNNIDOFFICIAL|PDDOkUq33Sw
 12KScenicRelaxation_7|1cQoYBb0Xow
 12KScenicRelaxation_8|vQP8AwAFzI8
 8KTUBEPlanet_1|r3ffn3Mf9yE
-8KTUBEPlanet_2|QqK4vzFZAKA
-8KTUBEPlanet_3|Yu_os-qhYjY
-8KTUBEPlanet_4|vYirLgKsVt8
-8KTUBEPlanet_5|m2EWRL3BFII
-8KTUBEPlanet_6|Oz5I8oS_oIw
-8KTUBEPlanet_7|wT9yH_4zYto
-8KTUBEPlanet_8|ju4dz0v_JW0
 kardespayitv|RkYAdJrquuE
-PijamaskelilerTurkce|
+PijamaskelilerTurkce_1|XPqhGB_QLGw
+PijamaskelilerTurkce_2|jMrjm7BVl6k
+PijamaskelilerTurkce_3|s4qNDaFQQns
