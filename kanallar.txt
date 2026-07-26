@@ -5,7 +5,8 @@ guldurguldurtv|uzVE5VTNZHY
 tgrtbelgeseltv|32y7IEtD5OU
 Halktvkanali_1|ObQHhJV2Y2k
 Halktvkanali_2|jHMsvYrf-UA
-Sozcutelevizyonu|ztmY_cCtUl0
+Sozcutelevizyonu_1|ZTeHxrOlnWw
+Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
 KemalSunalFilmleriveSahneleri|VkXvDzJyUQs
 arzufilm1964|RqegY0WKtZA
@@ -54,7 +55,8 @@ NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|YSFRjJdKigU
 Ahaber_1|WI8dXiMKvZw
 Ahaber_2|4WfTuzeIVSc
-liderhabertv|F8x9ydYf9Lg
+liderhabertv_1|IllvKP0YDMg
+liderhabertv_2|F8x9ydYf9Lg
 krtcanli|G7m-KstlDCE
 haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
@@ -151,11 +153,13 @@ explorebears_5|EwTH5yY7Mks
 explorebears_6|G839-Yj4Cvo
 earthTV_1|5p_KGD4fJZs
 earthTV_2|HfgIFGbdGJ0
-dwnews|LuKwFajn37U
+dwnews_1|-A5mnZe3JdE
+dwnews_2|LuKwFajn37U
 aljazeeraenglish|gCNeDWCI0vo
 France24|a47ckXKZjxI
 abcnewsaustralia|vOTiJkg1voo
-ABCNews|iipR5yUp36o
+ABCNews_1|RnW8j2QrVPE
+ABCNews_2|iipR5yUp36o
 markets_1|qn4xQH0YuQk
 markets_2|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
@@ -231,8 +235,9 @@ yesildeniztrt1|DKbXb7x38_Y
 AskMemnuKanalD|JpP13Wp1ke0
 zenginkizfakiroglantrt|3kTcvGWaO3Q
 CNN|GotlA1KKWoo
-kenyacitizentv_1|XLHga7T6uKA
-kenyacitizentv_2|gyhQilvSkDg
+kenyacitizentv_1|IbrqnxsZ1FI
+kenyacitizentv_2|XLHga7T6uKA
+kenyacitizentv_3|gyhQilvSkDg
 TRTAvaz|E1rnoNh89vs
 bbcnewsarabic|O1pGmVtj2Y8
 aljazeeradocumentary|TiPYdMXt_XI
@@ -290,4 +295,7 @@ Abidiziatv|jhEx9jk3wuc
 muhtesemyuzyilofficial|0dmPGl8HV3A
 diyanettv|8KOE6__ogN8
 semerkandtv|J1ohx_TAsEE
-vavtv|
+vavtv_1|Iy27RumblzE
+vavtv_2|Y_vdhq00egc
+vavtv_3|euQKZqz_iAc
+vavtv_4|Q-6bt9nkj8Y
