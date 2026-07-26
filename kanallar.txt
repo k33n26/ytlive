@@ -134,8 +134,7 @@ EKOTURKTV|V6VR3xxLSH0
 Taff-Pictures|iNHtY4hzt3c
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|m-P9gym_Tg8
-SkyNews_2|YDvsBbKfLPA
+SkyNews|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|lCph2yGpU-g
@@ -150,8 +149,7 @@ explorebears_5|EwTH5yY7Mks
 explorebears_6|G839-Yj4Cvo
 earthTV_1|5p_KGD4fJZs
 earthTV_2|HfgIFGbdGJ0
-dwnews_1|O5NewynLd10
-dwnews_2|LuKwFajn37U
+dwnews|LuKwFajn37U
 aljazeeraenglish|gCNeDWCI0vo
 France24|a47ckXKZjxI
 abcnewsaustralia|vOTiJkg1voo
