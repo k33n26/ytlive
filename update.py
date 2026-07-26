@@ -2,7 +2,7 @@ import subprocess
 import json
 import os
 
-TXT_DOSYASI = "kanallar.txt"
+TXT_DOSYASI = "channels.txt"
 
 def get_channel_live_ids(kanal_adi):
     """
@@ -99,7 +99,7 @@ def process_all_channels():
     if degisiklik_var_mi:
         with open(TXT_DOSYASI, "w", encoding="utf-8") as f:
             f.writelines(yeni_satirlar)
-        print("\n'kanallar.txt' başarıyla güncellendi!")
+        print("\n'channels.txt' başarıyla güncellendi!")
 
 if __name__ == "__main__":
     process_all_channels()
