@@ -3,9 +3,9 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|5SlT_WQkyFA
 guldurguldurtv|uzVE5VTNZHY
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|nI9qr3gIF6A
-Halktvkanali_2|jHMsvYrf-UA
-Sozcutelevizyonu|ztmY_cCtUl0
+Halktvkanali|jHMsvYrf-UA
+Sozcutelevizyonu_1|_wBiR1EIsZU
+Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
 KemalSunalFilmleriveSahneleri|VkXvDzJyUQs
 arzufilm1964|RqegY0WKtZA
@@ -47,8 +47,9 @@ KurtlarVadisi|4QICVoMeA4s
 ShauntheSheepOfficial|j6Mo4ZbQ5Yo
 Behzatc.|qcR-HPtZkJQ
 ASpor|-zSaswVrQ_M
-cnnturk_1|ZxAr1LubD4Y
-cnnturk_2|6N8_r2uwLEc
+cnnturk_1|Vd0WvhTiips
+cnnturk_2|ZxAr1LubD4Y
+cnnturk_3|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|YSFRjJdKigU
 Ahaber_1|WI8dXiMKvZw
@@ -158,7 +159,8 @@ ABCNews|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV|Gcxkjxhbhk8
+ulusalkanalTV_1|vNunnjrq2Dw
+ulusalkanalTV_2|Gcxkjxhbhk8
 CGTNEurope_1|nEdIS7eCfDE
 CGTNEurope_2|B17U_vkMYzI
 CGTNEurope_3|_6dRRfnYJws
@@ -177,7 +179,7 @@ Yeraltidizisi|Dg8FKWMVm48
 Kanal7PakistanDizileri|MTbf4z9L7L8
 SfrBir|ud2lG_JySNU
 ÇokGüzelHareketler|Ppbi-hyO8T0
-livenowfox_1|3_CJ3JDElMA
+livenowfox_1|z7rm2XUafiU
 livenowfox_2|C96oohpWBGw
 warnerbrosentertainment_1|G43NInZfoPE
 warnerbrosentertainment_2|WVwP298MU7I
@@ -243,7 +245,8 @@ TheIslandwithBearGrylls|
 channelnewsasia|XWq5kBlakcQ
 CBCNews|5vfaDsMhCF4
 CNBC|9NyxcX3rhQs
-EnjoyRelaxation-jz7gi|LeJ5ef6oQpI
+EnjoyRelaxation-jz7gi_1|ennd2EhRrfA
+EnjoyRelaxation-jz7gi_2|LeJ5ef6oQpI
 SaudiNewsTV|yYJjtr3fbZE
 ravenhallmusic|HucCIcDjLkw
 ABC7|s3iVFJoxrYc
@@ -268,4 +271,6 @@ NaimatIslamic_2|SFlrfpomgDU
 NaimatIslamic_3|B1qj0qHb-zg
 NaimatIslamic_4|YY3zQjejr-Q
 NaimatIslamic_5|BtMUUgApnPs
-ClassicMrBean|
+ClassicMrBean_1|8nORcRZ7gqs
+ClassicMrBean_2|U__tcQKkU9w
+ClassicMrBean_3|XQLEvieRMj4
