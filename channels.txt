@@ -59,11 +59,10 @@ Ahaber_3|4WfTuzeIVSc
 liderhabertv_1|uc6_hNcjEZE
 liderhabertv_2|F8x9ydYf9Lg
 krtcanli|G7m-KstlDCE
-haberturktv_1|cCkesPy9RWA
-haberturktv_2|s4KIyYkwiM0
-haberturktv_3|CJHVSYHpVvc
-haberturktv_4|CPXn_5nTtao
-haberturktv_5|RNVNlJSUFoE
+haberturktv_1|s4KIyYkwiM0
+haberturktv_2|CJHVSYHpVvc
+haberturktv_3|CPXn_5nTtao
+haberturktv_4|RNVNlJSUFoE
 haberglobal_1|A4-hjmXoQQ4
 haberglobal_2|EqoCJ8BPxtE
 FilmAtölyesi|mq4GiHzxZwk
@@ -97,8 +96,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|D6hO1YbX6Jc
 trthaber|vjNZVmImcxg
-tgrthaber_1|omDJQeQM-uo
-tgrthaber_2|WX29nlgdqho
+tgrthaber|WX29nlgdqho
 bloomberght|hHSmBJk6w0c
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
