@@ -56,7 +56,8 @@ SevkatYerimdarDizisi|YSFRjJdKigU
 Ahaber_1|pLj1qdStnTM
 Ahaber_2|WI8dXiMKvZw
 Ahaber_3|4WfTuzeIVSc
-liderhabertv|F8x9ydYf9Lg
+liderhabertv_1|uc6_hNcjEZE
+liderhabertv_2|F8x9ydYf9Lg
 krtcanli|G7m-KstlDCE
 haberturktv_1|cCkesPy9RWA
 haberturktv_2|s4KIyYkwiM0
@@ -142,8 +143,7 @@ EKOTURKTV|V6VR3xxLSH0
 Taff-Pictures|iNHtY4hzt3c
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|QNR94GK-JQI
-SkyNews_2|YDvsBbKfLPA
+SkyNews|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|lCph2yGpU-g
@@ -167,8 +167,7 @@ ABCNews_2|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV_1|QC5i49wKUHs
-ulusalkanalTV_2|Gcxkjxhbhk8
+ulusalkanalTV|Gcxkjxhbhk8
 CGTNEurope_1|EAzDWwKxG-E
 CGTNEurope_2|qj2emAmR95o
 CGTNEurope_3|HFo_DYwj2bo
@@ -354,4 +353,4 @@ grafi2000cocuk|Y119o-T88OI
 yagosabuncuoglu|6zv5Ls2tIwA
 KuzeyYildiziDizi|o-yvniwr7CY
 CanlıTürkDizileri|
-SportsDigitale|
+SportsDigitale|G7hhSkp01Dk
