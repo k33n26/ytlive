@@ -2,8 +2,8 @@ name: Canli Yayin ID Otomatik Guncelleyici
 
 on:
   schedule:
-    # Her 30 dakikada bir çalışır
-    - cron: '*/30 * * * *'
+    # Her 15 dakikada bir çalışır
+    - cron: '*/15 * * * *'
   workflow_dispatch: # Manuel tetikleme butonu
 
 jobs:
