@@ -26,12 +26,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests yt-dlp
 
-      - name: Güncelleme Betiğini Çalıştır
-        run: python update.py
-
       - name: Değişiklikleri Pushla
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add channels.txt
-          git diff --staged --quiet || (git commit -m "Auto-update live stream IDs" && git push)
+  run: |
+    git config --local user.name "github-actions[bot]"
+    git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+    git add channels.txt
+
+    if ! git diff --cached --quiet; then
+      git commit -m "Auto-update live stream IDs"
+      git push
+    fi
