@@ -145,7 +145,8 @@ EKOTURKTV|V6VR3xxLSH0
 Taff-Pictures|iNHtY4hzt3c
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews|YDvsBbKfLPA
+SkyNews_1|N-H9S3IWmzg
+SkyNews_2|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|bXegdpNDbKU
@@ -264,8 +265,7 @@ EnjoyRelaxation-jz7gi_2|LeJ5ef6oQpI
 SaudiNewsTV|yYJjtr3fbZE
 ravenhallmusic|_qwUrtTVBK8
 ABC7|s3iVFJoxrYc
-KozaTv_1|SIPQCmSiooY
-KozaTv_2|0TBY2WtWW7g
+KozaTv|0TBY2WtWW7g
 ankarabbld|2fy_rq0Eur8
 Nilradyotv|WPa5GVhIrXc
 mkhabertv|H_r2ZGng_VU
