@@ -6,20 +6,32 @@ on:
     - cron: '*/15 * * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-links:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
+      - name: GitHub App Token Oluştur
+        id: app-token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+
       - name: Repoyu Çek
         uses: actions/checkout@v4
+        with:
+          token: ${{ steps.app-token.outputs.token }}
+          fetch-depth: 0
 
       - name: Python Ortamını Kur
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+          cache: 'pip'
 
       - name: Gerekli Paketleri Yükle
         run: |
@@ -29,14 +41,17 @@ jobs:
       - name: Güncelleme Betiğini Çalıştır
         run: python update.py
 
-      - name: Değişiklikleri Pushla
+      - name: Değişiklikleri Commit ve Pushla
         run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "ytlive-bot[bot]"
+          git config user.email "${{ secrets.APP_ID }}+ytlive-bot[bot]@users.noreply.github.com"
 
           git add channels.txt
 
-          if ! git diff --cached --quiet; then
-            git commit -m "Auto-update live stream IDs"
-            git push
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok."
+            exit 0
           fi
+
+          git commit -m "Auto-update live stream IDs"
+          git push origin HEAD:${{ github.ref_name }}
