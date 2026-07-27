@@ -135,8 +135,7 @@ EKOTURKTV|V6VR3xxLSH0
 Taff-Pictures|iNHtY4hzt3c
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|TljO8y5dqAE
-SkyNews_2|YDvsBbKfLPA
+SkyNews|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|bXegdpNDbKU
@@ -156,7 +155,8 @@ earthTV_2|HfgIFGbdGJ0
 dwnews|LuKwFajn37U
 aljazeeraenglish|gCNeDWCI0vo
 France24|a47ckXKZjxI
-abcnewsaustralia|vOTiJkg1voo
+abcnewsaustralia_1|H6TEEudQ0tI
+abcnewsaustralia_2|vOTiJkg1voo
 ABCNews_1|HZdEcmj8P-g
 ABCNews_2|iipR5yUp36o
 markets|QB5BNdBFujE
@@ -165,9 +165,8 @@ FlashHaberTV|UHXqe9qf_ZM
 ulusalkanalTV|Gcxkjxhbhk8
 CGTNEurope_1|a7GA4hMoGlo
 CGTNEurope_2|B_8X2lxeHpQ
-CGTNEurope_3|e-uZ5Li_Bp8
-CGTNEurope_4|nEdIS7eCfDE
-CGTNEurope_5|_6dRRfnYJws
+CGTNEurope_3|nEdIS7eCfDE
+CGTNEurope_4|_6dRRfnYJws
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
 globalnewstw_1|Ej3LQM_lTEw
