@@ -256,7 +256,9 @@ tele2_haber|
 tarihinarkaodasitv|Ap7-d2tnoAc
 SyriaTelevision|h6cB5IUmVF0
 medyahabertv8|kyJf0mXuJ9A
-KOREAarirangTV|hvVlyZ5GiE8
+KOREAarirangTV_1|sUGBkI7vHA4
+KOREAarirangTV_2|IYuujT-JTto
+KOREAarirangTV_3|hvVlyZ5GiE8
 Foxweather|wt6SIE7BXS8
 weathernation|3dDyjHc8DkA
 stormpower4617_1|dQW8xLOf_CU
@@ -300,9 +302,8 @@ fukuokatncnews_1|CzgSFUAbE9s
 fukuokatncnews_2|NokinTfqIaM
 fukuokatncnews_3|A76bj7NZSs0
 fukuokatncnews_4|p326sZfmwHM
-KBCnewsCH_1|uuMhOREzUYA
-KBCnewsCH_2|4hpUbFP13-M
-KBCnewsCH_3|8RyR0J8zbbU
+KBCnewsCH_1|4hpUbFP13-M
+KBCnewsCH_2|8RyR0J8zbbU
 ForcesOfNature|JZo9vbEHkjM
 ntv|pqq5c6k70kk
 bkmonline|ncRUrQ7_DQU
