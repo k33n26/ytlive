@@ -3,8 +3,10 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|5SlT_WQkyFA
 guldurguldurtv|uzVE5VTNZHY
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali|jHMsvYrf-UA
-Sozcutelevizyonu|ztmY_cCtUl0
+Halktvkanali_1|is3KvBOnnTc
+Halktvkanali_2|jHMsvYrf-UA
+Sozcutelevizyonu_1|lwctBsosNsQ
+Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
 KemalSunalFilmleriveSahneleri|VkXvDzJyUQs
 arzufilm1964|RqegY0WKtZA
@@ -58,7 +60,8 @@ haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
 haberturktv_4|RNVNlJSUFoE
-haberglobal|EqoCJ8BPxtE
+haberglobal_1|dkC70T00TT4
+haberglobal_2|EqoCJ8BPxtE
 FilmAtölyesi|mq4GiHzxZwk
 MiParaisoVision_1|z_fIj1vMuNU
 MiParaisoVision_2|GaWiUYMuFfk
@@ -89,7 +92,8 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|D6hO1YbX6Jc
 trthaber|vjNZVmImcxg
-tgrthaber|WX29nlgdqho
+tgrthaber_1|ys_s04PFbic
+tgrthaber_2|WX29nlgdqho
 bloomberght|hHSmBJk6w0c
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -159,9 +163,8 @@ tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
 ulusalkanalTV|Gcxkjxhbhk8
 CGTNEurope_1|EAzDWwKxG-E
-CGTNEurope_2|HFo_DYwj2bo
-CGTNEurope_3|nEdIS7eCfDE
-CGTNEurope_4|_6dRRfnYJws
+CGTNEurope_2|nEdIS7eCfDE
+CGTNEurope_3|_6dRRfnYJws
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
 globalnewstw_1|Ej3LQM_lTEw
@@ -226,8 +229,7 @@ yesildeniztrt1|DKbXb7x38_Y
 AskMemnuKanalD|JpP13Wp1ke0
 zenginkizfakiroglantrt|3kTcvGWaO3Q
 CNN|GotlA1KKWoo
-kenyacitizentv_1|IbrqnxsZ1FI
-kenyacitizentv_2|gyhQilvSkDg
+kenyacitizentv|gyhQilvSkDg
 TRTAvaz|E1rnoNh89vs
 bbcnewsarabic|O1pGmVtj2Y8
 aljazeeradocumentary|TiPYdMXt_XI
@@ -243,8 +245,7 @@ TheIslandwithBearGrylls|
 channelnewsasia|XWq5kBlakcQ
 CBCNews|5vfaDsMhCF4
 CNBC|9NyxcX3rhQs
-EnjoyRelaxation-jz7gi_1|ennd2EhRrfA
-EnjoyRelaxation-jz7gi_2|LeJ5ef6oQpI
+EnjoyRelaxation-jz7gi|LeJ5ef6oQpI
 SaudiNewsTV|yYJjtr3fbZE
 ravenhallmusic|HucCIcDjLkw
 ABC7|s3iVFJoxrYc
@@ -256,9 +257,7 @@ tele2_haber|
 tarihinarkaodasitv|Ap7-d2tnoAc
 SyriaTelevision|h6cB5IUmVF0
 medyahabertv8|kyJf0mXuJ9A
-KOREAarirangTV_1|sUGBkI7vHA4
-KOREAarirangTV_2|IYuujT-JTto
-KOREAarirangTV_3|hvVlyZ5GiE8
+KOREAarirangTV|hvVlyZ5GiE8
 Foxweather|wt6SIE7BXS8
 weathernation|3dDyjHc8DkA
 stormpower4617_1|dQW8xLOf_CU
@@ -302,8 +301,9 @@ fukuokatncnews_1|CzgSFUAbE9s
 fukuokatncnews_2|NokinTfqIaM
 fukuokatncnews_3|A76bj7NZSs0
 fukuokatncnews_4|p326sZfmwHM
-KBCnewsCH_1|4hpUbFP13-M
-KBCnewsCH_2|8RyR0J8zbbU
+KBCnewsCH_1|uuMhOREzUYA
+KBCnewsCH_2|4hpUbFP13-M
+KBCnewsCH_3|8RyR0J8zbbU
 ForcesOfNature|JZo9vbEHkjM
 ntv|pqq5c6k70kk
 bkmonline|ncRUrQ7_DQU
