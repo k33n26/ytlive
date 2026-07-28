@@ -3,9 +3,11 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|5SlT_WQkyFA
 guldurguldurtv|uzVE5VTNZHY
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|wVY_DPeEB08
-Halktvkanali_2|jHMsvYrf-UA
-Sozcutelevizyonu_1|bFZHQrxjB-k
+Halktvkanali_1|eBthQ3gbrpk
+Halktvkanali_2|C2cqK381RoQ
+Halktvkanali_3|s9zQMotNArM
+Halktvkanali_4|jHMsvYrf-UA
+Sozcutelevizyonu_1|ujIWeQVcCl0
 Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
 KemalSunalFilmleriveSahneleri|VkXvDzJyUQs
@@ -48,8 +50,9 @@ KurtlarVadisi|4QICVoMeA4s
 ShauntheSheepOfficial|j6Mo4ZbQ5Yo
 Behzatc.|qcR-HPtZkJQ
 ASpor|-zSaswVrQ_M
-cnnturk_1|ZxAr1LubD4Y
-cnnturk_2|6N8_r2uwLEc
+cnnturk_1|Ch7F_QnGfFU
+cnnturk_2|ZxAr1LubD4Y
+cnnturk_3|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|YSFRjJdKigU
 Ahaber_1|WI8dXiMKvZw
@@ -60,8 +63,7 @@ haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
 haberturktv_4|RNVNlJSUFoE
-haberglobal_1|FSDkj1qyhLI
-haberglobal_2|EqoCJ8BPxtE
+haberglobal|EqoCJ8BPxtE
 FilmAtolyesi|mq4GiHzxZwk
 MiParaisoVision_1|z_fIj1vMuNU
 MiParaisoVision_2|GaWiUYMuFfk
@@ -93,8 +95,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|D6hO1YbX6Jc
 trthaber|vjNZVmImcxg
-tgrthaber_1|uT1HNCTa3jc
-tgrthaber_2|WX29nlgdqho
+tgrthaber|WX29nlgdqho
 bloomberght|hHSmBJk6w0c
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -139,7 +140,7 @@ EKOTURKTV|HrEa2qWSnN0
 Taff-Pictures|iNHtY4hzt3c
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|PbAhsJ0mDbs
+SkyNews_1|EqKtuGvsgmU
 SkyNews_2|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
@@ -165,7 +166,8 @@ ABCNews|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV|Gcxkjxhbhk8
+ulusalkanalTV_1|I2k9N6G7-sw
+ulusalkanalTV_2|Gcxkjxhbhk8
 CGTNEurope_1|nEdIS7eCfDE
 CGTNEurope_2|_6dRRfnYJws
 LiveNow24H_1|vNVp6bxkL1c
@@ -252,10 +254,10 @@ EnjoyRelaxation-jz7gi|LeJ5ef6oQpI
 SaudiNewsTV|yYJjtr3fbZE
 ravenhallmusic|_qwUrtTVBK8
 ABC7|s3iVFJoxrYc
-KozaTv_1|IlswohydIkw
+KozaTv_1|oAE3ezC5nHw
 KozaTv_2|0TBY2WtWW7g
 ankarabbld|2fy_rq0Eur8
-Nilradyotv|WPa5GVhIrXc
+Nilradyotv|ntpp86hGZBY
 mkhabertv|H_r2ZGng_VU
 tele2_haber|6xYUdfkJm3M
 tarihinarkaodasitv|Ap7-d2tnoAc
@@ -354,8 +356,6 @@ CanlıTürkDizileri_5|3EM-Nkj5WjU
 CanlıTürkDizileri_6|m9ji-sx_ry0
 CanlıTürkDizileri_7|OhvExnl3bZQ
 CanlıTürkDizileri_8|sfgH3ituhVk
-CanlıTürkDizileri_9|1CnmUvkFPYU
-CanlıTürkDizileri_10|9UxFhP1kkKY
 SportsDigitale|iKzyT4f67d4
 bobross_thejoyofpainting|1SLT1OEX3SU
 Bloomberg-News|DxmDPrfinXY
