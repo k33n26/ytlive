@@ -162,8 +162,7 @@ tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
 ulusalkanalTV|Gcxkjxhbhk8
 CGTNEurope_1|w1gtTwloSic
-CGTNEurope_2|lLsdH2MDbK0
-CGTNEurope_3|_6dRRfnYJws
+CGTNEurope_2|_6dRRfnYJws
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
 globalnewstw_1|1my2Dwi8mhY
@@ -198,7 +197,8 @@ RhythmEmotion68_5|mX35sECE--I
 RhythmEmotion68_6|va4BD7pGCPc
 RhythmEmotion68_7|ItoNVjSmkx0
 RhythmEmotion68_8|q9iTGiUtYik
-CNNIDOFFICIAL|PDDOkUq33Sw
+CNNIDOFFICIAL_1|wvmpqBHr5s0
+CNNIDOFFICIAL_2|PDDOkUq33Sw
 12KScenicRelaxation_1|2FTbljN_fjY
 12KScenicRelaxation_2|WmVLjcqJBFg
 12KScenicRelaxation_3|Ttaep72wcNs
@@ -249,7 +249,8 @@ EnjoyRelaxation-jz7gi_1|BlAlDmxcNZ4
 EnjoyRelaxation-jz7gi_2|LeJ5ef6oQpI
 SaudiNewsTV|yYJjtr3fbZE
 ravenhallmusic|_qwUrtTVBK8
-ABC7|s3iVFJoxrYc
+ABC7_1|Lb_wUioKJa0
+ABC7_2|s3iVFJoxrYc
 KozaTv|0TBY2WtWW7g
 ankarabbld|2fy_rq0Eur8
 Nilradyotv|0bMo-TTunw8
@@ -302,10 +303,9 @@ fukuokatncnews_1|CzgSFUAbE9s
 fukuokatncnews_2|NokinTfqIaM
 fukuokatncnews_3|A76bj7NZSs0
 fukuokatncnews_4|p326sZfmwHM
-KBCnewsCH_1|YxM9Xl51F68
-KBCnewsCH_2|uuMhOREzUYA
-KBCnewsCH_3|4hpUbFP13-M
-KBCnewsCH_4|8RyR0J8zbbU
+KBCnewsCH_1|uuMhOREzUYA
+KBCnewsCH_2|4hpUbFP13-M
+KBCnewsCH_3|8RyR0J8zbbU
 ForcesOfNature_1|jzyIPX9pO8w
 ForcesOfNature_2|JZo9vbEHkjM
 ntv|pqq5c6k70kk
