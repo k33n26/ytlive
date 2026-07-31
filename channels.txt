@@ -3,11 +3,8 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|uzVE5VTNZHY
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|viOlaq8Jpu4
-Halktvkanali_2|jHMsvYrf-UA
-Sozcutelevizyonu_1|i2eMDJFog4o
-Sozcutelevizyonu_2|kUjOiUlwAk4
-Sozcutelevizyonu_3|ztmY_cCtUl0
+Halktvkanali|jHMsvYrf-UA
+Sozcutelevizyonu|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
 KemalSunalFilmleriveSahneleri|VkXvDzJyUQs
 arzufilm1964|RqegY0WKtZA
@@ -51,9 +48,8 @@ KurtlarVadisi|4QICVoMeA4s
 ShauntheSheepOfficial|j6Mo4ZbQ5Yo
 Behzatc.|qcR-HPtZkJQ
 ASpor|-zSaswVrQ_M
-cnnturk_1|2ZlbneX2Ly4
-cnnturk_2|oAzT8NQkjm8
-cnnturk_3|6N8_r2uwLEc
+cnnturk_1|oAzT8NQkjm8
+cnnturk_2|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|YSFRjJdKigU
 Ahaber_1|WYOuRTCUQn4
@@ -72,8 +68,7 @@ UltimateNatureDocs_2|JVXC4DrH6PA
 kanal7tvcanli|joyCGR0dAQc
 YirmidortTV_1|6B-nPOdP720
 YirmidortTV_2|qFKEi2BqHYc
-tv100_1|dgHPbKxId7U
-tv100_2|4WSvLRk83-c
+tv100|4WSvLRk83-c
 MuhtesemGumballDunyasi|9LDR3lHACKM
 Kukuli_1|35V5umD3dTA
 Kukuli_2|il-6oO1woek
@@ -94,8 +89,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|-ZyWaolYooU
 trthaber|vjNZVmImcxg
-tgrthaber_1|52SsA-DVmgw
-tgrthaber_2|WX29nlgdqho
+tgrthaber|WX29nlgdqho
 bloomberght|hHSmBJk6w0c
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -261,8 +255,7 @@ tele2_haber|6xYUdfkJm3M
 tarihinarkaodasitv|Ap7-d2tnoAc
 SyriaTelevision|h6cB5IUmVF0
 medyahabertv8|kyJf0mXuJ9A
-KOREAarirangTV_1|_bGXRvem0fg
-KOREAarirangTV_2|hvVlyZ5GiE8
+KOREAarirangTV|hvVlyZ5GiE8
 Foxweather|wt6SIE7BXS8
 weathernation|3dDyjHc8DkA
 stormpower4617_1|dQW8xLOf_CU
