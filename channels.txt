@@ -61,9 +61,8 @@ haberturktv_3|CPXn_5nTtao
 haberturktv_4|RNVNlJSUFoE
 haberglobal|EqoCJ8BPxtE
 FilmAtolyesi|mq4GiHzxZwk
-MiParaisoVision_1|z_fIj1vMuNU
-MiParaisoVision_2|GaWiUYMuFfk
-MiParaisoVision_3|VABzf7Ig4l4
+MiParaisoVision_1|GaWiUYMuFfk
+MiParaisoVision_2|VABzf7Ig4l4
 UltimateNatureDocs_1|i6DH-eLlLjo
 UltimateNatureDocs_2|JVXC4DrH6PA
 kanal7tvcanli|joyCGR0dAQc
@@ -135,8 +134,7 @@ EKOTURKTV|HrEa2qWSnN0
 Taff-Pictures|iNHtY4hzt3c
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|E-n0QrmTo4k
-SkyNews_2|YDvsBbKfLPA
+SkyNews|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|A-0jrP7Cd0M
