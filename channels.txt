@@ -47,9 +47,8 @@ KurtlarVadisi|4QICVoMeA4s
 ShauntheSheepOfficial|j6Mo4ZbQ5Yo
 Behzatc.|qcR-HPtZkJQ
 ASpor|-zSaswVrQ_M
-cnnturk_1|JsB8E1I8SFA
-cnnturk_2|oAzT8NQkjm8
-cnnturk_3|6N8_r2uwLEc
+cnnturk_1|oAzT8NQkjm8
+cnnturk_2|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|YSFRjJdKigU
 Ahaber_1|WYOuRTCUQn4
@@ -60,8 +59,7 @@ haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
 haberturktv_4|RNVNlJSUFoE
-haberglobal_1|BEBbC-9yxFI
-haberglobal_2|EqoCJ8BPxtE
+haberglobal|EqoCJ8BPxtE
 FilmAtolyesi|mq4GiHzxZwk
 MiParaisoVision|VABzf7Ig4l4
 UltimateNatureDocs_1|i6DH-eLlLjo
@@ -69,8 +67,7 @@ UltimateNatureDocs_2|JVXC4DrH6PA
 kanal7tvcanli|joyCGR0dAQc
 YirmidortTV_1|6B-nPOdP720
 YirmidortTV_2|qFKEi2BqHYc
-tv100_1|cgzz4b7UmVg
-tv100_2|4WSvLRk83-c
+tv100|4WSvLRk83-c
 MuhtesemGumballDunyasi|9LDR3lHACKM
 Kukuli_1|35V5umD3dTA
 Kukuli_2|il-6oO1woek
