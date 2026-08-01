@@ -152,7 +152,8 @@ dwnews|LuKwFajn37U
 aljazeeraenglish|gCNeDWCI0vo
 France24|a47ckXKZjxI
 abcnewsaustralia|vOTiJkg1voo
-ABCNews|iipR5yUp36o
+ABCNews_1|Hw2TWqvEcpA
+ABCNews_2|iipR5yUp36o
 markets_1|wOyk8BhDPkE
 markets_2|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
@@ -249,8 +250,8 @@ ravenhallmusic|_qwUrtTVBK8
 ABC7|s3iVFJoxrYc
 KozaTv|0TBY2WtWW7g
 ankarabbld|2fy_rq0Eur8
-Nilradyotv|jBwlDmIeFow
-mkhabertv|Up5BWZluz0M
+Nilradyotv|vr4A19-0xtQ
+mkhabertv|nV1_yvaU9ug
 tele2_haber|6xYUdfkJm3M
 tarihinarkaodasitv|Ap7-d2tnoAc
 SyriaTelevision|h6cB5IUmVF0
@@ -351,7 +352,7 @@ CanlıTürkDizileri_7|OhvExnl3bZQ
 CanlıTürkDizileri_8|sfgH3ituhVk
 CanlıTürkDizileri_9|1CnmUvkFPYU
 CanlıTürkDizileri_10|9UxFhP1kkKY
-SportsDigitale|HxIxMkY1HKE
+SportsDigitale|vmEyNu9FbsM
 bobross_thejoyofpainting|1SLT1OEX3SU
 Bloomberg-News|DxmDPrfinXY
 incitaneleribkm|73lwpqloExo
