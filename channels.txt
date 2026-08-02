@@ -54,7 +54,8 @@ NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|YSFRjJdKigU
 Ahaber_1|WYOuRTCUQn4
 Ahaber_2|Z2GwHVIHxSE
-liderhabertv|GMyOsTfSt8E
+liderhabertv_1|4Ec9TkVSrzI
+liderhabertv_2|GMyOsTfSt8E
 krtcanli|qLgOv5suNpI
 haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
@@ -130,7 +131,7 @@ AltıÜstüİstanbul_2|6pU7QDkeVr8
 a2tv|HtnytvwXi5o
 tv2Resmi|7Pv7r55NEVw
 euronews|pykpO5kQJ98
-EKOTURKTV|R3tFcS7M0_s
+EKOTURKTV|Zm4i5m0SQRA
 Taff-Pictures|iNHtY4hzt3c
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
@@ -150,9 +151,10 @@ dwnews|LuKwFajn37U
 aljazeeraenglish|gCNeDWCI0vo
 France24|a47ckXKZjxI
 abcnewsaustralia|vOTiJkg1voo
-ABCNews_1|Hw2TWqvEcpA
+ABCNews_1|ZbitWZRPBeg
 ABCNews_2|iipR5yUp36o
-markets|QB5BNdBFujE
+markets_1|0kXPuJndNiU
+markets_2|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
 ulusalkanalTV_1|2MnRMX4Vzto
@@ -176,7 +178,7 @@ Yeraltidizisi|Dg8FKWMVm48
 Kanal7PakistanDizileri|MTbf4z9L7L8
 SfrBir|ud2lG_JySNU
 CokGuzelHareketler|Ppbi-hyO8T0
-livenowfox_1|vdK8n2gZz0Q
+livenowfox_1|fxkUdDL8Is4
 livenowfox_2|C96oohpWBGw
 warnerbrosentertainment_1|G43NInZfoPE
 warnerbrosentertainment_2|WVwP298MU7I
@@ -224,7 +226,8 @@ yesildeniztrt1|DKbXb7x38_Y
 AskMemnuKanalD|JpP13Wp1ke0
 zenginkizfakiroglantrt|3kTcvGWaO3Q
 CNN|GotlA1KKWoo
-kenyacitizentv|aCQN4n7FygA
+kenyacitizentv_1|hyl99x62cVE
+kenyacitizentv_2|aCQN4n7FygA
 TRTAvaz|E1rnoNh89vs
 bbcnewsarabic|O1pGmVtj2Y8
 aljazeeradocumentary|TiPYdMXt_XI
@@ -247,8 +250,8 @@ ravenhallmusic|_qwUrtTVBK8
 ABC7|s3iVFJoxrYc
 KozaTv|0TBY2WtWW7g
 ankarabbld|2fy_rq0Eur8
-Nilradyotv|JJMwGJEsQwE
-mkhabertv|XjHdS1OLzQw
+Nilradyotv|Nl3G3TqzmBg
+mkhabertv|ZDGabLBB5WU
 tele2_haber|6xYUdfkJm3M
 tarihinarkaodasitv|Ap7-d2tnoAc
 SyriaTelevision|h6cB5IUmVF0
