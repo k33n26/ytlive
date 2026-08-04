@@ -3,9 +3,8 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|uzVE5VTNZHY
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|DSwOpveNb_U
-Halktvkanali_2|jHMsvYrf-UA
-Sozcutelevizyonu_1|zIXgHu1GKHI
+Halktvkanali|jHMsvYrf-UA
+Sozcutelevizyonu_1|N9rERx2QAic
 Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
 KemalSunalFilmleriveSahneleri|VkXvDzJyUQs
@@ -54,11 +53,9 @@ cnnturk_2|oAzT8NQkjm8
 cnnturk_3|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|YSFRjJdKigU
-Ahaber_1|omcgreYj4v4
-Ahaber_2|WYOuRTCUQn4
-Ahaber_3|Z2GwHVIHxSE
-liderhabertv_1|gA59aHpViNk
-liderhabertv_2|GMyOsTfSt8E
+Ahaber_1|WYOuRTCUQn4
+Ahaber_2|Z2GwHVIHxSE
+liderhabertv|GMyOsTfSt8E
 krtcanli|qLgOv5suNpI
 haberturktv_1|h4-BmhaoHmI
 haberturktv_2|WJ1H7QvgXSk
@@ -66,8 +63,7 @@ haberturktv_3|s4KIyYkwiM0
 haberturktv_4|CJHVSYHpVvc
 haberturktv_5|CPXn_5nTtao
 haberturktv_6|RNVNlJSUFoE
-haberglobal_1|l4gCu4ed11s
-haberglobal_2|EqoCJ8BPxtE
+haberglobal|EqoCJ8BPxtE
 FilmAtolyesi|mq4GiHzxZwk
 MiParaisoVision_1|NLTESDVkijw
 MiParaisoVision_2|VABzf7Ig4l4
@@ -76,8 +72,7 @@ UltimateNatureDocs_2|JVXC4DrH6PA
 kanal7tvcanli|joyCGR0dAQc
 YirmidortTV_1|6B-nPOdP720
 YirmidortTV_2|qFKEi2BqHYc
-tv100_1|BRmqkG-Rx1E
-tv100_2|4WSvLRk83-c
+tv100|4WSvLRk83-c
 MuhtesemGumballDunyasi|9LDR3lHACKM
 Kukuli_1|35V5umD3dTA
 Kukuli_2|il-6oO1woek
@@ -142,7 +137,8 @@ EKOTURKTV|ofd-aweP8E8
 Taff-Pictures|iNHtY4hzt3c
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews|YDvsBbKfLPA
+SkyNews_1|iDHth3DQrhU
+SkyNews_2|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|A-0jrP7Cd0M
