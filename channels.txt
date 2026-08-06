@@ -3,9 +3,10 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|uzVE5VTNZHY
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|Kn-QVcn5XUw
-Halktvkanali_2|jHMsvYrf-UA
-Sozcutelevizyonu_1|0zCm3k50-5g
+Halktvkanali_1|JMGCmHNVKgo
+Halktvkanali_2|IRMYxDmlQ7Q
+Halktvkanali_3|jHMsvYrf-UA
+Sozcutelevizyonu_1|S6lgShgoYX0
 Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
 KemalSunalFilmleriveSahneleri|VkXvDzJyUQs
@@ -49,7 +50,7 @@ KurtlarVadisi|4QICVoMeA4s
 ShauntheSheepOfficial|j6Mo4ZbQ5Yo
 Behzatc.|qcR-HPtZkJQ
 ASpor|-zSaswVrQ_M
-cnnturk_1|B3xYVSriHCI
+cnnturk_1|8JfURCRfJzM
 cnnturk_2|oAzT8NQkjm8
 cnnturk_3|6N8_r2uwLEc
 NTV|pqq5c6k70kk
@@ -62,8 +63,7 @@ haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
 haberturktv_4|RNVNlJSUFoE
-haberglobal_1|x-1lLZ1w5uk
-haberglobal_2|EqoCJ8BPxtE
+haberglobal|EqoCJ8BPxtE
 FilmAtolyesi|mq4GiHzxZwk
 MiParaisoVision_1|NLTESDVkijw
 MiParaisoVision_2|VABzf7Ig4l4
@@ -72,7 +72,8 @@ UltimateNatureDocs_2|JVXC4DrH6PA
 kanal7tvcanli|ND1wf-WuUjM
 YirmidortTV_1|6B-nPOdP720
 YirmidortTV_2|qFKEi2BqHYc
-tv100|4WSvLRk83-c
+tv100_1|aiAnaT-RPJg
+tv100_2|4WSvLRk83-c
 MuhtesemGumballDunyasi|9LDR3lHACKM
 Kukuli_1|35V5umD3dTA
 Kukuli_2|il-6oO1woek
@@ -92,8 +93,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|C1NVBCLTFGw
 trthaber|vjNZVmImcxg
-tgrthaber_1|oWdr3pHHoMs
-tgrthaber_2|WX29nlgdqho
+tgrthaber|WX29nlgdqho
 bloomberght|r7aIeqeJ9pM
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -137,8 +137,7 @@ EKOTURKTV|d3b2vZuU84M
 Taff-Pictures|iNHtY4hzt3c
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|HZ6cB7Gogzk
-SkyNews_2|YDvsBbKfLPA
+SkyNews|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|rl0EWa5J42A
@@ -159,7 +158,8 @@ ABCNews|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV|Gcxkjxhbhk8
+ulusalkanalTV_1|cvZ7lzJGWsQ
+ulusalkanalTV_2|Gcxkjxhbhk8
 CGTNEurope_1|znzoKJ20SeY
 CGTNEurope_2|_6dRRfnYJws
 LiveNow24H_1|vNVp6bxkL1c
@@ -194,7 +194,8 @@ RhythmEmotion68_4|mX35sECE--I
 RhythmEmotion68_5|va4BD7pGCPc
 RhythmEmotion68_6|ItoNVjSmkx0
 RhythmEmotion68_7|q9iTGiUtYik
-CNNIDOFFICIAL|PDDOkUq33Sw
+CNNIDOFFICIAL_1|gPcnRkgOgG0
+CNNIDOFFICIAL_2|PDDOkUq33Sw
 12KScenicRelaxation_1|2FTbljN_fjY
 12KScenicRelaxation_2|WmVLjcqJBFg
 12KScenicRelaxation_3|Ttaep72wcNs
@@ -245,11 +246,11 @@ EnjoyRelaxation-jz7gi|LeJ5ef6oQpI
 SaudiNewsTV|yYJjtr3fbZE
 ravenhallmusic|_qwUrtTVBK8
 ABC7|s3iVFJoxrYc
-KozaTv_1|TNGz3mHRwdM
+KozaTv_1|APcFyx1k0kE
 KozaTv_2|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|o36fldoR5q0
-mkhabertv|qWIlZE2oTNM
+mkhabertv|cZye_tl7rZA
 tele2_haber|6xYUdfkJm3M
 tarihinarkaodasitv|Ap7-d2tnoAc
 SyriaTelevision|h6cB5IUmVF0
@@ -274,7 +275,7 @@ kodadikirlangic|t_sTFmAQCgQ
 kizilcikserbetidizi|QXTh9Vqzc18
 EsrefRuyadizitv|jS4yNqXITBI
 birgecemasali|b5lUIsJZjMk
-nowtvturkiye|czF2mD7r4uE
+nowtvturkiye|EXxTkr7IXEw
 Abidiziatv|jhEx9jk3wuc
 muhtesemyuzyilofficial|0dmPGl8HV3A
 diyanettv|8KOE6__ogN8
