@@ -5,7 +5,7 @@ guldurguldurtv|uzVE5VTNZHY
 tgrtbelgeseltv|32y7IEtD5OU
 Halktvkanali_1|7v0uwQmpqbg
 Halktvkanali_2|jHMsvYrf-UA
-Sozcutelevizyonu_1|BaE-m-Bv_eM
+Sozcutelevizyonu_1|6rK2i-fme8A
 Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
 KemalSunalFilmleriveSahneleri|VkXvDzJyUQs
@@ -17,8 +17,6 @@ FobosPlanet_4|cjsZyFd955U
 FobosPlanet_5|vHOv3sJWkUs
 FobosPlanet_6|soSXsuGVkqc
 FobosPlanet_7|mKCieTImjvU
-FobosPlanet_8|edKgbxcn5UA
-FobosPlanet_9|4WHshH5c-x8
 beINSPORTSTurkiye|i7UpPgxfZZ8
 avsarfilm|wJbP12jam70
 TurkFilmleri-TV|RDwGkBtCHlM
@@ -54,8 +52,8 @@ cnnturk_2|oAzT8NQkjm8
 cnnturk_3|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|YSFRjJdKigU
-Ahaber_1|nWsbFm6KXgQ
-Ahaber_2|TkcOtErflRc
+Ahaber_1|l46w3xwUOm8
+Ahaber_2|nWsbFm6KXgQ
 Ahaber_3|HVSxZ7TCqz0
 liderhabertv|KRm4U6CNxb0
 krtcanli_1|NMqr-X-vtzE
@@ -97,7 +95,8 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|FGsMH2-e9O0
 trthaber|vjNZVmImcxg
-tgrthaber|WX29nlgdqho
+tgrthaber_1|kzJTXzphz20
+tgrthaber_2|WX29nlgdqho
 bloomberght|r7aIeqeJ9pM
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -255,13 +254,11 @@ EnjoyRelaxation-jz7gi_2|LeJ5ef6oQpI
 SaudiNewsTV|yYJjtr3fbZE
 ravenhallmusic|_qwUrtTVBK8
 ABC7|s3iVFJoxrYc
-KozaTv_1|D-jSvcvgoKs
-KozaTv_2|0TBY2WtWW7g
+KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|hP1o-jGniaM
 mkhabertv|RwvRRwSoSgc
 tele2_haber_1|tg13PdUUmhk
-tele2_haber_2|kUw4pTzc19o
 tarihinarkaodasitv|Ap7-d2tnoAc
 SyriaTelevision|h6cB5IUmVF0
 medyahabertv8|kyJf0mXuJ9A
@@ -338,7 +335,7 @@ SavasciDizi|v7ZrRnHfgY8
 RuhunDuymazDizi|F0yothIQ7Nc
 GeceninKralicesiOfficial|JRScKcQGIlc
 YabaniDiziResmi|Pg2Isq1Secw
-KaderiminYazildigiGun|fDBJ7unT7Pc
+KaderiminYazildigiGun|F8fLPOOiFYA
 DuyBeniDizi|gATlJH4_OJc
 SendenDahaGüzel|SOU-olw9w9M
 SokaginCocuklariDizi|4Va_ylUt0AQ
