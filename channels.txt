@@ -93,8 +93,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|FGsMH2-e9O0
 trthaber|vjNZVmImcxg
-tgrthaber_1|zkjX75NVNkE
-tgrthaber_2|WX29nlgdqho
+tgrthaber|WX29nlgdqho
 bloomberght|r7aIeqeJ9pM
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -139,8 +138,7 @@ Taff-Pictures|iNHtY4hzt3c
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
 SkyNews_1|1pTR2hBvdmM
-SkyNews_2|nhNtWlExxKM
-SkyNews_3|YDvsBbKfLPA
+SkyNews_2|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|rl0EWa5J42A
@@ -161,7 +159,8 @@ ABCNews|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV|Gcxkjxhbhk8
+ulusalkanalTV_1|eKamP3Hom1k
+ulusalkanalTV_2|Gcxkjxhbhk8
 CGTNEurope_1|CSQa2Gek398
 CGTNEurope_2|oIS6UuOa1Zk
 CGTNEurope_3|znzoKJ20SeY
@@ -198,7 +197,8 @@ RhythmEmotion68_4|mX35sECE--I
 RhythmEmotion68_5|va4BD7pGCPc
 RhythmEmotion68_6|ItoNVjSmkx0
 RhythmEmotion68_7|q9iTGiUtYik
-CNNIDOFFICIAL|PDDOkUq33Sw
+CNNIDOFFICIAL_1|SxPxGO-uP9M
+CNNIDOFFICIAL_2|PDDOkUq33Sw
 12KScenicRelaxation_1|2FTbljN_fjY
 12KScenicRelaxation_2|WmVLjcqJBFg
 12KScenicRelaxation_3|Ttaep72wcNs
@@ -249,7 +249,7 @@ EnjoyRelaxation-jz7gi|LeJ5ef6oQpI
 SaudiNewsTV|yYJjtr3fbZE
 ravenhallmusic|_qwUrtTVBK8
 ABC7|s3iVFJoxrYc
-KozaTv_1|y_j8IBA1DOc
+KozaTv_1|k7PHuHEF_Kg
 KozaTv_2|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|aKHQKTLOqFg
