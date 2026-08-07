@@ -58,11 +58,10 @@ Ahaber_3|HVSxZ7TCqz0
 liderhabertv|KRm4U6CNxb0
 krtcanli_1|NMqr-X-vtzE
 krtcanli_2|qLgOv5suNpI
-haberturktv_1|THLzsV85vaY
-haberturktv_2|s4KIyYkwiM0
-haberturktv_3|CJHVSYHpVvc
-haberturktv_4|CPXn_5nTtao
-haberturktv_5|RNVNlJSUFoE
+haberturktv_1|s4KIyYkwiM0
+haberturktv_2|CJHVSYHpVvc
+haberturktv_3|CPXn_5nTtao
+haberturktv_4|RNVNlJSUFoE
 haberglobal_1|lGBEq61yZnA
 haberglobal_2|EqoCJ8BPxtE
 FilmAtolyesi|mq4GiHzxZwk
@@ -162,8 +161,7 @@ ABCNews_2|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV_1|m80fYobZLhs
-ulusalkanalTV_2|Gcxkjxhbhk8
+ulusalkanalTV|Gcxkjxhbhk8
 CGTNEurope_1|UM5eVvq_mGA
 CGTNEurope_2|CSQa2Gek398
 CGTNEurope_3|oIS6UuOa1Zk
@@ -192,8 +190,7 @@ EDHOatv|F0yeYa-SSDc
 ntvkenyaonline|6Qj6kqBhflc
 REALTVXEBERLE|u90ZgtMAyXU
 KurulusOsman|PobdnBU-QQE
-NewsmaxTV_1|WaJBWD6okqQ
-NewsmaxTV_2|RNNFrG4KbH0
+NewsmaxTV|RNNFrG4KbH0
 EmretKomutanimOfficial|vcIIT-674aM
 RhythmEmotion68_1|9ODIw6xBkC0
 RhythmEmotion68_2|iHJL5tqdxG4
