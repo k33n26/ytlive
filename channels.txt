@@ -56,8 +56,7 @@ Ahaber_1|l46w3xwUOm8
 Ahaber_2|nWsbFm6KXgQ
 Ahaber_3|HVSxZ7TCqz0
 liderhabertv|KRm4U6CNxb0
-krtcanli_1|NMqr-X-vtzE
-krtcanli_2|qLgOv5suNpI
+krtcanli|qLgOv5suNpI
 haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
@@ -94,8 +93,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|FGsMH2-e9O0
 trthaber|vjNZVmImcxg
-tgrthaber_1|kzJTXzphz20
-tgrthaber_2|WX29nlgdqho
+tgrthaber|WX29nlgdqho
 bloomberght|r7aIeqeJ9pM
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
