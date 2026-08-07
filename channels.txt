@@ -5,7 +5,8 @@ guldurguldurtv|uzVE5VTNZHY
 tgrtbelgeseltv|32y7IEtD5OU
 Halktvkanali_1|xIQvDtKPCWk
 Halktvkanali_2|jHMsvYrf-UA
-Sozcutelevizyonu|ztmY_cCtUl0
+Sozcutelevizyonu_1|pjlenyekcNs
+Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
 KemalSunalFilmleriveSahneleri|VkXvDzJyUQs
 arzufilm1964|RqegY0WKtZA
@@ -53,8 +54,9 @@ cnnturk_2|oAzT8NQkjm8
 cnnturk_3|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|YSFRjJdKigU
-Ahaber_1|TkcOtErflRc
-Ahaber_2|HVSxZ7TCqz0
+Ahaber_1|nWsbFm6KXgQ
+Ahaber_2|TkcOtErflRc
+Ahaber_3|HVSxZ7TCqz0
 liderhabertv_1|v1PE-vV0x98
 liderhabertv_2|KRm4U6CNxb0
 krtcanli|qLgOv5suNpI
@@ -79,7 +81,7 @@ Kukuli_2|il-6oO1woek
 Kukuli_3|Eio5YhPHnKQ
 Kukuli_4|-vZhzeEQ_jI
 Kukuli_5|T4znQ-gcZhg
-KralSakirResmi|NfvNFa6LNDI
+KralSakirResmi|Cp84HfZoZ5w
 TalkingFriendsTR|LlsGJTxTS6o
 Kidstvturke|JwGY383ZexI
 MotherNatureMelodies|nl-zb4hmi_A
@@ -101,7 +103,7 @@ ArkaSradakilerTV|VmXNuY5Sj5g
 Cukur|JQHCELdMYh0
 niloyatv|BxtjAHaSqho
 DiyanetCocuk|_VsMIRdOtXI
-LimonZeytin|BG6SEhyLNRk
+LimonZeytin|IqijsdzVe9E
 KüçükKamyonLeo_1|XuU49nBIHIA
 KüçükKamyonLeo_2|qsc0XhPUVtk
 KüçükKamyonLeo_3|3yyYXv_76rc
@@ -159,8 +161,7 @@ ABCNews_2|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV_1|eKamP3Hom1k
-ulusalkanalTV_2|Gcxkjxhbhk8
+ulusalkanalTV|Gcxkjxhbhk8
 CGTNEurope_1|UM5eVvq_mGA
 CGTNEurope_2|CSQa2Gek398
 CGTNEurope_3|oIS6UuOa1Zk
@@ -250,7 +251,7 @@ EnjoyRelaxation-jz7gi_2|LeJ5ef6oQpI
 SaudiNewsTV|yYJjtr3fbZE
 ravenhallmusic|_qwUrtTVBK8
 ABC7|s3iVFJoxrYc
-KozaTv_1|k7PHuHEF_Kg
+KozaTv_1|NLhoDCHCgIU
 KozaTv_2|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|aKHQKTLOqFg
@@ -267,10 +268,11 @@ stormpower4617_2|IV3Fnoaljfs
 stormpower4617_3|5awsvTeNMQQ
 stormpower4617_4|Pd_QZOtHhIs
 stormpower4617_5|A2JdCF7V6hY
-NaimatIslamic_1|k86AJ9R-Qik
-NaimatIslamic_2|9EKM7lIYYRw
-NaimatIslamic_3|E7ZkycfbfEw
-NaimatIslamic_4|BtMUUgApnPs
+NaimatIslamic_1|5mcyblPaIKs
+NaimatIslamic_2|k86AJ9R-Qik
+NaimatIslamic_3|9EKM7lIYYRw
+NaimatIslamic_4|E7ZkycfbfEw
+NaimatIslamic_5|BtMUUgApnPs
 ClassicMrBean|XQLEvieRMj4
 animalplanet_1|QlhY8Ecxs28
 animalplanet_2|dN00xOmi1Rg
@@ -340,7 +342,7 @@ SokaginCocuklariDizi|4Va_ylUt0AQ
 sevdigimsensinresmi|prmn3E457Go
 KUZEYGUNEYKANALDOFFICIAL|Uz8VzHVxmko
 MasumiyetDizi|LIEoeiyIRQk
-grafi2000cocuk|Y119o-T88OI
+grafi2000cocuk|FQShfJIB8Z0
 yagosabuncuoglu|6zv5Ls2tIwA
 KuzeyYildiziDizi|swPyQjCg6Mc
 CanlıTürkDizileri_1|7-vnhkX7ZlA
