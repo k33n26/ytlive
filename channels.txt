@@ -154,8 +154,7 @@ aljazeeraenglish|gCNeDWCI0vo
 France24|a47ckXKZjxI
 abcnewsaustralia|vOTiJkg1voo
 ABCNews|iipR5yUp36o
-markets_1|RifXo9uvkmM
-markets_2|QB5BNdBFujE
+markets|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
 ulusalkanalTV|Gcxkjxhbhk8
@@ -248,7 +247,9 @@ ravenhallmusic|_qwUrtTVBK8
 ABC7|s3iVFJoxrYc
 KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
-Nilradyotv|4ieqfLP-ajI
+Nilradyotv_1|VLVIWw2FW1Y
+Nilradyotv_2|iwfEoROxXDE
+Nilradyotv_3|4ieqfLP-ajI
 mkhabertv|ZqO-aXSGGOo
 tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
