@@ -3,8 +3,7 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|uzVE5VTNZHY
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|j6-sgIMCKgE
-Halktvkanali_2|jHMsvYrf-UA
+Halktvkanali|jHMsvYrf-UA
 Sozcutelevizyonu_1|hv3QboGLuGE
 Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
@@ -48,9 +47,10 @@ KurtlarVadisi|4QICVoMeA4s
 ShauntheSheepOfficial|j6Mo4ZbQ5Yo
 Behzatc.|qcR-HPtZkJQ
 ASpor|-zSaswVrQ_M
-cnnturk_1|ooh9i89HleE
-cnnturk_2|oAzT8NQkjm8
-cnnturk_3|6N8_r2uwLEc
+cnnturk_1|wvSDBTs7RQg
+cnnturk_2|ooh9i89HleE
+cnnturk_3|oAzT8NQkjm8
+cnnturk_4|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|YSFRjJdKigU
 Ahaber_1|nWsbFm6KXgQ
@@ -88,7 +88,8 @@ apara|Fas1VhgP8Uk
 cnbce|aZ3ycSbSYBA
 kralmuzik_1|O_-NjHABJIg
 kralmuzik_2|6He9sFxFv8Y
-htspor|gcWaPe_LBMc
+htspor_1|USkt_4g0Z74
+htspor_2|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|FGsMH2-e9O0
 trthaber|vjNZVmImcxg
