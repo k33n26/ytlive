@@ -3,10 +3,8 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|uzVE5VTNZHY
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|iSvPzGXtF_Q
-Halktvkanali_2|jHMsvYrf-UA
-Sozcutelevizyonu_1|HpgMR3vLlYY
-Sozcutelevizyonu_2|ztmY_cCtUl0
+Halktvkanali|jHMsvYrf-UA
+Sozcutelevizyonu|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
 KemalSunalFilmleriveSahneleri|VkXvDzJyUQs
 arzufilm1964|RqegY0WKtZA
@@ -49,8 +47,9 @@ KurtlarVadisi|4QICVoMeA4s
 ShauntheSheepOfficial|j6Mo4ZbQ5Yo
 Behzatc.|qcR-HPtZkJQ
 ASpor|-zSaswVrQ_M
-cnnturk_1|oAzT8NQkjm8
-cnnturk_2|6N8_r2uwLEc
+cnnturk_1|q7plhWXi4Ik
+cnnturk_2|oAzT8NQkjm8
+cnnturk_3|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|YSFRjJdKigU
 Ahaber_1|nWsbFm6KXgQ
@@ -157,8 +156,7 @@ markets_1|RifXo9uvkmM
 markets_2|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV_1|H1ofsYO7B3Q
-ulusalkanalTV_2|Gcxkjxhbhk8
+ulusalkanalTV|Gcxkjxhbhk8
 CGTNEurope_1|QZPyRAzCd7E
 CGTNEurope_2|oIS6UuOa1Zk
 CGTNEurope_3|_6dRRfnYJws
@@ -336,7 +334,7 @@ sevdigimsensinresmi|prmn3E457Go
 KUZEYGUNEYKANALDOFFICIAL|Uz8VzHVxmko
 MasumiyetDizi|LIEoeiyIRQk
 grafi2000cocuk|FQShfJIB8Z0
-yagosabuncuoglu|6zv5Ls2tIwA
+yagosabuncuoglu|ylDAiAGv04I
 KuzeyYildiziDizi|swPyQjCg6Mc
 CanlıTürkDizileri_1|7-vnhkX7ZlA
 SportsDigitale|77sAJ4eGKRE
