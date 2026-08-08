@@ -49,7 +49,7 @@ KurtlarVadisi|4QICVoMeA4s
 ShauntheSheepOfficial|vvrRqhZZsrU
 Behzatc.|qcR-HPtZkJQ
 ASpor|-zSaswVrQ_M
-cnnturk_1|q7plhWXi4Ik
+cnnturk_1|EAKgULlL-W0
 cnnturk_2|oAzT8NQkjm8
 cnnturk_3|6N8_r2uwLEc
 NTV|pqq5c6k70kk
@@ -75,8 +75,7 @@ UltimateNatureDocs_2|JVXC4DrH6PA
 kanal7tvcanli|ND1wf-WuUjM
 YirmidortTV_1|6B-nPOdP720
 YirmidortTV_2|qFKEi2BqHYc
-tv100_1|nUXCnyw_akA
-tv100_2|4WSvLRk83-c
+tv100|4WSvLRk83-c
 MuhtesemGumballDunyasi|9LDR3lHACKM
 Kukuli_1|35V5umD3dTA
 Kukuli_2|il-6oO1woek
@@ -164,7 +163,8 @@ ABCNews_2|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV|Gcxkjxhbhk8
+ulusalkanalTV_1|skJV658rI_k
+ulusalkanalTV_2|Gcxkjxhbhk8
 CGTNEurope_1|QZPyRAzCd7E
 CGTNEurope_2|oIS6UuOa1Zk
 CGTNEurope_3|_6dRRfnYJws
