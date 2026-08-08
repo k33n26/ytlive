@@ -3,12 +3,10 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|uzVE5VTNZHY
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|hAWpEB5zHdA
-Halktvkanali_2|iSvPzGXtF_Q
-Halktvkanali_3|jHMsvYrf-UA
-Sozcutelevizyonu_1|BZe4tcFBmO8
-Sozcutelevizyonu_2|HpgMR3vLlYY
-Sozcutelevizyonu_3|ztmY_cCtUl0
+Halktvkanali_1|iSvPzGXtF_Q
+Halktvkanali_2|jHMsvYrf-UA
+Sozcutelevizyonu_1|HpgMR3vLlYY
+Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
 KemalSunalFilmleriveSahneleri|VkXvDzJyUQs
 arzufilm1964|RqegY0WKtZA
@@ -51,9 +49,8 @@ KurtlarVadisi|4QICVoMeA4s
 ShauntheSheepOfficial|j6Mo4ZbQ5Yo
 Behzatc.|qcR-HPtZkJQ
 ASpor|-zSaswVrQ_M
-cnnturk_1|ooh9i89HleE
-cnnturk_2|oAzT8NQkjm8
-cnnturk_3|6N8_r2uwLEc
+cnnturk_1|oAzT8NQkjm8
+cnnturk_2|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|YSFRjJdKigU
 Ahaber_1|nWsbFm6KXgQ
@@ -251,7 +248,7 @@ ravenhallmusic|_qwUrtTVBK8
 ABC7|s3iVFJoxrYc
 KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
-Nilradyotv|hP1o-jGniaM
+Nilradyotv|EO4qWVieDMU
 mkhabertv|hp53dqcXC_U
 tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
@@ -349,4 +346,4 @@ incitaneleribkm|73lwpqloExo
 OnlarTV|RfqmS7UEbBw
 MucizeDoktor|pqhw5FHPGro
 fenerbahce|ZphmViLA4VE
-sifirtv|RBaEZDAnajc
+sifirtv|jAjFby3Qe90
