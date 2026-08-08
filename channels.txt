@@ -48,8 +48,9 @@ KurtlarVadisi|4QICVoMeA4s
 ShauntheSheepOfficial|j6Mo4ZbQ5Yo
 Behzatc.|qcR-HPtZkJQ
 ASpor|-zSaswVrQ_M
-cnnturk_1|oAzT8NQkjm8
-cnnturk_2|6N8_r2uwLEc
+cnnturk_1|ooh9i89HleE
+cnnturk_2|oAzT8NQkjm8
+cnnturk_3|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|YSFRjJdKigU
 Ahaber_1|nWsbFm6KXgQ
@@ -60,7 +61,8 @@ haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
 haberturktv_4|RNVNlJSUFoE
-haberglobal|EqoCJ8BPxtE
+haberglobal_1|a98Rvd65UTw
+haberglobal_2|EqoCJ8BPxtE
 FilmAtolyesi|mq4GiHzxZwk
 MiParaisoVision_1|NLTESDVkijw
 MiParaisoVision_2|VABzf7Ig4l4
