@@ -72,7 +72,8 @@ UltimateNatureDocs_2|JVXC4DrH6PA
 kanal7tvcanli|ND1wf-WuUjM
 YirmidortTV_1|6B-nPOdP720
 YirmidortTV_2|qFKEi2BqHYc
-tv100|4WSvLRk83-c
+tv100_1|nUXCnyw_akA
+tv100_2|4WSvLRk83-c
 MuhtesemGumballDunyasi|9LDR3lHACKM
 Kukuli_1|35V5umD3dTA
 Kukuli_2|il-6oO1woek
@@ -185,7 +186,7 @@ warnerbrosentertainment_1|G43NInZfoPE
 warnerbrosentertainment_2|WVwP298MU7I
 EDHOatv|F0yeYa-SSDc
 ntvkenyaonline|6Qj6kqBhflc
-REALTVXEBERLE|vjI6TNDWvaE
+REALTVXEBERLE|gNZNBAViEpw
 KurulusOsman|PobdnBU-QQE
 NewsmaxTV|RNNFrG4KbH0
 EmretKomutanimOfficial|vcIIT-674aM
@@ -250,8 +251,7 @@ ravenhallmusic|_qwUrtTVBK8
 ABC7|s3iVFJoxrYc
 KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
-Nilradyotv_1|iwfEoROxXDE
-Nilradyotv_2|4ieqfLP-ajI
+Nilradyotv|4ieqfLP-ajI
 mkhabertv|ZqO-aXSGGOo
 tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
