@@ -58,8 +58,7 @@ Ahaber_1|p_3gzJJ3XqI
 Ahaber_2|nWsbFm6KXgQ
 Ahaber_3|HVSxZ7TCqz0
 liderhabertv|KRm4U6CNxb0
-krtcanli_1|j8aJ0z8wQkI
-krtcanli_2|qLgOv5suNpI
+krtcanli|qLgOv5suNpI
 haberturktv_1|T3pk5XpyNVc
 haberturktv_2|s4KIyYkwiM0
 haberturktv_3|CJHVSYHpVvc
