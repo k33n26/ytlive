@@ -162,8 +162,7 @@ ABCNews_2|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV_1|wsWLYt5Bjk0
-ulusalkanalTV_2|Gcxkjxhbhk8
+ulusalkanalTV|Gcxkjxhbhk8
 CGTNEurope_1|tFkEPcfnpt8
 CGTNEurope_2|QZPyRAzCd7E
 CGTNEurope_3|oIS6UuOa1Zk
@@ -355,4 +354,11 @@ OnlarTV|RfqmS7UEbBw
 MucizeDoktor|pqhw5FHPGro
 fenerbahce|YvHr9RhNN_s
 sifirtv|jAjFby3Qe90
-Fireplace4K|
+Fireplace4K_1|kEMvyQkWRGA
+Fireplace4K_2|Tdan2hNPrdw
+Fireplace4K_3|A5KcDOVnzbI
+Fireplace4K_4|9uXaOyK7JWY
+Fireplace4K_5|-5k7kSe8xck
+Fireplace4K_6|mw-dGy-_rME
+Fireplace4K_7|ITBtNXd5WJs
+Fireplace4K_8|bNIt0Y-17OI
