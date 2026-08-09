@@ -55,8 +55,7 @@ NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|YSFRjJdKigU
 Ahaber_1|nWsbFm6KXgQ
 Ahaber_2|HVSxZ7TCqz0
-liderhabertv_1|hbnDONxXU4U
-liderhabertv_2|KRm4U6CNxb0
+liderhabertv|KRm4U6CNxb0
 krtcanli_1|SRqx5_xKom4
 krtcanli_2|qLgOv5suNpI
 haberturktv_1|s4KIyYkwiM0
@@ -72,7 +71,8 @@ UltimateNatureDocs_2|JVXC4DrH6PA
 kanal7tvcanli|ND1wf-WuUjM
 YirmidortTV_1|6B-nPOdP720
 YirmidortTV_2|qFKEi2BqHYc
-tv100|4WSvLRk83-c
+tv100_1|NsswHur9CeE
+tv100_2|4WSvLRk83-c
 MuhtesemGumballDunyasi|9LDR3lHACKM
 Kukuli_1|35V5umD3dTA
 Kukuli_2|il-6oO1woek
@@ -250,7 +250,7 @@ ravenhallmusic|_qwUrtTVBK8
 ABC7|s3iVFJoxrYc
 KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
-Nilradyotv|s05QFRCJu_o
+Nilradyotv|wEdjZXGLz98
 mkhabertv|CZciNVmJq0w
 tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
