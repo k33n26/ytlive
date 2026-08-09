@@ -3,8 +3,7 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|uzVE5VTNZHY
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|-TZaIURIL2M
-Halktvkanali_2|jHMsvYrf-UA
+Halktvkanali|jHMsvYrf-UA
 Sozcutelevizyonu_1|BaEUlf1PsMI
 Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
@@ -159,10 +158,9 @@ markets|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
 ulusalkanalTV|Gcxkjxhbhk8
-CGTNEurope_1|YMTsuKWU-7k
-CGTNEurope_2|QZPyRAzCd7E
-CGTNEurope_3|oIS6UuOa1Zk
-CGTNEurope_4|_6dRRfnYJws
+CGTNEurope_1|QZPyRAzCd7E
+CGTNEurope_2|oIS6UuOa1Zk
+CGTNEurope_3|_6dRRfnYJws
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
 globalnewstw_1|Ej3LQM_lTEw
@@ -184,7 +182,7 @@ warnerbrosentertainment_1|G43NInZfoPE
 warnerbrosentertainment_2|WVwP298MU7I
 EDHOatv|F0yeYa-SSDc
 ntvkenyaonline|6Qj6kqBhflc
-REALTVXEBERLE|gNZNBAViEpw
+REALTVXEBERLE|EM9PT5BP9BQ
 KurulusOsman|PobdnBU-QQE
 NewsmaxTV|RNNFrG4KbH0
 EmretKomutanimOfficial|vcIIT-674aM
