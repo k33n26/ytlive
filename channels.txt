@@ -56,7 +56,8 @@ SevkatYerimdarDizisi|YSFRjJdKigU
 Ahaber_1|1wbHg0vkVvc
 Ahaber_2|nWsbFm6KXgQ
 Ahaber_3|HVSxZ7TCqz0
-liderhabertv|KRm4U6CNxb0
+liderhabertv_1|YiOrZhRj2KA
+liderhabertv_2|KRm4U6CNxb0
 krtcanli_1|NjtlwbBAJ1g
 krtcanli_2|qLgOv5suNpI
 haberturktv_1|mEydKb-2vj4
