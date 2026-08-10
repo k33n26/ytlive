@@ -144,7 +144,8 @@ EKOTURKTV|YDxjyx8B7Vw
 Taff-Pictures|wuTOFaK5dwE
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews|YDvsBbKfLPA
+SkyNews_1|n0WPypJl8so
+SkyNews_2|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|sV2dB4P4My4
@@ -162,8 +163,9 @@ dwnews|LuKwFajn37U
 aljazeeraenglish|gCNeDWCI0vo
 France24|a47ckXKZjxI
 abcnewsaustralia|vOTiJkg1voo
-ABCNews_1|-u-tx6r0fq8
-ABCNews_2|iipR5yUp36o
+ABCNews_1|nKQrw-oBYVw
+ABCNews_2|-u-tx6r0fq8
+ABCNews_3|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
@@ -198,8 +200,7 @@ EDHOatv|F0yeYa-SSDc
 ntvkenyaonline|6Qj6kqBhflc
 REALTVXEBERLE|WZWHkAU0KYY
 KurulusOsman|PobdnBU-QQE
-NewsmaxTV_1|jnAnyn7Rgps
-NewsmaxTV_2|RNNFrG4KbH0
+NewsmaxTV|RNNFrG4KbH0
 EmretKomutanimOfficial|vcIIT-674aM
 RhythmEmotion68_1|9ODIw6xBkC0
 RhythmEmotion68_2|iHJL5tqdxG4
@@ -260,9 +261,8 @@ EnjoyRelaxation-jz7gi_2|LeJ5ef6oQpI
 SaudiNewsTV|yYJjtr3fbZE
 ravenhallmusic|_qwUrtTVBK8
 ABC7|s3iVFJoxrYc
-KozaTv_1|HRSyiVHNfzc
-KozaTv_2|LtEnctmTu38
-KozaTv_3|0TBY2WtWW7g
+KozaTv_1|LtEnctmTu38
+KozaTv_2|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|9GVDLg5BTDc
 mkhabertv|YaJAFzAMcWE
