@@ -51,9 +51,8 @@ cnnturk_1|oAzT8NQkjm8
 cnnturk_2|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|YSFRjJdKigU
-Ahaber_1|ZJtv0N-0_f4
-Ahaber_2|nWsbFm6KXgQ
-Ahaber_3|HVSxZ7TCqz0
+Ahaber_1|nWsbFm6KXgQ
+Ahaber_2|HVSxZ7TCqz0
 liderhabertv|KRm4U6CNxb0
 krtcanli|qLgOv5suNpI
 haberturktv_1|s4KIyYkwiM0
@@ -134,8 +133,7 @@ EKOTURKTV|YDxjyx8B7Vw
 Taff-Pictures|wuTOFaK5dwE
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|LqTVThl1ELk
-SkyNews_2|YDvsBbKfLPA
+SkyNews|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|sV2dB4P4My4
@@ -164,7 +162,6 @@ CGTNEurope_2|IWLeE1Q7QMA
 CGTNEurope_3|WmmeimxtVEk
 CGTNEurope_4|tFkEPcfnpt8
 CGTNEurope_5|oIS6UuOa1Zk
-CGTNEurope_6|_6dRRfnYJws
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
 globalnewstw_1|Ej3LQM_lTEw
