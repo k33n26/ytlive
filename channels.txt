@@ -3,7 +3,8 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|uzVE5VTNZHY
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali|jHMsvYrf-UA
+Halktvkanali_1|QlNeWylEN0Y
+Halktvkanali_2|jHMsvYrf-UA
 Sozcutelevizyonu|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
 KemalSunalFilmleriveSahneleri|VkXvDzJyUQs
@@ -151,8 +152,7 @@ dwnews|LuKwFajn37U
 aljazeeraenglish|gCNeDWCI0vo
 France24|a47ckXKZjxI
 abcnewsaustralia|vOTiJkg1voo
-ABCNews_1|-u-tx6r0fq8
-ABCNews_2|iipR5yUp36o
+ABCNews|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
@@ -193,7 +193,8 @@ RhythmEmotion68_4|mX35sECE--I
 RhythmEmotion68_5|va4BD7pGCPc
 RhythmEmotion68_6|ItoNVjSmkx0
 RhythmEmotion68_7|q9iTGiUtYik
-CNNIDOFFICIAL|PDDOkUq33Sw
+CNNIDOFFICIAL_1|Nal4CoFFtuw
+CNNIDOFFICIAL_2|PDDOkUq33Sw
 12KScenicRelaxation_1|2FTbljN_fjY
 12KScenicRelaxation_2|WmVLjcqJBFg
 12KScenicRelaxation_3|Ttaep72wcNs
@@ -240,11 +241,11 @@ TheIslandwithBearGrylls|qTQK5hTRGh8
 channelnewsasia|XWq5kBlakcQ
 CBCNews|5vfaDsMhCF4
 CNBC|9NyxcX3rhQs
-EnjoyRelaxation-jz7gi_1|2cSZG3TGDjE
-EnjoyRelaxation-jz7gi_2|LeJ5ef6oQpI
+EnjoyRelaxation-jz7gi|LeJ5ef6oQpI
 SaudiNewsTV|yYJjtr3fbZE
 ravenhallmusic|_qwUrtTVBK8
-ABC7|s3iVFJoxrYc
+ABC7_1|GXIy3-85LJw
+ABC7_2|s3iVFJoxrYc
 KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|9GVDLg5BTDc
@@ -253,8 +254,7 @@ tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
 SyriaTelevision|h6cB5IUmVF0
 medyahabertv8|kyJf0mXuJ9A
-KOREAarirangTV_1|1wRbDL1pWcg
-KOREAarirangTV_2|hvVlyZ5GiE8
+KOREAarirangTV|hvVlyZ5GiE8
 Foxweather|wt6SIE7BXS8
 weathernation|3dDyjHc8DkA
 stormpower4617_1|dQW8xLOf_CU
