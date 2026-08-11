@@ -10,8 +10,8 @@ Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
 KemalSunalFilmleriveSahneleri|VkXvDzJyUQs
 arzufilm1964|RqegY0WKtZA
-FobosPlanet_1|94XkhlV3w3Q
-FobosPlanet_2|ZQD7fgZ6QDo
+FobosPlanet_1|zhboUv2I3Ow
+FobosPlanet_2|94XkhlV3w3Q
 FobosPlanet_3|AnK0ocaJl24
 FobosPlanet_4|cjsZyFd955U
 FobosPlanet_5|vHOv3sJWkUs
@@ -45,12 +45,13 @@ MyBushcraft156|dgj_NuxEWac
 gezdolaskesfet_1|OMz7Pdp8t48
 gezdolaskesfet_2|SYQ2X8GWOWM
 gezdolaskesfet_3|TPSG2Xmnu5A
-KurtlarVadisi|4QICVoMeA4s
+KurtlarVadisi|hegBG3-4JpI
 ShauntheSheepOfficial|vvrRqhZZsrU
 Behzatc.|vttFPFEsr1k
 ASpor|-zSaswVrQ_M
-cnnturk_1|oAzT8NQkjm8
-cnnturk_2|6N8_r2uwLEc
+cnnturk_1|SNXNA2U9uEE
+cnnturk_2|oAzT8NQkjm8
+cnnturk_3|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|YSFRjJdKigU
 Ahaber_1|nWsbFm6KXgQ
@@ -70,7 +71,8 @@ UltimateNatureDocs_2|JVXC4DrH6PA
 kanal7tvcanli|ND1wf-WuUjM
 YirmidortTV_1|6B-nPOdP720
 YirmidortTV_2|qFKEi2BqHYc
-tv100|4WSvLRk83-c
+tv100_1|ZmDe0YnM43E
+tv100_2|4WSvLRk83-c
 MuhtesemGumballDunyasi|9LDR3lHACKM
 Kukuli_1|35V5umD3dTA
 Kukuli_2|il-6oO1woek
@@ -91,7 +93,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|MQJh-hPMezQ
 trthaber|vjNZVmImcxg
-tgrthaber_1|QPkm61pNDGs
+tgrthaber_1|R1EBA1Tbo1c
 tgrthaber_2|WX29nlgdqho
 bloomberght|r7aIeqeJ9pM
 Minikago|LBW6-pJuVI0
@@ -195,8 +197,7 @@ RhythmEmotion68_4|mX35sECE--I
 RhythmEmotion68_5|va4BD7pGCPc
 RhythmEmotion68_6|ItoNVjSmkx0
 RhythmEmotion68_7|q9iTGiUtYik
-CNNIDOFFICIAL_1|kwg-0LlgY4c
-CNNIDOFFICIAL_2|PDDOkUq33Sw
+CNNIDOFFICIAL|PDDOkUq33Sw
 12KScenicRelaxation_1|2FTbljN_fjY
 12KScenicRelaxation_2|WmVLjcqJBFg
 12KScenicRelaxation_3|Ttaep72wcNs
