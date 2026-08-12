@@ -8,8 +8,8 @@ Sozcutelevizyonu|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
 KemalSunalFilmleriveSahneleri|VkXvDzJyUQs
 arzufilm1964|RqegY0WKtZA
-FobosPlanet_1|oc4Xq-o7KLc
-FobosPlanet_2|zhboUv2I3Ow
+FobosPlanet_1|7ROKwqImY_k
+FobosPlanet_2|oc4Xq-o7KLc
 FobosPlanet_3|cjsZyFd955U
 FobosPlanet_4|vHOv3sJWkUs
 FobosPlanet_5|soSXsuGVkqc
@@ -143,7 +143,7 @@ AnimaliaWonders2101_5|lCph2yGpU-g
 AnimaliaWonders2101_6|sypd9O8i8J0
 ensonbabalarduyardizi|Zw76iiTxgko
 4kOceanWorld.8_1|vhzghHZRSjg
-explorebears_1|My_ZYCLOMzk
+explorebears|vu7I315gQpU
 earthTV_1|5p_KGD4fJZs
 earthTV_2|HfgIFGbdGJ0
 dwnews|LuKwFajn37U
@@ -156,10 +156,8 @@ markets|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
 ulusalkanalTV|Gcxkjxhbhk8
-CGTNEurope_1|KUSlSmqRiaU
-CGTNEurope_2|5-zQ-yns9BI
-CGTNEurope_3|fZqr56lztHw
-CGTNEurope_4|oIS6UuOa1Zk
+CGTNEurope_1|5-zQ-yns9BI
+CGTNEurope_2|fZqr56lztHw
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
 globalnewstw_1|Ej3LQM_lTEw
@@ -222,7 +220,8 @@ ArkadasmHosgeldinn|HqMJP-B2J4I
 yesildeniztrt1|DKbXb7x38_Y
 AskMemnuKanalD|JpP13Wp1ke0
 zenginkizfakiroglantrt|3kTcvGWaO3Q
-CNN|GotlA1KKWoo
+CNN_1|mrqGRpOlmWU
+CNN_2|GotlA1KKWoo
 kenyacitizentv|aCQN4n7FygA
 TRTAvaz|E1rnoNh89vs
 bbcnewsarabic|O1pGmVtj2Y8
@@ -242,7 +241,8 @@ CNBC|9NyxcX3rhQs
 EnjoyRelaxation-jz7gi_1|HGL-7KtI_EU
 EnjoyRelaxation-jz7gi_2|LeJ5ef6oQpI
 SaudiNewsTV|yYJjtr3fbZE
-ravenhallmusic|_qwUrtTVBK8
+ravenhallmusic_1|DiXFtUQdZ9Y
+ravenhallmusic_2|g4-Gkh7gQeM
 ABC7|s3iVFJoxrYc
 KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
