@@ -57,8 +57,7 @@ Ahaber_1|nWsbFm6KXgQ
 Ahaber_2|HVSxZ7TCqz0
 liderhabertv_1|u_VM4hlJZcA
 liderhabertv_2|KRm4U6CNxb0
-krtcanli_1|8_7rezkENH4
-krtcanli_2|qLgOv5suNpI
+krtcanli|qLgOv5suNpI
 haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
@@ -138,8 +137,7 @@ Taff-Pictures|wuTOFaK5dwE
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
 SkyNews_1|lFiZGZfzvF4
-SkyNews_2|9rkw09B7hfA
-SkyNews_3|YDvsBbKfLPA
+SkyNews_2|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|sV2dB4P4My4
@@ -162,7 +160,7 @@ ABCNews_2|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV_1|EFX6jKuiH9I
+ulusalkanalTV_1|Bzbme0GJ4_4
 ulusalkanalTV_2|Gcxkjxhbhk8
 CGTNEurope_1|ce572ax2yAQ
 CGTNEurope_2|vb-zCxU8Qek
@@ -254,9 +252,10 @@ SaudiNewsTV|yYJjtr3fbZE
 ravenhallmusic_1|DiXFtUQdZ9Y
 ravenhallmusic_2|g4-Gkh7gQeM
 ABC7|s3iVFJoxrYc
-KozaTv_1|IMQ-zVHbXxk
+KozaTv_1|gzEeyRh9n2U
 KozaTv_2|0TBY2WtWW7g
-ankarabbld|B-84y-luaTs
+ankarabbld_1|9htOgqebj_w
+ankarabbld_2|B-84y-luaTs
 Nilradyotv|zbbnGsZqWSc
 mkhabertv|EfiygYGhUHQ
 tele2_haber_1|tg13PdUUmhk
@@ -355,7 +354,7 @@ CanlıTürkDizileri_6|o5IxlfG5Kew
 CanlıTürkDizileri_7|cAWYSlU0Aro
 CanlıTürkDizileri_8|qETt6hO5fyo
 CanlıTürkDizileri_9|wHe_tVwPG9k
-SportsDigitale|WNoADDM3I18
+SportsDigitale|GMw6dlxktDw
 bobross_thejoyofpainting|1SLT1OEX3SU
 Bloomberg-News|DxmDPrfinXY
 incitaneleribkm|73lwpqloExo
