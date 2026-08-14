@@ -3,8 +3,10 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali|jHMsvYrf-UA
-Sozcutelevizyonu|ztmY_cCtUl0
+Halktvkanali_1|MDSWUrgRbcs
+Halktvkanali_2|jHMsvYrf-UA
+Sozcutelevizyonu_1|AJcgR64q0W0
+Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
 KemalSunalFilmleriveSahneleri|VkXvDzJyUQs
 arzufilm1964|RqegY0WKtZA
@@ -90,7 +92,8 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|o23LEAGY8fQ
 trthaber|vjNZVmImcxg
-tgrthaber|WX29nlgdqho
+tgrthaber_1|mKITipe1QoY
+tgrthaber_2|WX29nlgdqho
 bloomberght|r7aIeqeJ9pM
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -130,7 +133,7 @@ AltıÜstüİstanbul_2|6pU7QDkeVr8
 a2tv|HtnytvwXi5o
 tv2Resmi|7Pv7r55NEVw
 euronews|pykpO5kQJ98
-EKOTURKTV|rxGWYOqu7JU
+EKOTURKTV|QDQQW2CoGNY
 Taff-Pictures|wuTOFaK5dwE
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
@@ -154,13 +157,13 @@ dwnews|LuKwFajn37U
 aljazeeraenglish|gCNeDWCI0vo
 France24|a47ckXKZjxI
 abcnewsaustralia|vOTiJkg1voo
-ABCNews_1|cUC27Fa57BE
-ABCNews_2|iipR5yUp36o
+ABCNews|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
 ulusalkanalTV|Gcxkjxhbhk8
-CGTNEurope|A3yTQyH1b38
+CGTNEurope_1|A3yTQyH1b38
+CGTNEurope_2|fZqr56lztHw
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
 globalnewstw_1|Ej3LQM_lTEw
@@ -182,7 +185,7 @@ warnerbrosentertainment_1|G43NInZfoPE
 warnerbrosentertainment_2|WVwP298MU7I
 EDHOatv|F0yeYa-SSDc
 ntvkenyaonline|6Qj6kqBhflc
-REALTVXEBERLE|PKTvD9fsj_w
+REALTVXEBERLE|f5ruK_VmpYw
 KurulusOsman|PobdnBU-QQE
 NewsmaxTV|RNNFrG4KbH0
 EmretKomutanimOfficial|vcIIT-674aM
@@ -224,8 +227,7 @@ ArkadasmHosgeldinn|HqMJP-B2J4I
 yesildeniztrt1|DKbXb7x38_Y
 AskMemnuKanalD|JpP13Wp1ke0
 zenginkizfakiroglantrt|3kTcvGWaO3Q
-CNN_1|fgCF13RZoG4
-CNN_2|GotlA1KKWoo
+CNN|GotlA1KKWoo
 kenyacitizentv|aCQN4n7FygA
 TRTAvaz|E1rnoNh89vs
 bbcnewsarabic|O1pGmVtj2Y8
@@ -242,8 +244,7 @@ TheIslandwithBearGrylls|qTQK5hTRGh8
 channelnewsasia|XWq5kBlakcQ
 CBCNews|5vfaDsMhCF4
 CNBC|9NyxcX3rhQs
-EnjoyRelaxation-jz7gi_1|XOhPU9PMp4I
-EnjoyRelaxation-jz7gi_2|LeJ5ef6oQpI
+EnjoyRelaxation-jz7gi|LeJ5ef6oQpI
 SaudiNewsTV|yYJjtr3fbZE
 ravenhallmusic_1|Zc9QSBmHG4M
 ravenhallmusic_2|DiXFtUQdZ9Y
@@ -257,8 +258,7 @@ tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
 SyriaTelevision|h6cB5IUmVF0
 medyahabertv8|kyJf0mXuJ9A
-KOREAarirangTV_1|KBiC5eRlmX8
-KOREAarirangTV_2|hvVlyZ5GiE8
+KOREAarirangTV|hvVlyZ5GiE8
 Foxweather|wt6SIE7BXS8
 weathernation|3dDyjHc8DkA
 stormpower4617_1|dQW8xLOf_CU
