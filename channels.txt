@@ -47,9 +47,8 @@ KurtlarVadisi|hegBG3-4JpI
 ShauntheSheepOfficial|vvrRqhZZsrU
 Behzatc.|nihgcGLYpn0
 ASpor|-zSaswVrQ_M
-cnnturk_1|XLzK1UOFFrA
-cnnturk_2|oAzT8NQkjm8
-cnnturk_3|6N8_r2uwLEc
+cnnturk_1|oAzT8NQkjm8
+cnnturk_2|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|Gp-MW_lguLI
 Ahaber|HVSxZ7TCqz0
@@ -162,7 +161,8 @@ ABCNews_2|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV|Gcxkjxhbhk8
+ulusalkanalTV_1|uvY5rtJ4z6Y
+ulusalkanalTV_2|Gcxkjxhbhk8
 CGTNEurope_1|-XrX7wXWLF4
 CGTNEurope_2|o8jWN-MBeM0
 CGTNEurope_3|uD3BUy2QktE
@@ -349,7 +349,7 @@ grafi2000cocuk|FQShfJIB8Z0
 yagosabuncuoglu|ylDAiAGv04I
 KuzeyYildiziDizi|ANztwplauwk
 CanlıTürkDizileri_1|K4hktl7XlmA
-SportsDigitale|nEQ8Xn9olrk
+SportsDigitale|F-X5-9APQOM
 bobross_thejoyofpainting|1SLT1OEX3SU
 Bloomberg-News|DxmDPrfinXY
 incitaneleribkm|73lwpqloExo
