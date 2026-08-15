@@ -55,8 +55,7 @@ SevkatYerimdarDizisi|Gp-MW_lguLI
 Ahaber_1|9BzwbQ45iqs
 Ahaber_2|HVSxZ7TCqz0
 liderhabertv|KRm4U6CNxb0
-krtcanli_1|m-aFHuU4Pmc
-krtcanli_2|qLgOv5suNpI
+krtcanli|qLgOv5suNpI
 haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
@@ -135,7 +134,8 @@ EKOTURKTV|eTwTxmQzA0U
 Taff-Pictures|wuTOFaK5dwE
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews|YDvsBbKfLPA
+SkyNews_1|O854wKMstzw
+SkyNews_2|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|CC1_H2P-Iw4
@@ -188,7 +188,7 @@ warnerbrosentertainment_1|G43NInZfoPE
 warnerbrosentertainment_2|WVwP298MU7I
 EDHOatv|F0yeYa-SSDc
 ntvkenyaonline|6Qj6kqBhflc
-REALTVXEBERLE|MwUUSWcLPkA
+REALTVXEBERLE|flPHqglQlyY
 KurulusOsman|PobdnBU-QQE
 NewsmaxTV|RNNFrG4KbH0
 EmretKomutanimOfficial|vcIIT-674aM
