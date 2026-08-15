@@ -47,7 +47,7 @@ KurtlarVadisi|hegBG3-4JpI
 ShauntheSheepOfficial|vvrRqhZZsrU
 Behzatc.|nihgcGLYpn0
 ASpor|-zSaswVrQ_M
-cnnturk_1|TIt0QrK_-1E
+cnnturk_1|XLzK1UOFFrA
 cnnturk_2|oAzT8NQkjm8
 cnnturk_3|6N8_r2uwLEc
 NTV|pqq5c6k70kk
@@ -134,8 +134,7 @@ EKOTURKTV|eTwTxmQzA0U
 Taff-Pictures|wuTOFaK5dwE
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|O854wKMstzw
-SkyNews_2|YDvsBbKfLPA
+SkyNews|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|CC1_H2P-Iw4
@@ -154,7 +153,8 @@ dwnews|LuKwFajn37U
 aljazeeraenglish|gCNeDWCI0vo
 France24|a47ckXKZjxI
 abcnewsaustralia|vOTiJkg1voo
-ABCNews|iipR5yUp36o
+ABCNews_1|fb7eZN1r80E
+ABCNews_2|iipR5yUp36o
 markets_1|q-z7gcXul_w
 markets_2|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
@@ -263,7 +263,8 @@ tarihinarkaodasitv|Ap7-d2tnoAc
 SyriaTelevision|h6cB5IUmVF0
 medyahabertv8|kyJf0mXuJ9A
 KOREAarirangTV|hvVlyZ5GiE8
-Foxweather|wt6SIE7BXS8
+Foxweather_1|_3UlmUYlutc
+Foxweather_2|wt6SIE7BXS8
 weathernation|3dDyjHc8DkA
 stormpower4617_1|dQW8xLOf_CU
 stormpower4617_2|IV3Fnoaljfs
@@ -278,11 +279,11 @@ animalplanet|dN00xOmi1Rg
 DirilisErtugrulTRT|GOCHAfe2ZQ8
 kodadikirlangic|t_sTFmAQCgQ
 kizilcikserbetidizi|QXTh9Vqzc18
-EsrefRuyadizitv|h5cOxbaBouk
+EsrefRuyadizitv|U2tcy8bvjuE
 birgecemasali|b5lUIsJZjMk
 nowtvturkiye|qYHvhQXnBdY
 Abidiziatv|jhEx9jk3wuc
-muhtesemyuzyilofficial|d8pBFfmscKo
+muhtesemyuzyilofficial|OefcAkar12A
 diyanettv|8KOE6__ogN8
 semerkandtv|J1ohx_TAsEE
 vavtv_1|Iy27RumblzE
@@ -328,7 +329,7 @@ Tozluyaka|GjX8LgwBQtE
 solyanim|JjmESbktxhY
 KARDEŞLERİM|-vVs9H5Qj6w
 tasacakbudeniztrt|MVjIaSmOs3g
-sözdizitv|Qi_J5JqlWG4
+sözdizitv|AOCx3MTX50c
 SavasciDizi|7FzWRAl6kao
 RuhunDuymazDizi|F0yothIQ7Nc
 GeceninKralicesiOfficial|JRScKcQGIlc
@@ -351,7 +352,7 @@ incitaneleribkm|73lwpqloExo
 OnlarTV|RfqmS7UEbBw
 MucizeDoktor|3wO4M5C370c
 fenerbahce|g6oy2Bm5uN8
-sifirtv|jAjFby3Qe90
+sifirtv|8GiqA-lLVzw
 Fireplace4K_1|JLL0voWSPW0
 Fireplace4K_2|gIrudAghdNY
 Fireplace4K_3|A5KcDOVnzbI
