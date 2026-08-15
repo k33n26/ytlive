@@ -3,9 +3,9 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|TwoEHlD3CGA
+Halktvkanali_1|mLa7vjiHQs0
 Halktvkanali_2|jHMsvYrf-UA
-Sozcutelevizyonu_1|zYUqPv2Ft08
+Sozcutelevizyonu_1|FjkToYtokZo
 Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
 KemalSunalFilmleriveSahneleri|VkXvDzJyUQs
@@ -52,10 +52,10 @@ cnnturk_2|oAzT8NQkjm8
 cnnturk_3|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|Gp-MW_lguLI
-Ahaber_1|9BzwbQ45iqs
-Ahaber_2|HVSxZ7TCqz0
+Ahaber|HVSxZ7TCqz0
 liderhabertv|KRm4U6CNxb0
-krtcanli|qLgOv5suNpI
+krtcanli_1|EYdhdOSgA70
+krtcanli_2|qLgOv5suNpI
 haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
@@ -134,8 +134,7 @@ EKOTURKTV|eTwTxmQzA0U
 Taff-Pictures|wuTOFaK5dwE
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|i_iHyLeZZMI
-SkyNews_2|YDvsBbKfLPA
+SkyNews|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|CC1_H2P-Iw4
