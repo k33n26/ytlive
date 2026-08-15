@@ -4,8 +4,7 @@ bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
 Halktvkanali|jHMsvYrf-UA
-Sozcutelevizyonu_1|JWS-nMoXlJ0
-Sozcutelevizyonu_2|ztmY_cCtUl0
+Sozcutelevizyonu|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
 KemalSunalFilmleriveSahneleri|VkXvDzJyUQs
 arzufilm1964|NqbUZyS58u8
@@ -88,8 +87,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|o23LEAGY8fQ
 trthaber|vjNZVmImcxg
-tgrthaber_1|XDLKkDgWNgk
-tgrthaber_2|WX29nlgdqho
+tgrthaber|WX29nlgdqho
 bloomberght|r7aIeqeJ9pM
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -133,8 +131,7 @@ EKOTURKTV|eTwTxmQzA0U
 Taff-Pictures|wuTOFaK5dwE
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|RKnbg4gerDc
-SkyNews_2|YDvsBbKfLPA
+SkyNews|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|CC1_H2P-Iw4
@@ -160,11 +157,10 @@ tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
 ulusalkanalTV|Gcxkjxhbhk8
 CGTNEurope_1|gbfOUI7ftbs
-CGTNEurope_2|-XrX7wXWLF4
-CGTNEurope_3|o8jWN-MBeM0
-CGTNEurope_4|uD3BUy2QktE
-CGTNEurope_5|86WQtObiU_U
-CGTNEurope_6|fZqr56lztHw
+CGTNEurope_2|o8jWN-MBeM0
+CGTNEurope_3|uD3BUy2QktE
+CGTNEurope_4|86WQtObiU_U
+CGTNEurope_5|fZqr56lztHw
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
 globalnewstw_1|Ej3LQM_lTEw
