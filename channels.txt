@@ -192,7 +192,8 @@ RhythmEmotion68_4|mX35sECE--I
 RhythmEmotion68_5|va4BD7pGCPc
 RhythmEmotion68_6|ItoNVjSmkx0
 RhythmEmotion68_7|q9iTGiUtYik
-CNNIDOFFICIAL|PDDOkUq33Sw
+CNNIDOFFICIAL_1|P_jpc83OBUo
+CNNIDOFFICIAL_2|PDDOkUq33Sw
 12KScenicRelaxation_1|2FTbljN_fjY
 12KScenicRelaxation_2|WmVLjcqJBFg
 12KScenicRelaxation_3|Ttaep72wcNs
@@ -337,14 +338,6 @@ grafi2000cocuk|FQShfJIB8Z0
 yagosabuncuoglu|ylDAiAGv04I
 KuzeyYildiziDizi|ANztwplauwk
 CanlıTürkDizileri_1|K4hktl7XlmA
-CanlıTürkDizileri_2|vbmEFQiQQjc
-CanlıTürkDizileri_3|Td52Xl_36dY
-CanlıTürkDizileri_4|xvGF3TrV4sQ
-CanlıTürkDizileri_5|Wvf8pwyiohE
-CanlıTürkDizileri_6|o5IxlfG5Kew
-CanlıTürkDizileri_7|cAWYSlU0Aro
-CanlıTürkDizileri_8|qETt6hO5fyo
-CanlıTürkDizileri_9|wHe_tVwPG9k
 SportsDigitale|nEQ8Xn9olrk
 bobross_thejoyofpainting|1SLT1OEX3SU
 Bloomberg-News|DxmDPrfinXY
