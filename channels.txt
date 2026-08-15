@@ -3,9 +3,8 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|O2ncOZFIFVs
-Halktvkanali_2|jHMsvYrf-UA
-Sozcutelevizyonu_1|dCVJlnF6eus
+Halktvkanali|jHMsvYrf-UA
+Sozcutelevizyonu_1|JWS-nMoXlJ0
 Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
 KemalSunalFilmleriveSahneleri|VkXvDzJyUQs
@@ -47,9 +46,8 @@ KurtlarVadisi|hegBG3-4JpI
 ShauntheSheepOfficial|vvrRqhZZsrU
 Behzatc.|nihgcGLYpn0
 ASpor|-zSaswVrQ_M
-cnnturk_1|JTLHyxrZ-Xw
-cnnturk_2|oAzT8NQkjm8
-cnnturk_3|6N8_r2uwLEc
+cnnturk_1|oAzT8NQkjm8
+cnnturk_2|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|Gp-MW_lguLI
 Ahaber_1|m2QZkvxSl6E
@@ -69,8 +67,7 @@ UltimateNatureDocs_2|JVXC4DrH6PA
 kanal7tvcanli|ND1wf-WuUjM
 YirmidortTV_1|6B-nPOdP720
 YirmidortTV_2|qFKEi2BqHYc
-tv100_1|TafVNWgJdS8
-tv100_2|4WSvLRk83-c
+tv100|4WSvLRk83-c
 MuhtesemGumballDunyasi|9LDR3lHACKM
 Kukuli_1|35V5umD3dTA
 Kukuli_2|il-6oO1woek
@@ -166,9 +163,8 @@ CGTNEurope_1|gbfOUI7ftbs
 CGTNEurope_2|-XrX7wXWLF4
 CGTNEurope_3|o8jWN-MBeM0
 CGTNEurope_4|uD3BUy2QktE
-CGTNEurope_5|Y9BzV4bOaN0
-CGTNEurope_6|86WQtObiU_U
-CGTNEurope_7|fZqr56lztHw
+CGTNEurope_5|86WQtObiU_U
+CGTNEurope_6|fZqr56lztHw
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
 globalnewstw_1|Ej3LQM_lTEw
