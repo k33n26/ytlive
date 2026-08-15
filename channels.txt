@@ -47,11 +47,14 @@ KurtlarVadisi|hegBG3-4JpI
 ShauntheSheepOfficial|vvrRqhZZsrU
 Behzatc.|nihgcGLYpn0
 ASpor|-zSaswVrQ_M
-cnnturk_1|oAzT8NQkjm8
-cnnturk_2|6N8_r2uwLEc
+cnnturk_1|JTLHyxrZ-Xw
+cnnturk_2|oAzT8NQkjm8
+cnnturk_3|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|Gp-MW_lguLI
-Ahaber|HVSxZ7TCqz0
+Ahaber_1|m2QZkvxSl6E
+Ahaber_2|rCxdsHFlmaw
+Ahaber_3|HVSxZ7TCqz0
 liderhabertv|KRm4U6CNxb0
 krtcanli_1|qUvrQ9Syats
 krtcanli_2|qLgOv5suNpI
@@ -92,8 +95,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|o23LEAGY8fQ
 trthaber|vjNZVmImcxg
-tgrthaber_1|_N15jhTSsF4
-tgrthaber_2|WX29nlgdqho
+tgrthaber|WX29nlgdqho
 bloomberght|r7aIeqeJ9pM
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -294,7 +296,7 @@ vavtv_1|Iy27RumblzE
 vavtv_2|Y_vdhq00egc
 vavtv_3|euQKZqz_iAc
 vavtv_4|Q-6bt9nkj8Y
-akittv|LrfBWSXX5xQ
+akittv|iXMisJAoCJA
 SIHIRLIANNEMKANALDOFFICIAL|-XCmwC1lVdU
 BuildingwithLamChannel|4V76-O8BCV0
 NagoyaTVnewsCH_1|ElmLqemMkng
@@ -317,7 +319,7 @@ yenigelindizi|fDaN3KOO5T4
 AskYenıdenDizi|lMOSmZZdVQw
 KirazMevsimiDizi|00xQE-pXa2Y
 istanbullugelindizi|TefsW6pQuB4
-UzakSehirDizi|mE3NU3mnJNU
+UzakSehirDizi|0ABtrtdw58Q
 Medcezirtvdizisi|xLXpADKDRH8
 CilekKokusuDizi|KznqGC8O_80
 HerYerdeSen|M_NJSajV8Jw
