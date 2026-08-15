@@ -55,7 +55,8 @@ SevkatYerimdarDizisi|Gp-MW_lguLI
 Ahaber_1|9BzwbQ45iqs
 Ahaber_2|HVSxZ7TCqz0
 liderhabertv|KRm4U6CNxb0
-krtcanli|qLgOv5suNpI
+krtcanli_1|m-aFHuU4Pmc
+krtcanli_2|qLgOv5suNpI
 haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
@@ -134,8 +135,7 @@ EKOTURKTV|eTwTxmQzA0U
 Taff-Pictures|wuTOFaK5dwE
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|mstF7LyBR4c
-SkyNews_2|YDvsBbKfLPA
+SkyNews|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|CC1_H2P-Iw4
@@ -155,7 +155,8 @@ aljazeeraenglish|gCNeDWCI0vo
 France24|a47ckXKZjxI
 abcnewsaustralia|vOTiJkg1voo
 ABCNews|iipR5yUp36o
-markets|QB5BNdBFujE
+markets_1|q-z7gcXul_w
+markets_2|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
 ulusalkanalTV_1|0bxP7zXYPek
@@ -256,7 +257,7 @@ ABC7|s3iVFJoxrYc
 KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|qFyGFDeYE8A
-mkhabertv|iZQbDtwUWbE
+mkhabertv|Y-SfoPTk7No
 tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
 SyriaTelevision|h6cB5IUmVF0
@@ -269,8 +270,9 @@ stormpower4617_2|IV3Fnoaljfs
 stormpower4617_3|5awsvTeNMQQ
 stormpower4617_4|Pd_QZOtHhIs
 stormpower4617_5|A2JdCF7V6hY
-NaimatIslamic_1|J-jrd2CRUD8
-NaimatIslamic_2|BtMUUgApnPs
+NaimatIslamic_1|ToLmfC3eD_0
+NaimatIslamic_2|J-jrd2CRUD8
+NaimatIslamic_3|BtMUUgApnPs
 ClassicMrBean|XQLEvieRMj4
 animalplanet|dN00xOmi1Rg
 DirilisErtugrulTRT|GOCHAfe2ZQ8
