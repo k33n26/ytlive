@@ -5,7 +5,7 @@ guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
 Halktvkanali_1|O2ncOZFIFVs
 Halktvkanali_2|jHMsvYrf-UA
-Sozcutelevizyonu_1|75DkQ8etfxE
+Sozcutelevizyonu_1|dCVJlnF6eus
 Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
 KemalSunalFilmleriveSahneleri|VkXvDzJyUQs
@@ -53,8 +53,7 @@ cnnturk_3|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|Gp-MW_lguLI
 Ahaber_1|m2QZkvxSl6E
-Ahaber_2|rCxdsHFlmaw
-Ahaber_3|HVSxZ7TCqz0
+Ahaber_2|HVSxZ7TCqz0
 liderhabertv|KRm4U6CNxb0
 krtcanli|qLgOv5suNpI
 haberturktv_1|s4KIyYkwiM0
@@ -71,7 +70,7 @@ UltimateNatureDocs_2|JVXC4DrH6PA
 kanal7tvcanli|ND1wf-WuUjM
 YirmidortTV_1|6B-nPOdP720
 YirmidortTV_2|qFKEi2BqHYc
-tv100_1|2PHi97bKdcA
+tv100_1|TafVNWgJdS8
 tv100_2|4WSvLRk83-c
 MuhtesemGumballDunyasi|9LDR3lHACKM
 Kukuli_1|35V5umD3dTA
@@ -251,6 +250,9 @@ EnjoyRelaxation-jz7gi_1|rGwdYuHcOts
 EnjoyRelaxation-jz7gi_2|LeJ5ef6oQpI
 SaudiNewsTV|yYJjtr3fbZE
 ravenhallmusic_1|rz-EJrvfi5w
+ravenhallmusic_2|Zc9QSBmHG4M
+ravenhallmusic_3|DiXFtUQdZ9Y
+ravenhallmusic_4|g4-Gkh7gQeM
 ABC7|s3iVFJoxrYc
 KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
@@ -345,7 +347,7 @@ grafi2000cocuk|FQShfJIB8Z0
 yagosabuncuoglu|ylDAiAGv04I
 KuzeyYildiziDizi|ANztwplauwk
 CanlıTürkDizileri_1|K4hktl7XlmA
-SportsDigitale|hxj2IH0uA50
+SportsDigitale|lYBfZPeF6GY
 bobross_thejoyofpainting|1SLT1OEX3SU
 Bloomberg-News|DxmDPrfinXY
 incitaneleribkm|73lwpqloExo
