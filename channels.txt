@@ -59,8 +59,7 @@ haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
 haberturktv_4|RNVNlJSUFoE
-haberglobal_1|IFfAt93yRlg
-haberglobal_2|EqoCJ8BPxtE
+haberglobal|EqoCJ8BPxtE
 FilmAtolyesi|mq4GiHzxZwk
 MiParaisoVision_1|NLTESDVkijw
 MiParaisoVision_2|VABzf7Ig4l4
@@ -134,8 +133,9 @@ EKOTURKTV|eTwTxmQzA0U
 Taff-Pictures|wuTOFaK5dwE
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|LEudXKt7d5w
-SkyNews_2|YDvsBbKfLPA
+SkyNews_1|lrY7huGNGU0
+SkyNews_2|LEudXKt7d5w
+SkyNews_3|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|CC1_H2P-Iw4
@@ -348,8 +348,8 @@ OnlarTV|RfqmS7UEbBw
 MucizeDoktor|3wO4M5C370c
 fenerbahce|wqx0uOMO3YA
 sifirtv|8GiqA-lLVzw
-Fireplace4K_1|q3nVyL-y-ow
-Fireplace4K_2|WZ9OegsAWck
+Fireplace4K_1|fQhjakNEPMw
+Fireplace4K_2|q3nVyL-y-ow
 Fireplace4K_3|A5KcDOVnzbI
 Fireplace4K_4|9uXaOyK7JWY
 Fireplace4K_5|-5k7kSe8xck
