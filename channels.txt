@@ -55,8 +55,7 @@ NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|Gp-MW_lguLI
 Ahaber_1|m2QZkvxSl6E
 Ahaber_2|HVSxZ7TCqz0
-liderhabertv_1|Lr3dfTqAjFI
-liderhabertv_2|KRm4U6CNxb0
+liderhabertv|KRm4U6CNxb0
 krtcanli|qLgOv5suNpI
 haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
@@ -157,8 +156,7 @@ France24|a47ckXKZjxI
 abcnewsaustralia|vOTiJkg1voo
 ABCNews_1|gVy7eu4kd_s
 ABCNews_2|iipR5yUp36o
-markets_1|hwd80p9KEYI
-markets_2|QB5BNdBFujE
+markets|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
 ulusalkanalTV|Gcxkjxhbhk8
@@ -253,7 +251,8 @@ EnjoyRelaxation-jz7gi_2|LeJ5ef6oQpI
 SaudiNewsTV|yYJjtr3fbZE
 ravenhallmusic_1|rz-EJrvfi5w
 ABC7|s3iVFJoxrYc
-KozaTv|0TBY2WtWW7g
+KozaTv_1|f2tyXqpJlC4
+KozaTv_2|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|SExLxlPPf9w
 mkhabertv|XDIJ_xXuhD8
