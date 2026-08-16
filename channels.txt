@@ -3,7 +3,7 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|TF6DuZsDMgg
+Halktvkanali_1|M64RMBizgtE
 Halktvkanali_2|jHMsvYrf-UA
 Sozcutelevizyonu_1|ZVHLw-f76cY
 Sozcutelevizyonu_2|ztmY_cCtUl0
@@ -44,7 +44,7 @@ MyBushcraft156|dgj_NuxEWac
 gezdolaskesfet_1|OMz7Pdp8t48
 gezdolaskesfet_2|SYQ2X8GWOWM
 gezdolaskesfet_3|TPSG2Xmnu5A
-KurtlarVadisi|hegBG3-4JpI
+KurtlarVadisi|jv8QshEodmQ
 ShauntheSheepOfficial|vvrRqhZZsrU
 Behzatc.|nihgcGLYpn0
 ASpor|-zSaswVrQ_M
@@ -132,7 +132,7 @@ a2tv|HtnytvwXi5o
 tv2Resmi|7Pv7r55NEVw
 euronews|pykpO5kQJ98
 EKOTURKTV|eTwTxmQzA0U
-Taff-Pictures|wuTOFaK5dwE
+Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
 SkyNews_1|lrY7huGNGU0
@@ -159,11 +159,13 @@ ABCNews|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV|Gcxkjxhbhk8
-CGTNEurope_1|gbfOUI7ftbs
-CGTNEurope_2|o8jWN-MBeM0
-CGTNEurope_3|86WQtObiU_U
-CGTNEurope_4|fZqr56lztHw
+ulusalkanalTV_1|9frkAhod4Es
+ulusalkanalTV_2|Gcxkjxhbhk8
+CGTNEurope_1|5dpLQqcvO2o
+CGTNEurope_2|gbfOUI7ftbs
+CGTNEurope_3|o8jWN-MBeM0
+CGTNEurope_4|86WQtObiU_U
+CGTNEurope_5|fZqr56lztHw
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
 globalnewstw_1|Ej3LQM_lTEw
@@ -243,7 +245,8 @@ TheIslandwithBearGrylls|qTQK5hTRGh8
 channelnewsasia|XWq5kBlakcQ
 CBCNews|5vfaDsMhCF4
 CNBC|9NyxcX3rhQs
-EnjoyRelaxation-jz7gi|LeJ5ef6oQpI
+EnjoyRelaxation-jz7gi_1|j_5z5x9tt6Y
+EnjoyRelaxation-jz7gi_2|LeJ5ef6oQpI
 SaudiNewsTV|yYJjtr3fbZE
 ravenhallmusic_1|rz-EJrvfi5w
 ABC7|s3iVFJoxrYc
@@ -317,7 +320,7 @@ InadnaAsk|w68sC9NlUgs
 OHayatBenim|TUj6nm-U1vc
 guzelkoyludizi|8n5mmtL2t2c
 KizilGoncalarDizisi|LO9ZN80y8-c
-SahipsizlerDizi|_9BuurHWPlE
+SahipsizlerDizi|8lO2dNghUX4
 fazilethanimvekizlaridizi|gsNbDkEU5Rs
 ezel|9n-Du17MvQg
 Tozluyaka|GjX8LgwBQtE
