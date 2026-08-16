@@ -4,8 +4,7 @@ bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
 Halktvkanali|jHMsvYrf-UA
-Sozcutelevizyonu_1|2gbr_54pa3s
-Sozcutelevizyonu_2|ztmY_cCtUl0
+Sozcutelevizyonu|ztmY_cCtUl0
 GulsahFilmOfficial|tWWFY5lf1U0
 KemalSunalFilmleriveSahneleri|VkXvDzJyUQs
 arzufilm1964|NqbUZyS58u8
@@ -47,10 +46,9 @@ KurtlarVadisi|jv8QshEodmQ
 ShauntheSheepOfficial|vvrRqhZZsrU
 Behzatc.|nihgcGLYpn0
 ASpor|-zSaswVrQ_M
-cnnturk_1|fVCpvpt-2qk
-cnnturk_2|ogMaukPITDE
-cnnturk_3|oAzT8NQkjm8
-cnnturk_4|6N8_r2uwLEc
+cnnturk_1|ogMaukPITDE
+cnnturk_2|oAzT8NQkjm8
+cnnturk_3|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|Gp-MW_lguLI
 Ahaber_1|m2QZkvxSl6E
@@ -70,8 +68,7 @@ UltimateNatureDocs_2|JVXC4DrH6PA
 kanal7tvcanli|3OYtNi4a4as
 YirmidortTV_1|6B-nPOdP720
 YirmidortTV_2|qFKEi2BqHYc
-tv100_1|GaC1xnZUquI
-tv100_2|4WSvLRk83-c
+tv100|4WSvLRk83-c
 MuhtesemGumballDunyasi|9LDR3lHACKM
 Kukuli_1|35V5umD3dTA
 Kukuli_2|il-6oO1woek
@@ -312,7 +309,7 @@ bkmonline|ncRUrQ7_DQU
 yenigelindizi|fDaN3KOO5T4
 AskYenıdenDizi|lMOSmZZdVQw
 KirazMevsimiDizi|00xQE-pXa2Y
-istanbullugelindizi|TefsW6pQuB4
+istanbullugelindizi|XgeqVYbVPr4
 UzakSehirDizi|0ABtrtdw58Q
 Medcezirtvdizisi|xLXpADKDRH8
 CilekKokusuDizi|KznqGC8O_80
