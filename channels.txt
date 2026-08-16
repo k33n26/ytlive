@@ -3,7 +3,7 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|M64RMBizgtE
+Halktvkanali_1|2wcu_1N-LUs
 Halktvkanali_2|jHMsvYrf-UA
 Sozcutelevizyonu_1|v10vTvADaJo
 Sozcutelevizyonu_2|ztmY_cCtUl0
@@ -136,8 +136,7 @@ EKOTURKTV|eTwTxmQzA0U
 Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|zw4S15AZALI
-SkyNews_2|YDvsBbKfLPA
+SkyNews|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|CC1_H2P-Iw4
@@ -162,8 +161,7 @@ markets_1|hwd80p9KEYI
 markets_2|QB5BNdBFujE
 tvbenguturk|W-wgfi-XdN8
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV_1|9frkAhod4Es
-ulusalkanalTV_2|Gcxkjxhbhk8
+ulusalkanalTV|Gcxkjxhbhk8
 CGTNEurope_1|ArLdoQ9jI_M
 CGTNEurope_2|5dpLQqcvO2o
 CGTNEurope_3|gbfOUI7ftbs
@@ -257,7 +255,7 @@ ravenhallmusic_1|rz-EJrvfi5w
 ABC7|s3iVFJoxrYc
 KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
-Nilradyotv|qFyGFDeYE8A
+Nilradyotv|SExLxlPPf9w
 mkhabertv|XDIJ_xXuhD8
 tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
@@ -272,11 +270,12 @@ stormpower4617_2|IV3Fnoaljfs
 stormpower4617_3|5awsvTeNMQQ
 stormpower4617_4|Pd_QZOtHhIs
 stormpower4617_5|A2JdCF7V6hY
-NaimatIslamic_1|hUmn8bCogww
-NaimatIslamic_2|Fe2spfGSwS4
-NaimatIslamic_3|ToLmfC3eD_0
-NaimatIslamic_4|J-jrd2CRUD8
-NaimatIslamic_5|BtMUUgApnPs
+NaimatIslamic_1|Gw28KXr1x-E
+NaimatIslamic_2|hUmn8bCogww
+NaimatIslamic_3|Fe2spfGSwS4
+NaimatIslamic_4|ToLmfC3eD_0
+NaimatIslamic_5|J-jrd2CRUD8
+NaimatIslamic_6|BtMUUgApnPs
 ClassicMrBean|XQLEvieRMj4
 animalplanet_1|iG_-FTvPiLs
 animalplanet_2|dN00xOmi1Rg
@@ -294,7 +293,7 @@ vavtv_1|fwj7MCVulTA
 vavtv_2|Iy27RumblzE
 vavtv_3|Y_vdhq00egc
 vavtv_4|euQKZqz_iAc
-akittv|iXMisJAoCJA
+akittv|dqeUkOlzPss
 SIHIRLIANNEMKANALDOFFICIAL|-XCmwC1lVdU
 BuildingwithLamChannel|4V76-O8BCV0
 NagoyaTVnewsCH_1|ElmLqemMkng
