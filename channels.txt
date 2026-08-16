@@ -57,7 +57,8 @@ SevkatYerimdarDizisi|Gp-MW_lguLI
 Ahaber_1|mp2tEP39Gds
 Ahaber_2|m2QZkvxSl6E
 Ahaber_3|HVSxZ7TCqz0
-liderhabertv|KRm4U6CNxb0
+liderhabertv_1|EuTsnmVHyi8
+liderhabertv_2|KRm4U6CNxb0
 krtcanli_1|hyGd_O8QDGk
 krtcanli_2|qLgOv5suNpI
 haberturktv_1|7yiw7SDrgX4
@@ -166,8 +167,7 @@ ABCNews_2|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV_1|tP8wFsSSThM
-ulusalkanalTV_2|Gcxkjxhbhk8
+ulusalkanalTV|Gcxkjxhbhk8
 CGTNEurope_1|5dpLQqcvO2o
 CGTNEurope_2|gbfOUI7ftbs
 CGTNEurope_3|o8jWN-MBeM0
