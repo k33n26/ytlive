@@ -60,7 +60,8 @@ haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
 haberturktv_4|RNVNlJSUFoE
-haberglobal|EqoCJ8BPxtE
+haberglobal_1|IFfAt93yRlg
+haberglobal_2|EqoCJ8BPxtE
 FilmAtolyesi|mq4GiHzxZwk
 MiParaisoVision_1|NLTESDVkijw
 MiParaisoVision_2|VABzf7Ig4l4
