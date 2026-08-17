@@ -134,8 +134,7 @@ EKOTURKTV|eTwTxmQzA0U
 Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|e4ZrGS0XBME
-SkyNews_2|YDvsBbKfLPA
+SkyNews|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|AJ_cn-F4Jpg
@@ -253,8 +252,7 @@ ravenhallmusic_1|eDteS8gVDgA
 ravenhallmusic_2|rz-EJrvfi5w
 ravenhallmusic_3|Zc9QSBmHG4M
 ravenhallmusic_4|DiXFtUQdZ9Y
-ABC7_1|viLLlno57mU
-ABC7_2|s3iVFJoxrYc
+ABC7|s3iVFJoxrYc
 KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|vnF5GQXMtUI
