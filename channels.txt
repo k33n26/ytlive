@@ -57,7 +57,8 @@ SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|X0klv4mDe9A
 Ahaber_2|dftRcfGh6UY
 Ahaber_3|HVSxZ7TCqz0
-liderhabertv|8nt4AKdiMqM
+liderhabertv_1|LUGiv1-qnnY
+liderhabertv_2|8nt4AKdiMqM
 krtcanli_1|CUkd8_1EelM
 krtcanli_2|qLgOv5suNpI
 haberturktv_1|Tg_aXCW_j1I
@@ -65,7 +66,7 @@ haberturktv_2|s4KIyYkwiM0
 haberturktv_3|CJHVSYHpVvc
 haberturktv_4|CPXn_5nTtao
 haberturktv_5|RNVNlJSUFoE
-haberglobal_1|PvLuQSf6Gn0
+haberglobal_1|ceQ39N_8_5o
 haberglobal_2|EqoCJ8BPxtE
 FilmAtolyesi|Jkg74w73aoQ
 MiParaisoVision_1|_ZapRaWABAo
@@ -261,10 +262,8 @@ ravenhallmusic_1|eDteS8gVDgA
 ravenhallmusic_2|rz-EJrvfi5w
 ravenhallmusic_3|Zc9QSBmHG4M
 ravenhallmusic_4|DiXFtUQdZ9Y
-ABC7_1|vbuzm1n9YAs
-ABC7_2|s3iVFJoxrYc
-KozaTv_1|eTaO4oEdJUU
-KozaTv_2|0TBY2WtWW7g
+ABC7|s3iVFJoxrYc
+KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|vnF5GQXMtUI
 mkhabertv|Z1ZyXjMsT9Q
@@ -286,7 +285,8 @@ NaimatIslamic_3|Gw28KXr1x-E
 NaimatIslamic_4|hUmn8bCogww
 NaimatIslamic_5|BtMUUgApnPs
 ClassicMrBean|XQLEvieRMj4
-animalplanet|iG_-FTvPiLs
+animalplanet_1|-_HChoYoVNQ
+animalplanet_2|iG_-FTvPiLs
 DirilisErtugrulTRT|GOCHAfe2ZQ8
 kodadikirlangic|t_sTFmAQCgQ
 kizilcikserbetidizi|QXTh9Vqzc18
