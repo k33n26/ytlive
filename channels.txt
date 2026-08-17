@@ -4,8 +4,7 @@ bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
 Halktvkanali|jHMsvYrf-UA
-Sozcutelevizyonu_1|7Zq9G2lIAew
-Sozcutelevizyonu_2|ztmY_cCtUl0
+Sozcutelevizyonu|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
 KemalSunalFilmleriveSahneleri|qWDd505ciJQ
 arzufilm1964|NqbUZyS58u8
@@ -47,10 +46,9 @@ KurtlarVadisi|jv8QshEodmQ
 ShauntheSheepOfficial|dBloEq9d49A
 Behzatc.|tNzkCMxXxiM
 ASpor|-zSaswVrQ_M
-cnnturk_1|ns3T-VHJXpw
-cnnturk_2|ogMaukPITDE
-cnnturk_3|oAzT8NQkjm8
-cnnturk_4|6N8_r2uwLEc
+cnnturk_1|ogMaukPITDE
+cnnturk_2|oAzT8NQkjm8
+cnnturk_3|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|dftRcfGh6UY
@@ -92,8 +90,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|2D6c_TNwjNA
 trthaber|myv0L5yK_rY
-tgrthaber_1|VfoSd_4lFyw
-tgrthaber_2|WX29nlgdqho
+tgrthaber|WX29nlgdqho
 bloomberght|5ngQ40FQHv0
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -152,8 +149,8 @@ AnimaliaWonders2101_7|lCph2yGpU-g
 AnimaliaWonders2101_8|sypd9O8i8J0
 ensonbabalarduyardizi|9hXAtuRTS0Q
 4kOceanWorld.8_1|vhzghHZRSjg
-explorebears_1|n6OnGRLPHxk
-explorebears_2|vu7I315gQpU
+explorebears_1|vu7I315gQpU
+explorebears_2|cTsjMtjRLCo
 earthTV_1|5p_KGD4fJZs
 earthTV_2|HfgIFGbdGJ0
 dwnews|LuKwFajn37U
