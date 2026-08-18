@@ -62,11 +62,10 @@ liderhabertv_2|8nt4AKdiMqM
 krtcanli_1|E1kT6DmfaVc
 krtcanli_2|qLgOv5suNpI
 haberturktv_1|p1NknYsvle0
-haberturktv_2|2JhpgCbCd_U
-haberturktv_3|s4KIyYkwiM0
-haberturktv_4|CJHVSYHpVvc
-haberturktv_5|CPXn_5nTtao
-haberturktv_6|RNVNlJSUFoE
+haberturktv_2|s4KIyYkwiM0
+haberturktv_3|CJHVSYHpVvc
+haberturktv_4|CPXn_5nTtao
+haberturktv_5|RNVNlJSUFoE
 haberglobal_1|yuPAPmVj-cc
 haberglobal_2|VKTXP2wLs9E
 haberglobal_3|EqoCJ8BPxtE
@@ -361,7 +360,7 @@ CanlıTürkDizileri_3|BKVkD30_E5A
 CanlıTürkDizileri_4|5WNE2L80sKk
 CanlıTürkDizileri_5|uPQe_zkydMk
 CanlıTürkDizileri_6|Uz7-jEUvq3I
-SportsDigitale|X_wuPNR1c7I
+SportsDigitale|r8v70xSWihY
 bobross_thejoyofpainting|1SLT1OEX3SU
 Bloomberg-News|DxmDPrfinXY
 incitaneleribkm|73lwpqloExo
