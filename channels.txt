@@ -92,8 +92,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|2D6c_TNwjNA
 trthaber|myv0L5yK_rY
-tgrthaber_1|GJGnuwve71U
-tgrthaber_2|WX29nlgdqho
+tgrthaber|WX29nlgdqho
 bloomberght|5ngQ40FQHv0
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -168,10 +167,9 @@ CGTNEurope_2|86WQtObiU_U
 CGTNEurope_3|fZqr56lztHw
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
-globalnewstw_1|_Qh4lMU8GZc
-globalnewstw_2|Ej3LQM_lTEw
-globalnewstw_3|w87VGpgd90U
-globalnewstw_4|6IquAgfvYmc
+globalnewstw_1|Ej3LQM_lTEw
+globalnewstw_2|w87VGpgd90U
+globalnewstw_3|6IquAgfvYmc
 turkmalitv|zJbJlAmfx7g
 sakaryafirattrt|LrXSGDCnmnQ
 BZC|yq2QNxzcUUo
@@ -253,8 +251,7 @@ ravenhallmusic_2|rz-EJrvfi5w
 ravenhallmusic_3|Zc9QSBmHG4M
 ravenhallmusic_4|DiXFtUQdZ9Y
 ABC7|s3iVFJoxrYc
-KozaTv_1|wh6RY8ZZdVQ
-KozaTv_2|0TBY2WtWW7g
+KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|elFQuHKsZUY
 mkhabertv|Z1ZyXjMsT9Q
