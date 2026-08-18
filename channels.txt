@@ -23,8 +23,8 @@ avsarfilm|wJbP12jam70
 TurkFilmleri-TV|MPPOKE82HcQ
 ErsoyFilmcilik|UOAYih1mj2Q
 seksenlertrt|qGYlF1MiMxw
-showtv_1|cbgKyiqOljQ
-showtv_2|PU7tPuC0u2Y
+showtv_1|WxeHEn5N1vk
+showtv_2|cbgKyiqOljQ
 showtv_3|Y3vGHFrsqrs
 YedinumaradizisiTRT|rS5dHYQsSxs
 leylailemecnundizisitrt|3nlND4audLg
@@ -56,7 +56,8 @@ SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|dftRcfGh6UY
 Ahaber_2|HVSxZ7TCqz0
 liderhabertv|8nt4AKdiMqM
-krtcanli|qLgOv5suNpI
+krtcanli_1|on9wioPickY
+krtcanli_2|qLgOv5suNpI
 haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
@@ -71,7 +72,8 @@ UltimateNatureDocs_2|JVXC4DrH6PA
 kanal7tvcanli|3OYtNi4a4as
 YirmidortTV_1|6B-nPOdP720
 YirmidortTV_2|qFKEi2BqHYc
-tv100|4WSvLRk83-c
+tv100_1|GQDUYbM7hQo
+tv100_2|4WSvLRk83-c
 MuhtesemGumballDunyasi|9LDR3lHACKM
 Kukuli_1|35V5umD3dTA
 Kukuli_2|il-6oO1woek
@@ -92,7 +94,8 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|2D6c_TNwjNA
 trthaber|myv0L5yK_rY
-tgrthaber|WX29nlgdqho
+tgrthaber_1|yyK8oOcaLMQ
+tgrthaber_2|WX29nlgdqho
 bloomberght|5ngQ40FQHv0
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -251,7 +254,8 @@ ravenhallmusic_2|rz-EJrvfi5w
 ravenhallmusic_3|Zc9QSBmHG4M
 ravenhallmusic_4|DiXFtUQdZ9Y
 ABC7|s3iVFJoxrYc
-KozaTv|0TBY2WtWW7g
+KozaTv_1|B_DGk8Rtx1w
+KozaTv_2|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|elFQuHKsZUY
 mkhabertv|Z1ZyXjMsT9Q
