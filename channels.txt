@@ -163,8 +163,7 @@ ABCNews_2|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV_1|qBudnYMEcPw
-ulusalkanalTV_2|Gcxkjxhbhk8
+ulusalkanalTV|Gcxkjxhbhk8
 CGTNEurope_1|8GPZkflgRUg
 CGTNEurope_2|o8jWN-MBeM0
 CGTNEurope_3|86WQtObiU_U
@@ -256,8 +255,7 @@ ravenhallmusic_2|rz-EJrvfi5w
 ravenhallmusic_3|Zc9QSBmHG4M
 ravenhallmusic_4|DiXFtUQdZ9Y
 ABC7|s3iVFJoxrYc
-KozaTv_1|0mIC4b-JUhg
-KozaTv_2|0TBY2WtWW7g
+KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|elFQuHKsZUY
 mkhabertv|Z1ZyXjMsT9Q
