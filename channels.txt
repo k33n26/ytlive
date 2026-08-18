@@ -98,7 +98,8 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|2D6c_TNwjNA
 trthaber|myv0L5yK_rY
-tgrthaber|WX29nlgdqho
+tgrthaber_1|--PlEDS5nVk
+tgrthaber_2|WX29nlgdqho
 bloomberght|5ngQ40FQHv0
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -254,7 +255,8 @@ DreamTripspk_3|0FBiyFpV__g
 i24NEWS_EN|
 TheIslandwithBearGrylls|qTQK5hTRGh8
 channelnewsasia|XWq5kBlakcQ
-CBCNews|5vfaDsMhCF4
+CBCNews_1|kcpwgIHQ1Q4
+CBCNews_2|5vfaDsMhCF4
 CNBC|9NyxcX3rhQs
 EnjoyRelaxation-jz7gi_1|R7CHnIuabug
 EnjoyRelaxation-jz7gi_2|LeJ5ef6oQpI
@@ -363,7 +365,7 @@ CanlıTürkDizileri_3|BKVkD30_E5A
 CanlıTürkDizileri_4|5WNE2L80sKk
 CanlıTürkDizileri_5|uPQe_zkydMk
 CanlıTürkDizileri_6|Uz7-jEUvq3I
-SportsDigitale|-U9Z-j5VkRE
+SportsDigitale|X_wuPNR1c7I
 bobross_thejoyofpainting|1SLT1OEX3SU
 Bloomberg-News|DxmDPrfinXY
 incitaneleribkm|73lwpqloExo
