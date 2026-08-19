@@ -5,7 +5,9 @@ guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
 Halktvkanali_1|k21C0z0PXcs
 Halktvkanali_2|jHMsvYrf-UA
-Sozcutelevizyonu|ztmY_cCtUl0
+Sozcutelevizyonu_1|AGTKdofIgQQ
+Sozcutelevizyonu_2|KB0dkRw8eDQ
+Sozcutelevizyonu_3|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
 KemalSunalFilmleriveSahneleri|qWDd505ciJQ
 arzufilm1964|NqbUZyS58u8
@@ -90,7 +92,8 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|2D6c_TNwjNA
 trthaber|myv0L5yK_rY
-tgrthaber|WX29nlgdqho
+tgrthaber_1|aC3ea0VLiBU
+tgrthaber_2|WX29nlgdqho
 bloomberght|5ngQ40FQHv0
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -194,9 +197,7 @@ RhythmEmotion68_3|mX35sECE--I
 RhythmEmotion68_4|va4BD7pGCPc
 RhythmEmotion68_5|ItoNVjSmkx0
 RhythmEmotion68_6|q9iTGiUtYik
-CNNIDOFFICIAL_1|0JnP80-OuIc
-CNNIDOFFICIAL_2|lISfvitnXIU
-CNNIDOFFICIAL_3|PDDOkUq33Sw
+CNNIDOFFICIAL|PDDOkUq33Sw
 12KScenicRelaxation_1|2FTbljN_fjY
 12KScenicRelaxation_2|WmVLjcqJBFg
 12KScenicRelaxation_3|Ttaep72wcNs
