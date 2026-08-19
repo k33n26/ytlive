@@ -98,7 +98,8 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|2D6c_TNwjNA
 trthaber|myv0L5yK_rY
-tgrthaber|WX29nlgdqho
+tgrthaber_1|TeMwKiZjKvg
+tgrthaber_2|WX29nlgdqho
 bloomberght|5ngQ40FQHv0
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -142,7 +143,8 @@ EKOTURKTV|_dvSWIqJ17Y
 Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews|YDvsBbKfLPA
+SkyNews_1|bPlHSBFJMys
+SkyNews_2|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|0LyvuaKjnU0
@@ -272,7 +274,8 @@ Nilradyotv|zFBs4DbJxl8
 mkhabertv|I3qknCSYnRM
 tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
-SyriaTelevision|h6cB5IUmVF0
+SyriaTelevision_1|PIQBjmNUQus
+SyriaTelevision_2|h6cB5IUmVF0
 medyahabertv8|kyJf0mXuJ9A
 KOREAarirangTV|hvVlyZ5GiE8
 Foxweather|wt6SIE7BXS8
