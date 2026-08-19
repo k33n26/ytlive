@@ -3,8 +3,8 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|6EE14_DpFaE
-Halktvkanali_2|BafKmHn_gm4
+Halktvkanali_1|4fx9Vw7DVYM
+Halktvkanali_2|Q5RDkUcUSz8
 Halktvkanali_3|jHMsvYrf-UA
 Sozcutelevizyonu_1|kAMaFhp5duU
 Sozcutelevizyonu_2|ztmY_cCtUl0
@@ -18,7 +18,6 @@ FobosPlanet_4|vHOv3sJWkUs
 FobosPlanet_5|soSXsuGVkqc
 FobosPlanet_6|mKCieTImjvU
 FobosPlanet_7|edKgbxcn5UA
-FobosPlanet_8|4WHshH5c-x8
 beINSPORTSTurkiye|i7UpPgxfZZ8
 avsarfilm|wJbP12jam70
 TurkFilmleri-TV|MPPOKE82HcQ
@@ -58,10 +57,12 @@ SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|5YctvJjCP0o
 Ahaber_2|4ZxOXEA6JZ8
 Ahaber_3|HVSxZ7TCqz0
-liderhabertv|8nt4AKdiMqM
-krtcanli_1|eEDuGTGK4iA
-krtcanli_2|qLgOv5suNpI
-haberturktv_1|EPNsNyVpP1I
+liderhabertv_1|pLuv5bwhwJo
+liderhabertv_2|8nt4AKdiMqM
+krtcanli_1|pkSalNAcg80
+krtcanli_2|eEDuGTGK4iA
+krtcanli_3|qLgOv5suNpI
+haberturktv_1|ShWTYn92JGs
 haberturktv_2|s4KIyYkwiM0
 haberturktv_3|CJHVSYHpVvc
 haberturktv_4|CPXn_5nTtao
@@ -140,8 +141,7 @@ EKOTURKTV|_dvSWIqJ17Y
 Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|RjhWFqUFdDQ
-SkyNews_2|YDvsBbKfLPA
+SkyNews|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|0LyvuaKjnU0
@@ -163,8 +163,9 @@ dwnews|LuKwFajn37U
 aljazeeraenglish|gCNeDWCI0vo
 France24|a47ckXKZjxI
 abcnewsaustralia|vOTiJkg1voo
-ABCNews_1|C9ej8KXShJs
-ABCNews_2|iipR5yUp36o
+ABCNews_1|n2azbZ1VZmU
+ABCNews_2|C9ej8KXShJs
+ABCNews_3|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|UHXqe9qf_ZM
@@ -205,7 +206,8 @@ RhythmEmotion68_3|mX35sECE--I
 RhythmEmotion68_4|va4BD7pGCPc
 RhythmEmotion68_5|ItoNVjSmkx0
 RhythmEmotion68_6|q9iTGiUtYik
-CNNIDOFFICIAL|PDDOkUq33Sw
+CNNIDOFFICIAL_1|IWo65sOKflQ
+CNNIDOFFICIAL_2|PDDOkUq33Sw
 12KScenicRelaxation_1|2FTbljN_fjY
 12KScenicRelaxation_2|WmVLjcqJBFg
 12KScenicRelaxation_3|Ttaep72wcNs
@@ -266,7 +268,7 @@ KozaTv_1|4J50lSqaZXk
 KozaTv_2|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|zFBs4DbJxl8
-mkhabertv|3YGOBBynbdU
+mkhabertv|6ea8NredHRo
 tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
 SyriaTelevision|h6cB5IUmVF0
@@ -316,8 +318,7 @@ fukuokatncnews_4|p326sZfmwHM
 KBCnewsCH_1|78U5gHL0yyo
 KBCnewsCH_2|uuMhOREzUYA
 KBCnewsCH_3|8RyR0J8zbbU
-ForcesOfNature_1|qdW9i-52YnQ
-ForcesOfNature_2|D5h4MzCQazs
+ForcesOfNature|D5h4MzCQazs
 ntv|pqq5c6k70kk
 bkmonline|ncRUrQ7_DQU
 yenigelindizi|btIE7yl1qCs
