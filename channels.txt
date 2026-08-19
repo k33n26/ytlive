@@ -133,9 +133,8 @@ EKOTURKTV|_dvSWIqJ17Y
 Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|I0VGgqUjCIE
-SkyNews_2|qhK6RdiUNnE
-SkyNews_3|YDvsBbKfLPA
+SkyNews_1|qhK6RdiUNnE
+SkyNews_2|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|0LyvuaKjnU0
@@ -148,9 +147,10 @@ AnimaliaWonders2101_7|bXegdpNDbKU
 AnimaliaWonders2101_8|sypd9O8i8J0
 ensonbabalarduyardizi|NCnmXIuT00E
 4kOceanWorld.8_1|vhzghHZRSjg
-explorebears_1|vu7I315gQpU
-explorebears_2|cTsjMtjRLCo
-explorebears_3|z7_GhJeFxQI
+explorebears_1|9oVOQVEOBXk
+explorebears_2|vu7I315gQpU
+explorebears_3|cTsjMtjRLCo
+explorebears_4|z7_GhJeFxQI
 earthTV_1|5p_KGD4fJZs
 earthTV_2|HfgIFGbdGJ0
 dwnews|LuKwFajn37U
@@ -164,9 +164,8 @@ tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|UHXqe9qf_ZM
 ulusalkanalTV|Gcxkjxhbhk8
 CGTNEurope_1|uv3C9kgVGAs
-CGTNEurope_2|JEKuwtnYXnE
-CGTNEurope_3|86WQtObiU_U
-CGTNEurope_4|fZqr56lztHw
+CGTNEurope_2|86WQtObiU_U
+CGTNEurope_3|fZqr56lztHw
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
 globalnewstw_1|Ej3LQM_lTEw
