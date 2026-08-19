@@ -3,8 +3,9 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|v5Ar8FYirTk
-Halktvkanali_2|jHMsvYrf-UA
+Halktvkanali_1|BJjUkD6WwGo
+Halktvkanali_2|v5Ar8FYirTk
+Halktvkanali_3|jHMsvYrf-UA
 Sozcutelevizyonu_1|Iyc9-EQq85U
 Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
@@ -59,7 +60,7 @@ Ahaber_2|4ZxOXEA6JZ8
 Ahaber_3|HVSxZ7TCqz0
 liderhabertv_1|ECdtvFtwOTY
 liderhabertv_2|8nt4AKdiMqM
-krtcanli_1|gypfg7Y-fCY
+krtcanli_1|PmBje1YSeTU
 krtcanli_2|qLgOv5suNpI
 haberturktv_1|bZzgy-a010o
 haberturktv_2|s4KIyYkwiM0
@@ -97,8 +98,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|2D6c_TNwjNA
 trthaber|myv0L5yK_rY
-tgrthaber_1|744yvUfDScY
-tgrthaber_2|WX29nlgdqho
+tgrthaber|WX29nlgdqho
 bloomberght|5ngQ40FQHv0
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -199,7 +199,8 @@ EDHOatv|F0yeYa-SSDc
 ntvkenyaonline|6Qj6kqBhflc
 REALTVXEBERLE|5wiqhKLZocA
 KurulusOsman|PobdnBU-QQE
-NewsmaxTV|RNNFrG4KbH0
+NewsmaxTV_1|7vGl3MHKFIE
+NewsmaxTV_2|RNNFrG4KbH0
 EmretKomutanimOfficial|b4U9nt3s128
 RhythmEmotion68_1|eDwkOyfbk8k
 RhythmEmotion68_2|9ODIw6xBkC0
@@ -264,8 +265,9 @@ ravenhallmusic_3|rz-EJrvfi5w
 ravenhallmusic_4|Zc9QSBmHG4M
 ravenhallmusic_5|DiXFtUQdZ9Y
 ABC7|s3iVFJoxrYc
-KozaTv_1|YKFoDCfVWFw
-KozaTv_2|0TBY2WtWW7g
+KozaTv_1|PwX3QvoRoPU
+KozaTv_2|YKFoDCfVWFw
+KozaTv_3|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|zFBs4DbJxl8
 mkhabertv|I3qknCSYnRM
