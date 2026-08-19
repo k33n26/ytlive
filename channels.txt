@@ -3,8 +3,9 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|BafKmHn_gm4
-Halktvkanali_2|jHMsvYrf-UA
+Halktvkanali_1|d3sMtWT2VTg
+Halktvkanali_2|BafKmHn_gm4
+Halktvkanali_3|jHMsvYrf-UA
 Sozcutelevizyonu_1|NhFg6YT8h9U
 Sozcutelevizyonu_2|kAMaFhp5duU
 Sozcutelevizyonu_3|ztmY_cCtUl0
@@ -168,8 +169,7 @@ ABCNews_2|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV_1|5M-FkN2l4kY
-ulusalkanalTV_2|Gcxkjxhbhk8
+ulusalkanalTV|Gcxkjxhbhk8
 CGTNEurope_1|uv3C9kgVGAs
 CGTNEurope_2|JEKuwtnYXnE
 CGTNEurope_3|86WQtObiU_U
@@ -263,8 +263,7 @@ ravenhallmusic_3|rz-EJrvfi5w
 ravenhallmusic_4|Zc9QSBmHG4M
 ravenhallmusic_5|DiXFtUQdZ9Y
 ABC7|s3iVFJoxrYc
-KozaTv_1|hkJu5obQwzY
-KozaTv_2|0TBY2WtWW7g
+KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|zFBs4DbJxl8
 mkhabertv|3YGOBBynbdU
@@ -321,10 +320,10 @@ ForcesOfNature_1|qdW9i-52YnQ
 ForcesOfNature_2|D5h4MzCQazs
 ntv|pqq5c6k70kk
 bkmonline|ncRUrQ7_DQU
-yenigelindizi|LBUQ4-5ydI0
+yenigelindizi|btIE7yl1qCs
 AskYenıdenDizi|67GXDXW35l8
 KirazMevsimiDizi|zVMWX2TAHJE
-istanbullugelindizi|XgeqVYbVPr4
+istanbullugelindizi|fqHFi1HxJs0
 UzakSehirDizi|0ABtrtdw58Q
 Medcezirtvdizisi|yu2-hTNkr6c
 CilekKokusuDizi|V5fDcWHMS5U
@@ -338,7 +337,7 @@ SahipsizlerDizi|dIdyscTANSI
 fazilethanimvekizlaridizi|GFzhdjxhMN4
 ezel|eo76L8gueeU
 Tozluyaka|Bg3vGWC42Z8
-solyanim|_X914X0MYO8
+solyanim|31nrFdocuiU
 KARDEŞLERİM|-vVs9H5Qj6w
 tasacakbudeniztrt|MVjIaSmOs3g
 sözdizitv|AOCx3MTX50c
@@ -347,10 +346,10 @@ RuhunDuymazDizi|F0yothIQ7Nc
 GeceninKralicesiOfficial|JRScKcQGIlc
 YabaniDiziResmi|ereNyabqCL4
 KaderiminYazildigiGun|HqpK4WDAP3c
-DuyBeniDizi|RcBQx_EsFSo
+DuyBeniDizi|qkxmkaynfdY
 SendenDahaGüzel|1TWKFvwzUVA
 SokaginCocuklariDizi|4Va_ylUt0AQ
-sevdigimsensinresmi|kvrOn5DF4DY
+sevdigimsensinresmi|LEhlbjd8kz0
 KUZEYGUNEYKANALDOFFICIAL|Uz8VzHVxmko
 MasumiyetDizi|LIEoeiyIRQk
 grafi2000cocuk|FQShfJIB8Z0
