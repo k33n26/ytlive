@@ -58,10 +58,9 @@ Ahaber_1|J4c_N42YZ20
 Ahaber_2|5YctvJjCP0o
 Ahaber_3|HVSxZ7TCqz0
 liderhabertv|8nt4AKdiMqM
-krtcanli_1|c9oTTFDUPdg
-krtcanli_2|qLgOv5suNpI
-haberturktv_1|wFx9jVWyO3s
-haberturktv_2|kpiaDdopmAE
+krtcanli|qLgOv5suNpI
+haberturktv_1|sr2wCuegMjY
+haberturktv_2|wFx9jVWyO3s
 haberturktv_3|s4KIyYkwiM0
 haberturktv_4|CJHVSYHpVvc
 haberturktv_5|CPXn_5nTtao
@@ -97,7 +96,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|2D6c_TNwjNA
 trthaber|myv0L5yK_rY
-tgrthaber_1|TeMwKiZjKvg
+tgrthaber_1|ELxADxebNZM
 tgrthaber_2|WX29nlgdqho
 bloomberght|5ngQ40FQHv0
 Minikago|LBW6-pJuVI0
@@ -142,7 +141,8 @@ EKOTURKTV|_dvSWIqJ17Y
 Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews|YDvsBbKfLPA
+SkyNews_1|qhK6RdiUNnE
+SkyNews_2|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|0LyvuaKjnU0
@@ -190,8 +190,9 @@ Yeraltidizisi|1sBxo7hM31Y
 Kanal7PakistanDizileri|MTbf4z9L7L8
 SfrBir|ofw2CpH0aw0
 CokGuzelHareketler|Ppbi-hyO8T0
-livenowfox_1|KuPtuV47SB0
-livenowfox_2|C96oohpWBGw
+livenowfox_1|4OfQOsiNE6o
+livenowfox_2|KuPtuV47SB0
+livenowfox_3|C96oohpWBGw
 warnerbrosentertainment_1|G43NInZfoPE
 warnerbrosentertainment_2|WVwP298MU7I
 EDHOatv|F0yeYa-SSDc
@@ -269,8 +270,7 @@ Nilradyotv|zFBs4DbJxl8
 mkhabertv|I3qknCSYnRM
 tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
-SyriaTelevision_1|PIQBjmNUQus
-SyriaTelevision_2|h6cB5IUmVF0
+SyriaTelevision|h6cB5IUmVF0
 medyahabertv8|kyJf0mXuJ9A
 KOREAarirangTV|hvVlyZ5GiE8
 Foxweather|wt6SIE7BXS8
@@ -368,8 +368,8 @@ OnlarTV|RfqmS7UEbBw
 MucizeDoktor|hyhEyjqL13g
 fenerbahce|UNjodN0qIOk
 sifirtv|8GiqA-lLVzw
-Fireplace4K_1|9V9IHctKRyw
-Fireplace4K_2|nENx8tWhgs4
+Fireplace4K_1|G5KnJnkQ2Xw
+Fireplace4K_2|9V9IHctKRyw
 Fireplace4K_3|A5KcDOVnzbI
 Fireplace4K_4|9uXaOyK7JWY
 Fireplace4K_5|-5k7kSe8xck
