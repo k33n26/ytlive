@@ -54,9 +54,8 @@ cnnturk_3|oAzT8NQkjm8
 cnnturk_4|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|_-g2YYka8-I
-Ahaber_1|J4c_N42YZ20
-Ahaber_2|5YctvJjCP0o
-Ahaber_3|HVSxZ7TCqz0
+Ahaber_1|5YctvJjCP0o
+Ahaber_2|HVSxZ7TCqz0
 liderhabertv|8nt4AKdiMqM
 krtcanli|qLgOv5suNpI
 haberturktv_1|sr2wCuegMjY
