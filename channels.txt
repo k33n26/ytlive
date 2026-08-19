@@ -57,7 +57,8 @@ Ahaber_1|dftRcfGh6UY
 Ahaber_2|HVSxZ7TCqz0
 liderhabertv_1|kBL-SpZAFUQ
 liderhabertv_2|8nt4AKdiMqM
-krtcanli|qLgOv5suNpI
+krtcanli_1|x5uVw9jF2hs
+krtcanli_2|qLgOv5suNpI
 haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
@@ -170,10 +171,9 @@ CGTNEurope_1|86WQtObiU_U
 CGTNEurope_2|fZqr56lztHw
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
-globalnewstw_1|LNA2cmmgjC0
-globalnewstw_2|Ej3LQM_lTEw
-globalnewstw_3|w87VGpgd90U
-globalnewstw_4|6IquAgfvYmc
+globalnewstw_1|Ej3LQM_lTEw
+globalnewstw_2|w87VGpgd90U
+globalnewstw_3|6IquAgfvYmc
 turkmalitv|zJbJlAmfx7g
 sakaryafirattrt|LrXSGDCnmnQ
 BZC|yq2QNxzcUUo
@@ -255,7 +255,8 @@ ravenhallmusic_3|rz-EJrvfi5w
 ravenhallmusic_4|Zc9QSBmHG4M
 ravenhallmusic_5|DiXFtUQdZ9Y
 ABC7|s3iVFJoxrYc
-KozaTv|0TBY2WtWW7g
+KozaTv_1|ybAGjm1sDhw
+KozaTv_2|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|zFBs4DbJxl8
 mkhabertv|WvyhTt0mhX8
@@ -263,8 +264,8 @@ tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
 SyriaTelevision|h6cB5IUmVF0
 medyahabertv8|kyJf0mXuJ9A
-KOREAarirangTV_1|9YvU8Nd01ZY
-KOREAarirangTV_2|ouEhSFdS0c8
+KOREAarirangTV_1|83rBGfHg4qM
+KOREAarirangTV_2|9YvU8Nd01ZY
 KOREAarirangTV_3|hvVlyZ5GiE8
 Foxweather|wt6SIE7BXS8
 weathernation|3dDyjHc8DkA
