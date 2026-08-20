@@ -59,8 +59,8 @@ Ahaber_2|5YctvJjCP0o
 Ahaber_3|HVSxZ7TCqz0
 liderhabertv|8nt4AKdiMqM
 krtcanli|qLgOv5suNpI
-haberturktv_1|3YwNX9rzHac
-haberturktv_2|iDECAHiSowI
+haberturktv_1|7UsFamoS-0k
+haberturktv_2|3YwNX9rzHac
 haberturktv_3|s4KIyYkwiM0
 haberturktv_4|CJHVSYHpVvc
 haberturktv_5|CPXn_5nTtao
@@ -97,7 +97,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|UFKGL7DAl2k
 trthaber|myv0L5yK_rY
-tgrthaber_1|EWqtL9BDDQ0
+tgrthaber_1|VrCwelnMKFs
 tgrthaber_2|WX29nlgdqho
 bloomberght|5ngQ40FQHv0
 Minikago|LBW6-pJuVI0
@@ -143,8 +143,9 @@ EKOTURKTV|ym0nvKESjYQ
 Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|Zs1YuxNBrQg
-SkyNews_2|YDvsBbKfLPA
+SkyNews_1|3_-1N2uxVpg
+SkyNews_2|Zs1YuxNBrQg
+SkyNews_3|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|0LyvuaKjnU0
@@ -172,8 +173,7 @@ ABCNews_2|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV_1|CTSB1hqXBCI
-ulusalkanalTV_2|Gcxkjxhbhk8
+ulusalkanalTV|Gcxkjxhbhk8
 CGTNEurope_1|22fDMbWmIw4
 CGTNEurope_2|XQ0MYDSWMps
 CGTNEurope_3|86WQtObiU_U
@@ -370,8 +370,8 @@ OnlarTV|RfqmS7UEbBw
 MucizeDoktor|hyhEyjqL13g
 fenerbahce|UNjodN0qIOk
 sifirtv|8GiqA-lLVzw
-Fireplace4K_1|K1MIC3kjggE
-Fireplace4K_2|i6aXi1i17sM
+Fireplace4K_1|vm2Cqi5U4xw
+Fireplace4K_2|K1MIC3kjggE
 Fireplace4K_3|A5KcDOVnzbI
 Fireplace4K_4|9uXaOyK7JWY
 Fireplace4K_5|-5k7kSe8xck
