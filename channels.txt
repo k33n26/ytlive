@@ -134,9 +134,8 @@ EKOTURKTV|ym0nvKESjYQ
 Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|5DmmkzxIz9s
-SkyNews_2|3_-1N2uxVpg
-SkyNews_3|YDvsBbKfLPA
+SkyNews_1|3_-1N2uxVpg
+SkyNews_2|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|0LyvuaKjnU0
@@ -166,8 +165,9 @@ markets|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|UHXqe9qf_ZM
 ulusalkanalTV|Gcxkjxhbhk8
-CGTNEurope_1|86WQtObiU_U
-CGTNEurope_2|fZqr56lztHw
+CGTNEurope_1|TSMntkN5pYk
+CGTNEurope_2|86WQtObiU_U
+CGTNEurope_3|fZqr56lztHw
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
 globalnewstw_1|Ej3LQM_lTEw
