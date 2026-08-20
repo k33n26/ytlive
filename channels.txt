@@ -48,9 +48,10 @@ KurtlarVadisi|jv8QshEodmQ
 ShauntheSheepOfficial|dBloEq9d49A
 Behzatc.|XPy9T3ePqoQ
 ASpor|-zSaswVrQ_M
-cnnturk_1|ogMaukPITDE
-cnnturk_2|oAzT8NQkjm8
-cnnturk_3|6N8_r2uwLEc
+cnnturk_1|t1oFUPNFuts
+cnnturk_2|ogMaukPITDE
+cnnturk_3|oAzT8NQkjm8
+cnnturk_4|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|5YctvJjCP0o
@@ -192,7 +193,7 @@ warnerbrosentertainment_1|G43NInZfoPE
 warnerbrosentertainment_2|WVwP298MU7I
 EDHOatv|F0yeYa-SSDc
 ntvkenyaonline|6Qj6kqBhflc
-REALTVXEBERLE|5wiqhKLZocA
+REALTVXEBERLE|AxZfFygHSvQ
 KurulusOsman|PobdnBU-QQE
 NewsmaxTV|RNNFrG4KbH0
 EmretKomutanimOfficial|b4U9nt3s128
@@ -257,7 +258,8 @@ ravenhallmusic_3|rz-EJrvfi5w
 ravenhallmusic_4|Zc9QSBmHG4M
 ravenhallmusic_5|DiXFtUQdZ9Y
 ABC7|s3iVFJoxrYc
-KozaTv|0TBY2WtWW7g
+KozaTv_1|aE9zfXHvFVY
+KozaTv_2|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|zFBs4DbJxl8
 mkhabertv|I3qknCSYnRM
@@ -265,7 +267,8 @@ tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
 SyriaTelevision|h6cB5IUmVF0
 medyahabertv8|kyJf0mXuJ9A
-KOREAarirangTV|hvVlyZ5GiE8
+KOREAarirangTV_1|0k1bWDyU_V0
+KOREAarirangTV_2|hvVlyZ5GiE8
 Foxweather|wt6SIE7BXS8
 weathernation|3dDyjHc8DkA
 stormpower4617_1|dQW8xLOf_CU
