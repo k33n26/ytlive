@@ -5,7 +5,8 @@ guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
 Halktvkanali_1|vOsUjDSgRH4
 Halktvkanali_2|jHMsvYrf-UA
-Sozcutelevizyonu|ztmY_cCtUl0
+Sozcutelevizyonu_1|te9-DVE6v4Q
+Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
 KemalSunalFilmleriveSahneleri|qWDd505ciJQ
 arzufilm1964|NqbUZyS58u8
@@ -55,7 +56,8 @@ SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|5YctvJjCP0o
 Ahaber_2|HVSxZ7TCqz0
 liderhabertv|8nt4AKdiMqM
-krtcanli|qLgOv5suNpI
+krtcanli_1|X4ZmSnIw6ro
+krtcanli_2|qLgOv5suNpI
 haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
@@ -90,7 +92,8 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|2D6c_TNwjNA
 trthaber|myv0L5yK_rY
-tgrthaber|WX29nlgdqho
+tgrthaber_1|dUTOYZ_BbXM
+tgrthaber_2|WX29nlgdqho
 bloomberght|5ngQ40FQHv0
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -130,7 +133,7 @@ AltıÜstüİstanbul_2|6pU7QDkeVr8
 a2tv|HtnytvwXi5o
 tv2Resmi|dledjpIgkzg
 euronews|pykpO5kQJ98
-EKOTURKTV|_dvSWIqJ17Y
+EKOTURKTV|qrEaUIZKSIY
 Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
@@ -156,8 +159,7 @@ earthTV_2|HfgIFGbdGJ0
 dwnews|LuKwFajn37U
 aljazeeraenglish|gCNeDWCI0vo
 France24|a47ckXKZjxI
-abcnewsaustralia_1|urP5pOLkK8s
-abcnewsaustralia_2|vOTiJkg1voo
+abcnewsaustralia|vOTiJkg1voo
 ABCNews|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
