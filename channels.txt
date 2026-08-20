@@ -8,8 +8,8 @@ Sozcutelevizyonu|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
 KemalSunalFilmleriveSahneleri|qWDd505ciJQ
 arzufilm1964|NqbUZyS58u8
-FobosPlanet_1|A0DJ7dnxRLo
-FobosPlanet_2|tIPzP7X5huA
+FobosPlanet_1|Jrd08NqLmTQ
+FobosPlanet_2|A0DJ7dnxRLo
 FobosPlanet_3|cjsZyFd955U
 FobosPlanet_4|vHOv3sJWkUs
 FobosPlanet_5|soSXsuGVkqc
@@ -146,10 +146,10 @@ AnimaliaWonders2101_7|bXegdpNDbKU
 AnimaliaWonders2101_8|sypd9O8i8J0
 ensonbabalarduyardizi|NCnmXIuT00E
 4kOceanWorld.8_1|vhzghHZRSjg
-explorebears_1|9oVOQVEOBXk
-explorebears_2|vu7I315gQpU
-explorebears_3|cTsjMtjRLCo
-explorebears_4|z7_GhJeFxQI
+explorebears_1|vu7I315gQpU
+explorebears_2|cTsjMtjRLCo
+explorebears_3|z7_GhJeFxQI
+explorebears_4|wkVLYfU-Kew
 earthTV_1|5p_KGD4fJZs
 earthTV_2|HfgIFGbdGJ0
 dwnews|LuKwFajn37U
@@ -180,9 +180,8 @@ Yeraltidizisi|1sBxo7hM31Y
 Kanal7PakistanDizileri|MTbf4z9L7L8
 SfrBir|ofw2CpH0aw0
 CokGuzelHareketler|Ppbi-hyO8T0
-livenowfox_1|4OfQOsiNE6o
-livenowfox_2|KuPtuV47SB0
-livenowfox_3|C96oohpWBGw
+livenowfox_1|KuPtuV47SB0
+livenowfox_2|C96oohpWBGw
 warnerbrosentertainment_1|G43NInZfoPE
 warnerbrosentertainment_2|WVwP298MU7I
 EDHOatv|F0yeYa-SSDc
@@ -242,8 +241,7 @@ DreamTripspk_3|0FBiyFpV__g
 i24NEWS_EN|
 TheIslandwithBearGrylls|qTQK5hTRGh8
 channelnewsasia|XWq5kBlakcQ
-CBCNews_1|bViWcC6w8mY
-CBCNews_2|5vfaDsMhCF4
+CBCNews|5vfaDsMhCF4
 CNBC|9NyxcX3rhQs
 EnjoyRelaxation-jz7gi_1|Vidt3rpoiUY
 EnjoyRelaxation-jz7gi_2|LeJ5ef6oQpI
