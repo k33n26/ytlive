@@ -10,8 +10,8 @@ Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
 KemalSunalFilmleriveSahneleri|qWDd505ciJQ
 arzufilm1964|NqbUZyS58u8
-FobosPlanet_1|Oy9K3h1OEv4
-FobosPlanet_2|Jrd08NqLmTQ
+FobosPlanet_1|di4ebHpsHtM
+FobosPlanet_2|Oy9K3h1OEv4
 FobosPlanet_3|cjsZyFd955U
 FobosPlanet_4|vHOv3sJWkUs
 FobosPlanet_5|soSXsuGVkqc
@@ -57,11 +57,10 @@ SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|qrYlQcs5Epk
 Ahaber_2|5YctvJjCP0o
 Ahaber_3|HVSxZ7TCqz0
-liderhabertv_1|9Oq5VJSI94E
-liderhabertv_2|8nt4AKdiMqM
+liderhabertv|8nt4AKdiMqM
 krtcanli|qLgOv5suNpI
-haberturktv_1|iDECAHiSowI
-haberturktv_2|xZ4bckaVnvQ
+haberturktv_1|3YwNX9rzHac
+haberturktv_2|iDECAHiSowI
 haberturktv_3|s4KIyYkwiM0
 haberturktv_4|CJHVSYHpVvc
 haberturktv_5|CPXn_5nTtao
@@ -365,7 +364,7 @@ CanlıTürkDizileri_3|BKVkD30_E5A
 CanlıTürkDizileri_4|5WNE2L80sKk
 CanlıTürkDizileri_5|uPQe_zkydMk
 CanlıTürkDizileri_6|Uz7-jEUvq3I
-SportsDigitale|sgOCE-13u0A
+SportsDigitale|OUJ02XxQw6o
 bobross_thejoyofpainting|1SLT1OEX3SU
 Bloomberg-News|DxmDPrfinXY
 incitaneleribkm|73lwpqloExo
