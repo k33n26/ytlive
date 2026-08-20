@@ -47,7 +47,8 @@ gezdolaskesfet_3|TPSG2Xmnu5A
 KurtlarVadisi|jv8QshEodmQ
 ShauntheSheepOfficial|dBloEq9d49A
 Behzatc.|XPy9T3ePqoQ
-ASpor|-zSaswVrQ_M
+ASpor_1|BM32gABKRsc
+ASpor_2|-zSaswVrQ_M
 cnnturk_1|17SzSlZ35q0
 cnnturk_2|bGFugB3iYFI
 cnnturk_3|ogMaukPITDE
@@ -143,8 +144,8 @@ EKOTURKTV|ym0nvKESjYQ
 Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|3_-1N2uxVpg
-SkyNews_2|Zs1YuxNBrQg
+SkyNews_1|jXM-0ecWTnM
+SkyNews_2|3_-1N2uxVpg
 SkyNews_3|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
@@ -193,8 +194,9 @@ Yeraltidizisi|1sBxo7hM31Y
 Kanal7PakistanDizileri|MTbf4z9L7L8
 SfrBir|ofw2CpH0aw0
 CokGuzelHareketler|Ppbi-hyO8T0
-livenowfox_1|KuPtuV47SB0
-livenowfox_2|C96oohpWBGw
+livenowfox_1|onBW7EgwAQg
+livenowfox_2|KuPtuV47SB0
+livenowfox_3|C96oohpWBGw
 warnerbrosentertainment_1|G43NInZfoPE
 warnerbrosentertainment_2|WVwP298MU7I
 EDHOatv|F0yeYa-SSDc
