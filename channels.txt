@@ -6,7 +6,7 @@ tgrtbelgeseltv|32y7IEtD5OU
 Halktvkanali_1|Igv-kH7jFoA
 Halktvkanali_2|R6XLLgsKMsk
 Halktvkanali_3|jHMsvYrf-UA
-Sozcutelevizyonu_1|zHP-VU2Hpz0
+Sozcutelevizyonu_1|12q9tOjS01o
 Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
 KemalSunalFilmleriveSahneleri|qWDd505ciJQ
@@ -59,8 +59,9 @@ Ahaber_1|5YctvJjCP0o
 Ahaber_2|HVSxZ7TCqz0
 liderhabertv_1|7j-R-yTqw1k
 liderhabertv_2|8nt4AKdiMqM
-krtcanli_1|kdvAIVrHwT0
-krtcanli_2|qLgOv5suNpI
+krtcanli_1|3S-MjFgq4yc
+krtcanli_2|kdvAIVrHwT0
+krtcanli_3|qLgOv5suNpI
 haberturktv_1|IfXP82XCgbI
 haberturktv_2|s4KIyYkwiM0
 haberturktv_3|CJHVSYHpVvc
@@ -240,7 +241,8 @@ yesildeniztrt1|DKbXb7x38_Y
 AskMemnuKanalD|JpP13Wp1ke0
 zenginkizfakiroglantrt|3kTcvGWaO3Q
 CNN|GotlA1KKWoo
-kenyacitizentv|oM-4JU897AI
+kenyacitizentv_1|P3ihADZn5Lk
+kenyacitizentv_2|oM-4JU897AI
 TRTAvaz|E1rnoNh89vs
 bbcnewsarabic|O1pGmVtj2Y8
 aljazeeradocumentary|TiPYdMXt_XI
@@ -282,11 +284,12 @@ stormpower4617_2|IV3Fnoaljfs
 stormpower4617_3|5awsvTeNMQQ
 stormpower4617_4|Pd_QZOtHhIs
 stormpower4617_5|A2JdCF7V6hY
-NaimatIslamic_1|w9vzL5YF71g
-NaimatIslamic_2|Hr97PKI7-JA
-NaimatIslamic_3|7yZK3LlYNRk
-NaimatIslamic_4|Ww4XCq0Ilk8
-NaimatIslamic_5|BtMUUgApnPs
+NaimatIslamic_1|Nc_DdcaxCG8
+NaimatIslamic_2|w9vzL5YF71g
+NaimatIslamic_3|Hr97PKI7-JA
+NaimatIslamic_4|7yZK3LlYNRk
+NaimatIslamic_5|Ww4XCq0Ilk8
+NaimatIslamic_6|BtMUUgApnPs
 ClassicMrBean|XQLEvieRMj4
 animalplanet_1|-_HChoYoVNQ
 animalplanet_2|iG_-FTvPiLs
@@ -336,7 +339,7 @@ InadnaAsk|2ruVJaWrORY
 OHayatBenim|TUj6nm-U1vc
 guzelkoyludizi|9aPyolmOTPA
 KizilGoncalarDizisi|cQw5g2z-URs
-SahipsizlerDizi|dIdyscTANSI
+SahipsizlerDizi|2iGA1tngtkY
 fazilethanimvekizlaridizi|2ChuD4CFPF0
 ezel|eo76L8gueeU
 Tozluyaka|Bg3vGWC42Z8
