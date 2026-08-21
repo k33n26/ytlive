@@ -56,9 +56,8 @@ NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|5YctvJjCP0o
 Ahaber_2|HVSxZ7TCqz0
-liderhabertv_1|Cf3A2cOICow
-liderhabertv_2|8nt4AKdiMqM
-krtcanli_1|UBrHxUXsTzA
+liderhabertv|8nt4AKdiMqM
+krtcanli_1|kdvAIVrHwT0
 krtcanli_2|qLgOv5suNpI
 haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
@@ -73,7 +72,8 @@ UltimateNatureDocs_2|JVXC4DrH6PA
 kanal7tvcanli|vlfZ8bYOJ7k
 YirmidortTV_1|6B-nPOdP720
 YirmidortTV_2|qFKEi2BqHYc
-tv100|4WSvLRk83-c
+tv100_1|vsN2bPVphRA
+tv100_2|4WSvLRk83-c
 MuhtesemGumballDunyasi|9LDR3lHACKM
 Kukuli_1|35V5umD3dTA
 Kukuli_2|il-6oO1woek
@@ -92,9 +92,10 @@ kralmuzik_1|O_-NjHABJIg
 kralmuzik_2|6He9sFxFv8Y
 htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
-egemaxtv|UFKGL7DAl2k
+egemaxtv|Hj2nguVCLVQ
 trthaber|myv0L5yK_rY
-tgrthaber|WX29nlgdqho
+tgrthaber_1|-WQwocLyc40
+tgrthaber_2|WX29nlgdqho
 bloomberght|5ngQ40FQHv0
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -258,7 +259,7 @@ ravenhallmusic_3|eDteS8gVDgA
 ravenhallmusic_4|rz-EJrvfi5w
 ravenhallmusic_5|Zc9QSBmHG4M
 ABC7|s3iVFJoxrYc
-KozaTv_1|YMe6Et3VDdw
+KozaTv_1|FmdUpepWSSs
 KozaTv_2|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|o-Nia65v-H0
