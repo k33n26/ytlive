@@ -3,9 +3,9 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|CV5d7XZxs7A
+Halktvkanali_1|bbpMefF_f0U
 Halktvkanali_2|jHMsvYrf-UA
-Sozcutelevizyonu_1|T3wwvLkiDoo
+Sozcutelevizyonu_1|SwWTiWpNbj8
 Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
 KemalSunalFilmleriveSahneleri|qWDd505ciJQ
@@ -56,7 +56,8 @@ NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|5YctvJjCP0o
 Ahaber_2|HVSxZ7TCqz0
-liderhabertv|8nt4AKdiMqM
+liderhabertv_1|Cf3A2cOICow
+liderhabertv_2|8nt4AKdiMqM
 krtcanli_1|UBrHxUXsTzA
 krtcanli_2|qLgOv5suNpI
 haberturktv_1|s4KIyYkwiM0
@@ -139,7 +140,8 @@ EKOTURKTV|7hdJ6PQwv00
 Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews|YDvsBbKfLPA
+SkyNews_1|WJpfv5GHyEU
+SkyNews_2|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|0LyvuaKjnU0
@@ -173,9 +175,10 @@ CGTNEurope_2|86WQtObiU_U
 CGTNEurope_3|fZqr56lztHw
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
-globalnewstw_1|Ej3LQM_lTEw
-globalnewstw_2|w87VGpgd90U
-globalnewstw_3|6IquAgfvYmc
+globalnewstw_1|myn77sbhP7Q
+globalnewstw_2|Ej3LQM_lTEw
+globalnewstw_3|w87VGpgd90U
+globalnewstw_4|6IquAgfvYmc
 turkmalitv|zJbJlAmfx7g
 sakaryafirattrt|LrXSGDCnmnQ
 BZC|yq2QNxzcUUo
@@ -258,7 +261,7 @@ ravenhallmusic_4|Zc9QSBmHG4M
 ABC7|s3iVFJoxrYc
 KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
-Nilradyotv|_93dlOsUKEI
+Nilradyotv|o-Nia65v-H0
 mkhabertv|acDvpc3bHU4
 tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
@@ -361,8 +364,8 @@ OnlarTV|RfqmS7UEbBw
 MucizeDoktor|hyhEyjqL13g
 fenerbahce|UNjodN0qIOk
 sifirtv|8GiqA-lLVzw
-Fireplace4K_1|vm2Cqi5U4xw
-Fireplace4K_2|K1MIC3kjggE
+Fireplace4K_1|PDMd7HojUI4
+Fireplace4K_2|vm2Cqi5U4xw
 Fireplace4K_3|A5KcDOVnzbI
 Fireplace4K_4|9uXaOyK7JWY
 Fireplace4K_5|-5k7kSe8xck
