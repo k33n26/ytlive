@@ -17,7 +17,6 @@ FobosPlanet_4|vHOv3sJWkUs
 FobosPlanet_5|soSXsuGVkqc
 FobosPlanet_6|mKCieTImjvU
 FobosPlanet_7|edKgbxcn5UA
-FobosPlanet_8|4WHshH5c-x8
 beINSPORTSTurkiye|i7UpPgxfZZ8
 avsarfilm|wJbP12jam70
 TurkFilmleri-TV|MPPOKE82HcQ
@@ -62,8 +61,7 @@ haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
 haberturktv_4|RNVNlJSUFoE
-haberglobal_1|MxPZ9axQEF0
-haberglobal_2|EqoCJ8BPxtE
+haberglobal|EqoCJ8BPxtE
 FilmAtolyesi|Jkg74w73aoQ
 MiParaisoVision_1|_ZapRaWABAo
 MiParaisoVision_2|VABzf7Ig4l4
@@ -260,8 +258,7 @@ ravenhallmusic_3|eDteS8gVDgA
 ravenhallmusic_4|rz-EJrvfi5w
 ravenhallmusic_5|Zc9QSBmHG4M
 ABC7|s3iVFJoxrYc
-KozaTv_1|vbGO40NKv54
-KozaTv_2|0TBY2WtWW7g
+KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|VlXtB_sHLHA
 mkhabertv|M2adbdeFfeo
