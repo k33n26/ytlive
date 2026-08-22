@@ -167,11 +167,12 @@ markets|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|UHXqe9qf_ZM
 ulusalkanalTV|Gcxkjxhbhk8
-CGTNEurope_1|2pLzBCxiJK8
-CGTNEurope_2|y2z5m7OOH8k
-CGTNEurope_3|7kctUdoBaXU
-CGTNEurope_4|86WQtObiU_U
-CGTNEurope_5|fZqr56lztHw
+CGTNEurope_1|MFx79tpMtjk
+CGTNEurope_2|2pLzBCxiJK8
+CGTNEurope_3|y2z5m7OOH8k
+CGTNEurope_4|7kctUdoBaXU
+CGTNEurope_5|86WQtObiU_U
+CGTNEurope_6|fZqr56lztHw
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
 globalnewstw_1|Ej3LQM_lTEw
