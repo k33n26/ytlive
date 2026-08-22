@@ -58,9 +58,8 @@ Ahaber_1|-GCOmIyLU-4
 Ahaber_2|5YctvJjCP0o
 Ahaber_3|HVSxZ7TCqz0
 liderhabertv|8nt4AKdiMqM
-krtcanli_1|EcJF-P5SH6g
-krtcanli_2|_k0wG2Qah1g
-haberturktv_1|9RFVDgPuM9U
+krtcanli|_k0wG2Qah1g
+haberturktv_1|yQj_MgJA5z4
 haberturktv_2|s4KIyYkwiM0
 haberturktv_3|CJHVSYHpVvc
 haberturktv_4|CPXn_5nTtao
@@ -176,9 +175,8 @@ CGTNEurope_1|GrD8sigOMfE
 CGTNEurope_2|MFx79tpMtjk
 CGTNEurope_3|2pLzBCxiJK8
 CGTNEurope_4|y2z5m7OOH8k
-CGTNEurope_5|7kctUdoBaXU
-CGTNEurope_6|86WQtObiU_U
-CGTNEurope_7|fZqr56lztHw
+CGTNEurope_5|86WQtObiU_U
+CGTNEurope_6|fZqr56lztHw
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
 globalnewstw_1|Ej3LQM_lTEw
@@ -256,8 +254,7 @@ DreamTripspk_3|0FBiyFpV__g
 i24NEWS_EN|
 TheIslandwithBearGrylls|qTQK5hTRGh8
 channelnewsasia|XWq5kBlakcQ
-CBCNews_1|lQ_T-FEk9v4
-CBCNews_2|5vfaDsMhCF4
+CBCNews|5vfaDsMhCF4
 CNBC|9NyxcX3rhQs
 EnjoyRelaxation-jz7gi_1|1J12ayJxExU
 EnjoyRelaxation-jz7gi_2|LeJ5ef6oQpI
@@ -375,8 +372,8 @@ OnlarTV|RfqmS7UEbBw
 MucizeDoktor|hyhEyjqL13g
 fenerbahce|CmS1I1Cofig
 sifirtv|8GiqA-lLVzw
-Fireplace4K_1|OrOLmCL7RYE
-Fireplace4K_2|N2UcSJLVUbA
+Fireplace4K_1|9Uh8rRBTCCU
+Fireplace4K_2|OrOLmCL7RYE
 Fireplace4K_3|A5KcDOVnzbI
 Fireplace4K_4|9uXaOyK7JWY
 Fireplace4K_5|-5k7kSe8xck
