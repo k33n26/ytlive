@@ -57,10 +57,11 @@ Ahaber_1|5YctvJjCP0o
 Ahaber_2|HVSxZ7TCqz0
 liderhabertv|8nt4AKdiMqM
 krtcanli|y1cqEixZ4bU
-haberturktv_1|s4KIyYkwiM0
-haberturktv_2|CJHVSYHpVvc
-haberturktv_3|CPXn_5nTtao
-haberturktv_4|RNVNlJSUFoE
+haberturktv_1|thzHeZ6VMMM
+haberturktv_2|s4KIyYkwiM0
+haberturktv_3|CJHVSYHpVvc
+haberturktv_4|CPXn_5nTtao
+haberturktv_5|RNVNlJSUFoE
 haberglobal_1|MxPZ9axQEF0
 haberglobal_2|EqoCJ8BPxtE
 FilmAtolyesi|Jkg74w73aoQ
@@ -259,7 +260,7 @@ ravenhallmusic_5|Zc9QSBmHG4M
 ABC7|s3iVFJoxrYc
 KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
-Nilradyotv|o-Nia65v-H0
+Nilradyotv|VWDnu1fvur0
 mkhabertv|eslGlFHr4Jg
 tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
@@ -365,8 +366,8 @@ OnlarTV|RfqmS7UEbBw
 MucizeDoktor|hyhEyjqL13g
 fenerbahce|UNjodN0qIOk
 sifirtv|8GiqA-lLVzw
-Fireplace4K_1|Uyrw1Qmkd8Q
-Fireplace4K_2|hCXVfzdEwUI
+Fireplace4K_1|N2UcSJLVUbA
+Fireplace4K_2|Uyrw1Qmkd8Q
 Fireplace4K_3|A5KcDOVnzbI
 Fireplace4K_4|9uXaOyK7JWY
 Fireplace4K_5|-5k7kSe8xck
