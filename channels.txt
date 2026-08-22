@@ -47,9 +47,8 @@ gezdolaskesfet_3|TPSG2Xmnu5A
 KurtlarVadisi|jv8QshEodmQ
 ShauntheSheepOfficial|dBloEq9d49A
 Behzatc.|XPy9T3ePqoQ
-ASpor_1|A4WAbS61BvQ
-ASpor_2|-zSaswVrQ_M
-cnnturk_1|pwINrIlHWLw
+ASpor|-zSaswVrQ_M
+cnnturk_1|iSmYxuw_EYo
 cnnturk_2|XKSEefsE2Nw
 cnnturk_3|ogMaukPITDE
 cnnturk_4|6N8_r2uwLEc
@@ -171,7 +170,8 @@ ABCNews_2|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV|Gcxkjxhbhk8
+ulusalkanalTV_1|6A-p3ZOdRcM
+ulusalkanalTV_2|Gcxkjxhbhk8
 CGTNEurope_1|GrD8sigOMfE
 CGTNEurope_2|MFx79tpMtjk
 CGTNEurope_3|2pLzBCxiJK8
@@ -366,13 +366,13 @@ CanlıTürkDizileri_3|BKVkD30_E5A
 CanlıTürkDizileri_4|5WNE2L80sKk
 CanlıTürkDizileri_5|uPQe_zkydMk
 CanlıTürkDizileri_6|Uz7-jEUvq3I
-SportsDigitale|OUJ02XxQw6o
+SportsDigitale|T-Y5yStjDXQ
 bobross_thejoyofpainting|1SLT1OEX3SU
 Bloomberg-News|DxmDPrfinXY
 incitaneleribkm|73lwpqloExo
 OnlarTV|RfqmS7UEbBw
 MucizeDoktor|hyhEyjqL13g
-fenerbahce|IgNWkukBGDU
+fenerbahce|CmS1I1Cofig
 sifirtv|8GiqA-lLVzw
 Fireplace4K_1|OrOLmCL7RYE
 Fireplace4K_2|N2UcSJLVUbA
