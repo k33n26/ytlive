@@ -3,9 +3,9 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|LqUru8MF4f8
+Halktvkanali_1|l77tBHoE74U
 Halktvkanali_2|jHMsvYrf-UA
-Sozcutelevizyonu_1|SOQlGcD3ZDU
+Sozcutelevizyonu_1|IFNjO3dZEeg
 Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
 KemalSunalFilmleriveSahneleri|qWDd505ciJQ
@@ -57,7 +57,8 @@ SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|5YctvJjCP0o
 Ahaber_2|HVSxZ7TCqz0
 liderhabertv|8nt4AKdiMqM
-krtcanli|_k0wG2Qah1g
+krtcanli_1|3cjHFi9THBQ
+krtcanli_2|_k0wG2Qah1g
 haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
@@ -137,7 +138,8 @@ EKOTURKTV|7hdJ6PQwv00
 Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews|YDvsBbKfLPA
+SkyNews_1|FVWUoLN8_Po
+SkyNews_2|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|1LhlXiSc5NY
 AnimaliaWonders2101_1|0LyvuaKjnU0
@@ -262,7 +264,8 @@ ravenhallmusic_3|eDteS8gVDgA
 ravenhallmusic_4|rz-EJrvfi5w
 ravenhallmusic_5|Zc9QSBmHG4M
 ABC7|s3iVFJoxrYc
-KozaTv|0TBY2WtWW7g
+KozaTv_1|7vQYV2AW_5E
+KozaTv_2|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|R0CvFpQLPN8
 mkhabertv|reFHgUidJFk
