@@ -47,8 +47,7 @@ gezdolaskesfet_3|TPSG2Xmnu5A
 KurtlarVadisi|jv8QshEodmQ
 ShauntheSheepOfficial|dBloEq9d49A
 Behzatc.|XPy9T3ePqoQ
-ASpor_1|BIrlhLmZYcI
-ASpor_2|-zSaswVrQ_M
+ASpor|-zSaswVrQ_M
 cnnturk_1|iSmYxuw_EYo
 cnnturk_2|XKSEefsE2Nw
 cnnturk_3|ogMaukPITDE
@@ -119,8 +118,10 @@ SelenaDizi|1lyLi6l74fs
 CocuklarDuymasnKanalD|g7oVIIevRMk
 CocuklarDuymasin|4SrvTqYmHvM
 YalanDunyaKanalD|Efh06uzzORM
-NatGeo|-WFnJpntwZg
-NatGeoAnimals|MiQe9ob9aDc
+NatGeo_1|-WFnJpntwZg
+NatGeo_2|RWYwYnc1ZI0
+NatGeoAnimals_1|J4IYwyEUwrI
+NatGeoAnimals_2|MiQe9ob9aDc
 natgeokids_1|H-h657jXQyA
 natgeokids_2|q5xC6wv9Ut0
 StarTVResmi|82O6yOy_XwE
@@ -129,6 +130,7 @@ discovery_2|0IaZpvpPVGs
 Adanali|sF1AgroEr60
 AvrupaYakasi|NGsjOrzwjZk
 LoveNaturePredators_1|YRIkyaX2in0
+LoveNaturePredators_2|7ByKk5NPsRw
 atvturkiye|Kjg1HulXQfw
 AltıÜstüİstanbul_1|ia_Puv4LZRo
 AltıÜstüİstanbul_2|6pU7QDkeVr8
