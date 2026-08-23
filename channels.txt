@@ -48,7 +48,7 @@ KurtlarVadisi|jv8QshEodmQ
 ShauntheSheepOfficial|dBloEq9d49A
 Behzatc.|XPy9T3ePqoQ
 ASpor|-zSaswVrQ_M
-cnnturk_1|1tTDI5DlXyU
+cnnturk_1|PRAePA1KMOg
 cnnturk_2|XKSEefsE2Nw
 cnnturk_3|ogMaukPITDE
 cnnturk_4|6N8_r2uwLEc
@@ -59,12 +59,12 @@ Ahaber_2|HVSxZ7TCqz0
 liderhabertv|8nt4AKdiMqM
 krtcanli_1|3RD3MqyOgTw
 krtcanli_2|_k0wG2Qah1g
-haberturktv_1|hbNF1eppfPo
-haberturktv_2|-JZLTDgYN60
-haberturktv_3|s4KIyYkwiM0
-haberturktv_4|CJHVSYHpVvc
-haberturktv_5|CPXn_5nTtao
-haberturktv_6|RNVNlJSUFoE
+krtcanli_3|HxDRpNm_QyU
+haberturktv_1|-JZLTDgYN60
+haberturktv_2|s4KIyYkwiM0
+haberturktv_3|CJHVSYHpVvc
+haberturktv_4|CPXn_5nTtao
+haberturktv_5|RNVNlJSUFoE
 haberglobal_1|HQQiZOJk8Uo
 haberglobal_2|EqoCJ8BPxtE
 FilmAtolyesi|Jkg74w73aoQ
@@ -172,7 +172,8 @@ ABCNews_2|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV|Gcxkjxhbhk8
+ulusalkanalTV_1|cHLqGfbKk_0
+ulusalkanalTV_2|Gcxkjxhbhk8
 CGTNEurope_1|6bd039kvqd0
 CGTNEurope_2|GrD8sigOMfE
 CGTNEurope_3|fZqr56lztHw
