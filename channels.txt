@@ -11,8 +11,8 @@ Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
 KemalSunalFilmleriveSahneleri|qWDd505ciJQ
 arzufilm1964|NqbUZyS58u8
-FobosPlanet_1|DNsHlnSMgLw
-FobosPlanet_2|xsKb7dslSP0
+FobosPlanet_1|avMbwIqjG9w
+FobosPlanet_2|DNsHlnSMgLw
 FobosPlanet_3|cjsZyFd955U
 FobosPlanet_4|vHOv3sJWkUs
 FobosPlanet_5|soSXsuGVkqc
@@ -57,8 +57,7 @@ NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|5YctvJjCP0o
 Ahaber_2|HVSxZ7TCqz0
-liderhabertv_1|_sTUxXKqpQs
-liderhabertv_2|8nt4AKdiMqM
+liderhabertv|8nt4AKdiMqM
 krtcanli_1|HxDRpNm_QyU
 krtcanli_2|_k0wG2Qah1g
 haberturktv_1|AGFdp-p_KUs
@@ -171,7 +170,8 @@ ABCNews_2|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV|Gcxkjxhbhk8
+ulusalkanalTV_1|6OjupAyXdvU
+ulusalkanalTV_2|Gcxkjxhbhk8
 CGTNEurope_1|6bd039kvqd0
 CGTNEurope_2|GrD8sigOMfE
 CGTNEurope_3|fZqr56lztHw
