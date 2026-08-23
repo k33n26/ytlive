@@ -58,7 +58,8 @@ SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|zvWYu6KkLWc
 Ahaber_2|feSTYPjvssY
 Ahaber_3|HVSxZ7TCqz0
-liderhabertv|8nt4AKdiMqM
+liderhabertv_1|bqqjcR2rJmg
+liderhabertv_2|8nt4AKdiMqM
 krtcanli|_k0wG2Qah1g
 haberturktv_1|-JZLTDgYN60
 haberturktv_2|s4KIyYkwiM0
@@ -361,7 +362,7 @@ CanlıTürkDizileri_3|BKVkD30_E5A
 CanlıTürkDizileri_4|5WNE2L80sKk
 CanlıTürkDizileri_5|uPQe_zkydMk
 CanlıTürkDizileri_6|Uz7-jEUvq3I
-SportsDigitale|hQjrHXvdneo
+SportsDigitale|S7ixu0TgRqM
 bobross_thejoyofpainting|1SLT1OEX3SU
 Bloomberg-News|DxmDPrfinXY
 incitaneleribkm|73lwpqloExo
