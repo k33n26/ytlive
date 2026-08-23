@@ -3,9 +3,7 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|2PWLSNaVlB4
-Halktvkanali_2|kwqY2hchGdg
-Halktvkanali_3|jHMsvYrf-UA
+Halktvkanali|jHMsvYrf-UA
 Sozcutelevizyonu_1|cv_vnFz5NKg
 Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
@@ -61,11 +59,10 @@ Ahaber_3|HVSxZ7TCqz0
 liderhabertv|8nt4AKdiMqM
 krtcanli|_k0wG2Qah1g
 haberturktv_1|XlKLzKJK-AY
-haberturktv_2|YncJu5M5TNM
-haberturktv_3|s4KIyYkwiM0
-haberturktv_4|CJHVSYHpVvc
-haberturktv_5|CPXn_5nTtao
-haberturktv_6|RNVNlJSUFoE
+haberturktv_2|s4KIyYkwiM0
+haberturktv_3|CJHVSYHpVvc
+haberturktv_4|CPXn_5nTtao
+haberturktv_5|RNVNlJSUFoE
 haberglobal|EqoCJ8BPxtE
 FilmAtolyesi|Jkg74w73aoQ
 MiParaisoVision_1|_ZapRaWABAo
@@ -167,8 +164,7 @@ dwnews|LuKwFajn37U
 aljazeeraenglish|gCNeDWCI0vo
 France24|a47ckXKZjxI
 abcnewsaustralia|vOTiJkg1voo
-ABCNews_1|KuBRGFRYQqU
-ABCNews_2|iipR5yUp36o
+ABCNews|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|UHXqe9qf_ZM
