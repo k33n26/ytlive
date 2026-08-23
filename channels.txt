@@ -3,7 +3,7 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|w7Kjb6KAy48
+Halktvkanali_1|2PWLSNaVlB4
 Halktvkanali_2|kwqY2hchGdg
 Halktvkanali_3|jHMsvYrf-UA
 Sozcutelevizyonu_1|tMQ36EJlcpo
@@ -61,11 +61,12 @@ Ahaber_3|HVSxZ7TCqz0
 liderhabertv_1|bqqjcR2rJmg
 liderhabertv_2|8nt4AKdiMqM
 krtcanli|_k0wG2Qah1g
-haberturktv_1|YncJu5M5TNM
-haberturktv_2|s4KIyYkwiM0
-haberturktv_3|CJHVSYHpVvc
-haberturktv_4|CPXn_5nTtao
-haberturktv_5|RNVNlJSUFoE
+haberturktv_1|XlKLzKJK-AY
+haberturktv_2|YncJu5M5TNM
+haberturktv_3|s4KIyYkwiM0
+haberturktv_4|CJHVSYHpVvc
+haberturktv_5|CPXn_5nTtao
+haberturktv_6|RNVNlJSUFoE
 haberglobal_1|HQQiZOJk8Uo
 haberglobal_2|EqoCJ8BPxtE
 FilmAtolyesi|Jkg74w73aoQ
@@ -325,7 +326,7 @@ KirazMevsimiDizi|zVMWX2TAHJE
 istanbullugelindizi|aEpFqn48Hwg
 UzakSehirDizi|4uTbwXSBfhk
 Medcezirtvdizisi|yu2-hTNkr6c
-CilekKokusuDizi|V5fDcWHMS5U
+CilekKokusuDizi|FkhsWa5TeDQ
 HerYerdeSen|NInTNH-nSvc
 BayYanlisDizi|S-jm68GwIak
 InadnaAsk|2ruVJaWrORY
@@ -360,7 +361,7 @@ CanlıTürkDizileri_3|BKVkD30_E5A
 CanlıTürkDizileri_4|5WNE2L80sKk
 CanlıTürkDizileri_5|uPQe_zkydMk
 CanlıTürkDizileri_6|Uz7-jEUvq3I
-SportsDigitale|S7ixu0TgRqM
+SportsDigitale|HgKbOkfaWfA
 bobross_thejoyofpainting|1SLT1OEX3SU
 Bloomberg-News|DxmDPrfinXY
 incitaneleribkm|73lwpqloExo
