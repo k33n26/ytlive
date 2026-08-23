@@ -57,8 +57,9 @@ SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|5YctvJjCP0o
 Ahaber_2|HVSxZ7TCqz0
 liderhabertv|8nt4AKdiMqM
-krtcanli_1|Ic7WNs6ou_c
-krtcanli_2|_k0wG2Qah1g
+krtcanli_1|dYe9n8dcSbU
+krtcanli_2|Ic7WNs6ou_c
+krtcanli_3|_k0wG2Qah1g
 haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
@@ -248,7 +249,8 @@ DreamTripspk_2|jA0O59m9OTA
 DreamTripspk_3|0FBiyFpV__g
 i24NEWS_EN|
 TheIslandwithBearGrylls|qTQK5hTRGh8
-channelnewsasia|XWq5kBlakcQ
+channelnewsasia_1|eAHSgwe4JDk
+channelnewsasia_2|XWq5kBlakcQ
 CBCNews|5vfaDsMhCF4
 CNBC|9NyxcX3rhQs
 EnjoyRelaxation-jz7gi_1|p9JEx6wJFLQ
