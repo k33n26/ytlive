@@ -47,9 +47,10 @@ KurtlarVadisi|jv8QshEodmQ
 ShauntheSheepOfficial|dBloEq9d49A
 Behzatc.|XPy9T3ePqoQ
 ASpor|-zSaswVrQ_M
-cnnturk_1|XKSEefsE2Nw
-cnnturk_2|ogMaukPITDE
-cnnturk_3|6N8_r2uwLEc
+cnnturk_1|1tTDI5DlXyU
+cnnturk_2|XKSEefsE2Nw
+cnnturk_3|ogMaukPITDE
+cnnturk_4|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|5YctvJjCP0o
@@ -88,7 +89,8 @@ apara|Fas1VhgP8Uk
 cnbce|aZ3ycSbSYBA
 kralmuzik_1|O_-NjHABJIg
 kralmuzik_2|6He9sFxFv8Y
-htspor|gcWaPe_LBMc
+htspor_1|M0IiKVk5t48
+htspor_2|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|Hj2nguVCLVQ
 trthaber|myv0L5yK_rY
@@ -257,7 +259,7 @@ ravenhallmusic_4|Zc9QSBmHG4M
 ABC7|s3iVFJoxrYc
 KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
-Nilradyotv|ZL5rzeG5ZqU
+Nilradyotv|L-Ph9nJeero
 mkhabertv|reFHgUidJFk
 tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
@@ -361,8 +363,8 @@ OnlarTV|RfqmS7UEbBw
 MucizeDoktor|hyhEyjqL13g
 fenerbahce|CmS1I1Cofig
 sifirtv|8GiqA-lLVzw
-Fireplace4K_1|QriL3MtM70g
-Fireplace4K_2|9Uh8rRBTCCU
+Fireplace4K_1|HFcHmc1Q6qI
+Fireplace4K_2|QriL3MtM70g
 Fireplace4K_3|A5KcDOVnzbI
 Fireplace4K_4|9uXaOyK7JWY
 Fireplace4K_5|-5k7kSe8xck
