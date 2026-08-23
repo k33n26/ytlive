@@ -54,12 +54,12 @@ cnnturk_3|ogMaukPITDE
 cnnturk_4|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|_-g2YYka8-I
-Ahaber_1|5YctvJjCP0o
-Ahaber_2|HVSxZ7TCqz0
+Ahaber_1|zvWYu6KkLWc
+Ahaber_2|feSTYPjvssY
+Ahaber_3|HVSxZ7TCqz0
 liderhabertv|8nt4AKdiMqM
 krtcanli_1|3RD3MqyOgTw
 krtcanli_2|_k0wG2Qah1g
-krtcanli_3|HxDRpNm_QyU
 haberturktv_1|-JZLTDgYN60
 haberturktv_2|s4KIyYkwiM0
 haberturktv_3|CJHVSYHpVvc
@@ -97,7 +97,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|Hj2nguVCLVQ
 trthaber|myv0L5yK_rY
-tgrthaber_1|LdDIgz9mxQ0
+tgrthaber_1|5iUx9XT5biA
 tgrthaber_2|WX29nlgdqho
 bloomberght|5ngQ40FQHv0
 Minikago|LBW6-pJuVI0
@@ -172,8 +172,7 @@ ABCNews_2|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV_1|cHLqGfbKk_0
-ulusalkanalTV_2|Gcxkjxhbhk8
+ulusalkanalTV|Gcxkjxhbhk8
 CGTNEurope_1|6bd039kvqd0
 CGTNEurope_2|GrD8sigOMfE
 CGTNEurope_3|fZqr56lztHw
