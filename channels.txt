@@ -3,11 +3,9 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|-eQTxJCQsGI
-Halktvkanali_2|X1k7rQvCn_E
-Halktvkanali_3|jHMsvYrf-UA
-Sozcutelevizyonu_1|LIky84vyuSk
-Sozcutelevizyonu_2|ztmY_cCtUl0
+Halktvkanali_1|X1k7rQvCn_E
+Halktvkanali_2|jHMsvYrf-UA
+Sozcutelevizyonu|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
 KemalSunalFilmleriveSahneleri|qWDd505ciJQ
 arzufilm1964|NqbUZyS58u8
@@ -91,8 +89,7 @@ apara|Fas1VhgP8Uk
 cnbce|aZ3ycSbSYBA
 kralmuzik_1|O_-NjHABJIg
 kralmuzik_2|6He9sFxFv8Y
-htspor_1|M0IiKVk5t48
-htspor_2|gcWaPe_LBMc
+htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|Hj2nguVCLVQ
 trthaber|myv0L5yK_rY
