@@ -3,8 +3,7 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|wp5m0KIClTY
-Halktvkanali_2|jHMsvYrf-UA
+Halktvkanali|jHMsvYrf-UA
 Sozcutelevizyonu_1|LIky84vyuSk
 Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
@@ -56,8 +55,10 @@ NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|5YctvJjCP0o
 Ahaber_2|HVSxZ7TCqz0
-liderhabertv|8nt4AKdiMqM
-krtcanli|_k0wG2Qah1g
+liderhabertv_1|fzhojx_JtYQ
+liderhabertv_2|8nt4AKdiMqM
+krtcanli_1|ys7QLq0yAUk
+krtcanli_2|_k0wG2Qah1g
 haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
@@ -162,7 +163,8 @@ dwnews|LuKwFajn37U
 aljazeeraenglish|gCNeDWCI0vo
 France24|a47ckXKZjxI
 abcnewsaustralia|vOTiJkg1voo
-ABCNews|iipR5yUp36o
+ABCNews_1|KuBRGFRYQqU
+ABCNews_2|iipR5yUp36o
 markets_1|dlNkIfQH3sA
 markets_2|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
@@ -261,7 +263,7 @@ ravenhallmusic_4|Zc9QSBmHG4M
 ABC7|s3iVFJoxrYc
 KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
-Nilradyotv|L-Ph9nJeero
+Nilradyotv|EwLM5Gb7lMU
 mkhabertv|KEWWZbcZjvM
 tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
