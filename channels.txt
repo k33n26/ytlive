@@ -3,11 +3,8 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|0pyO3W8vh94
-Halktvkanali_2|PYm-mgt80oE
-Halktvkanali_3|jHMsvYrf-UA
-Sozcutelevizyonu_1|hmJrZO3m3HQ
-Sozcutelevizyonu_2|ztmY_cCtUl0
+Halktvkanali|jHMsvYrf-UA
+Sozcutelevizyonu|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
 KemalSunalFilmleriveSahneleri|qWDd505ciJQ
 arzufilm1964|NqbUZyS58u8
@@ -58,8 +55,8 @@ SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|5YctvJjCP0o
 Ahaber_2|HVSxZ7TCqz0
 liderhabertv|8nt4AKdiMqM
-krtcanli_1|HxDRpNm_QyU
-krtcanli_2|_k0wG2Qah1g
+krtcanli_1|_k0wG2Qah1g
+krtcanli_2|Ic7WNs6ou_c
 haberturktv_1|AGFdp-p_KUs
 haberturktv_2|s4KIyYkwiM0
 haberturktv_3|CJHVSYHpVvc
@@ -96,7 +93,8 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|Hj2nguVCLVQ
 trthaber|myv0L5yK_rY
-tgrthaber|WX29nlgdqho
+tgrthaber_1|LdDIgz9mxQ0
+tgrthaber_2|WX29nlgdqho
 bloomberght|5ngQ40FQHv0
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
