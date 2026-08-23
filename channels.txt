@@ -247,7 +247,8 @@ DreamTripspk_2|jA0O59m9OTA
 DreamTripspk_3|0FBiyFpV__g
 i24NEWS_EN|
 TheIslandwithBearGrylls|qTQK5hTRGh8
-channelnewsasia|XWq5kBlakcQ
+channelnewsasia_1|wluee30Ly0w
+channelnewsasia_2|XWq5kBlakcQ
 CBCNews|5vfaDsMhCF4
 CNBC|9NyxcX3rhQs
 EnjoyRelaxation-jz7gi_1|p9JEx6wJFLQ
@@ -258,8 +259,7 @@ ravenhallmusic_2|DM5a415zLgw
 ravenhallmusic_3|eDteS8gVDgA
 ravenhallmusic_4|Zc9QSBmHG4M
 ABC7|s3iVFJoxrYc
-KozaTv_1|nC2B6Oni104
-KozaTv_2|0TBY2WtWW7g
+KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|L-Ph9nJeero
 mkhabertv|KEWWZbcZjvM
