@@ -57,9 +57,7 @@ SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|5YctvJjCP0o
 Ahaber_2|HVSxZ7TCqz0
 liderhabertv|8nt4AKdiMqM
-krtcanli_1|dYe9n8dcSbU
-krtcanli_2|Ic7WNs6ou_c
-krtcanli_3|_k0wG2Qah1g
+krtcanli|_k0wG2Qah1g
 haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
@@ -165,7 +163,8 @@ aljazeeraenglish|gCNeDWCI0vo
 France24|a47ckXKZjxI
 abcnewsaustralia|vOTiJkg1voo
 ABCNews|iipR5yUp36o
-markets|QB5BNdBFujE
+markets_1|dlNkIfQH3sA
+markets_2|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|UHXqe9qf_ZM
 ulusalkanalTV|Gcxkjxhbhk8
@@ -235,8 +234,7 @@ yesildeniztrt1|DKbXb7x38_Y
 AskMemnuKanalD|JpP13Wp1ke0
 zenginkizfakiroglantrt|3kTcvGWaO3Q
 CNN|GotlA1KKWoo
-kenyacitizentv_1|uOyQzCZI4Yw
-kenyacitizentv_2|oM-4JU897AI
+kenyacitizentv|oM-4JU897AI
 TRTAvaz|E1rnoNh89vs
 bbcnewsarabic|O1pGmVtj2Y8
 aljazeeradocumentary|TiPYdMXt_XI
@@ -249,8 +247,7 @@ DreamTripspk_2|jA0O59m9OTA
 DreamTripspk_3|0FBiyFpV__g
 i24NEWS_EN|
 TheIslandwithBearGrylls|qTQK5hTRGh8
-channelnewsasia_1|eAHSgwe4JDk
-channelnewsasia_2|XWq5kBlakcQ
+channelnewsasia|XWq5kBlakcQ
 CBCNews|5vfaDsMhCF4
 CNBC|9NyxcX3rhQs
 EnjoyRelaxation-jz7gi_1|p9JEx6wJFLQ
@@ -261,7 +258,8 @@ ravenhallmusic_2|DM5a415zLgw
 ravenhallmusic_3|eDteS8gVDgA
 ravenhallmusic_4|Zc9QSBmHG4M
 ABC7|s3iVFJoxrYc
-KozaTv|0TBY2WtWW7g
+KozaTv_1|nC2B6Oni104
+KozaTv_2|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|L-Ph9nJeero
 mkhabertv|KEWWZbcZjvM
