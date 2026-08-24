@@ -6,8 +6,7 @@ tgrtbelgeseltv|32y7IEtD5OU
 Halktvkanali_1|5XkhkgMNst8
 Halktvkanali_2|CCQB379fmQk
 Halktvkanali_3|jHMsvYrf-UA
-Sozcutelevizyonu_1|6C6o3mRhqLY
-Sozcutelevizyonu_2|ztmY_cCtUl0
+Sozcutelevizyonu|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
 KemalSunalFilmleriveSahneleri|qWDd505ciJQ
 arzufilm1964|NqbUZyS58u8
@@ -59,8 +58,7 @@ Ahaber_1|6NkdTWxMpAg
 Ahaber_2|HVSxZ7TCqz0
 liderhabertv_1|FbAoCuG0IUY
 liderhabertv_2|8nt4AKdiMqM
-krtcanli_1|al5WMhW_0RI
-krtcanli_2|_k0wG2Qah1g
+krtcanli|_k0wG2Qah1g
 haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
@@ -83,7 +81,7 @@ Kukuli_4|-vZhzeEQ_jI
 Kukuli_5|T4znQ-gcZhg
 KralSakirResmi|Cp84HfZoZ5w
 TalkingFriendsTR|LlsGJTxTS6o
-Kidstvturke|d6IW7gr7Ejo
+Kidstvturke|f_Ap1YBjiZU
 MotherNatureMelodies|nl-zb4hmi_A
 ForestSoundsUHD_1|WGVJFw_cPEE
 ForestSoundsUHD_2|8kEzFZvtLzM
@@ -135,8 +133,7 @@ AltıÜstüİstanbul_1|ia_Puv4LZRo
 AltıÜstüİstanbul_2|6pU7QDkeVr8
 a2tv|HtnytvwXi5o
 tv2Resmi|qWoSFQYASiw
-euronews_1|rs8EAjNb8qk
-euronews_2|pykpO5kQJ98
+euronews|pykpO5kQJ98
 EKOTURKTV|9a_rPW7bkfk
 Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
@@ -266,9 +263,8 @@ ravenhallmusic_3|DM5a415zLgw
 ravenhallmusic_4|eDteS8gVDgA
 ravenhallmusic_5|Zc9QSBmHG4M
 ABC7|s3iVFJoxrYc
-KozaTv_1|-SdYvWe3O_Q
-KozaTv_2|bBzAJ0zxCsI
-KozaTv_3|0TBY2WtWW7g
+KozaTv_1|xH5XOLQq_w4
+KozaTv_2|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|fkkOE5bNpDU
 mkhabertv|HK-mRlANuMc
