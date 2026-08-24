@@ -3,8 +3,7 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|gz_Vn6EiizI
-Halktvkanali_2|jHMsvYrf-UA
+Halktvkanali|jHMsvYrf-UA
 Sozcutelevizyonu_1|LTAutRP39ao
 Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
@@ -58,8 +57,7 @@ SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|Uhf_bjnGs88
 Ahaber_2|6NkdTWxMpAg
 Ahaber_3|HVSxZ7TCqz0
-liderhabertv_1|meES-8C34C4
-liderhabertv_2|8nt4AKdiMqM
+liderhabertv|8nt4AKdiMqM
 krtcanli|_k0wG2Qah1g
 haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
@@ -74,8 +72,7 @@ UltimateNatureDocs_2|JVXC4DrH6PA
 kanal7tvcanli|vlfZ8bYOJ7k
 YirmidortTV_1|6B-nPOdP720
 YirmidortTV_2|qFKEi2BqHYc
-tv100_1|EZFZXYCo1eM
-tv100_2|4WSvLRk83-c
+tv100|4WSvLRk83-c
 MuhtesemGumballDunyasi|9LDR3lHACKM
 Kukuli_1|35V5umD3dTA
 Kukuli_2|il-6oO1woek
