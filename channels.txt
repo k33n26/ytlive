@@ -8,8 +8,8 @@ Sozcutelevizyonu|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
 KemalSunalFilmleriveSahneleri|qWDd505ciJQ
 arzufilm1964|NqbUZyS58u8
-FobosPlanet_1|avMbwIqjG9w
-FobosPlanet_2|DNsHlnSMgLw
+FobosPlanet_1|ik3kEgcYNl8
+FobosPlanet_2|avMbwIqjG9w
 FobosPlanet_3|cjsZyFd955U
 FobosPlanet_4|vHOv3sJWkUs
 FobosPlanet_5|soSXsuGVkqc
@@ -122,8 +122,7 @@ discovery_1|oYzJ_4PIIOA
 discovery_2|0IaZpvpPVGs
 Adanali|sF1AgroEr60
 AvrupaYakasi|NGsjOrzwjZk
-LoveNaturePredators_1|YRIkyaX2in0
-LoveNaturePredators_2|7ByKk5NPsRw
+LoveNaturePredators|7ByKk5NPsRw
 atvturkiye|Kjg1HulXQfw
 AltıÜstüİstanbul_1|ia_Puv4LZRo
 AltıÜstüİstanbul_2|6pU7QDkeVr8
