@@ -100,7 +100,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|DyhQ4SWrDIQ
 trthaber|myv0L5yK_rY
-tgrthaber_1|PD9TFx7Xi2Y
+tgrthaber_1|7erbcQLEygU
 tgrthaber_2|WX29nlgdqho
 bloomberght|5ngQ40FQHv0
 Minikago|LBW6-pJuVI0
@@ -130,8 +130,7 @@ NatGeoAnimals_2|MiQe9ob9aDc
 natgeokids_1|H-h657jXQyA
 natgeokids_2|q5xC6wv9Ut0
 StarTVResmi|82O6yOy_XwE
-discovery_1|oYzJ_4PIIOA
-discovery_2|0IaZpvpPVGs
+discovery|oYzJ_4PIIOA
 Adanali|sF1AgroEr60
 AvrupaYakasi|NGsjOrzwjZk
 LoveNaturePredators_1|YRIkyaX2in0
