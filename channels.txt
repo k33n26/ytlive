@@ -244,8 +244,7 @@ DreamTripspk_3|0FBiyFpV__g
 i24NEWS_EN|
 TheIslandwithBearGrylls|qTQK5hTRGh8
 channelnewsasia|XWq5kBlakcQ
-CBCNews_1|ajkoBTYqr2s
-CBCNews_2|5vfaDsMhCF4
+CBCNews|5vfaDsMhCF4
 CNBC|9NyxcX3rhQs
 EnjoyRelaxation-jz7gi_1|Fyv3zAECe9E
 EnjoyRelaxation-jz7gi_2|LeJ5ef6oQpI
@@ -264,7 +263,8 @@ tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
 SyriaTelevision|h6cB5IUmVF0
 medyahabertv8|kyJf0mXuJ9A
-KOREAarirangTV|hvVlyZ5GiE8
+KOREAarirangTV_1|95M9wJJwug8
+KOREAarirangTV_2|hvVlyZ5GiE8
 Foxweather|wt6SIE7BXS8
 weathernation|3dDyjHc8DkA
 stormpower4617_1|dQW8xLOf_CU
