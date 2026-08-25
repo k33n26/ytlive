@@ -59,10 +59,9 @@ Ahaber_2|6NkdTWxMpAg
 Ahaber_3|HVSxZ7TCqz0
 liderhabertv_1|P3Q2Q1zSk3M
 liderhabertv_2|8nt4AKdiMqM
-krtcanli_1|A1XLU98HEcc
-krtcanli_2|_k0wG2Qah1g
-haberturktv_1|XeH5pv0rtXw
-haberturktv_2|c_mkQKs9ffo
+krtcanli|_k0wG2Qah1g
+haberturktv_1|BqFCDuJOXlw
+haberturktv_2|XeH5pv0rtXw
 haberturktv_3|s4KIyYkwiM0
 haberturktv_4|CJHVSYHpVvc
 haberturktv_5|CPXn_5nTtao
@@ -99,7 +98,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|9Iq7QkgeUus
 trthaber|myv0L5yK_rY
-tgrthaber_1|AZvD1Ij8BpI
+tgrthaber_1|7L_-Yy2qr6Q
 tgrthaber_2|WX29nlgdqho
 bloomberght|5ngQ40FQHv0
 Minikago|LBW6-pJuVI0
@@ -204,8 +203,7 @@ livenowfox_3|C96oohpWBGw
 warnerbrosentertainment_1|G43NInZfoPE
 warnerbrosentertainment_2|WVwP298MU7I
 EDHOatv|NsQcL37_tkI
-ntvkenyaonline_1|NLNip_6U8Og
-ntvkenyaonline_2|6Qj6kqBhflc
+ntvkenyaonline|6Qj6kqBhflc
 REALTVXEBERLE|AxZfFygHSvQ
 KurulusOsman|PobdnBU-QQE
 NewsmaxTV|RNNFrG4KbH0
@@ -280,8 +278,7 @@ Nilradyotv|TdZZH_XgZkk
 mkhabertv|VsBN9jvmXsE
 tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
-SyriaTelevision_1|qC5xp8y6zo4
-SyriaTelevision_2|h6cB5IUmVF0
+SyriaTelevision|h6cB5IUmVF0
 medyahabertv8|kyJf0mXuJ9A
 KOREAarirangTV|hvVlyZ5GiE8
 Foxweather|wt6SIE7BXS8
@@ -381,8 +378,8 @@ OnlarTV|RfqmS7UEbBw
 MucizeDoktor|hyhEyjqL13g
 fenerbahce|LWkEawitLEw
 sifirtv|8GiqA-lLVzw
-Fireplace4K_1|28LwWpoIVcE
-Fireplace4K_2|n3f-tqgM6QQ
+Fireplace4K_1|6u63Sn8nEbs
+Fireplace4K_2|28LwWpoIVcE
 Fireplace4K_3|A5KcDOVnzbI
 Fireplace4K_4|9uXaOyK7JWY
 Fireplace4K_5|-5k7kSe8xck
