@@ -56,7 +56,8 @@ SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|6NkdTWxMpAg
 Ahaber_2|HVSxZ7TCqz0
 liderhabertv|8nt4AKdiMqM
-krtcanli|_k0wG2Qah1g
+krtcanli_1|PVJG0mHpQ7s
+krtcanli_2|_k0wG2Qah1g
 haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
@@ -91,7 +92,8 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|DyhQ4SWrDIQ
 trthaber|myv0L5yK_rY
-tgrthaber|WX29nlgdqho
+tgrthaber_1|DsA9Q34SReo
+tgrthaber_2|WX29nlgdqho
 bloomberght|5ngQ40FQHv0
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -131,7 +133,7 @@ AltıÜstüİstanbul_2|6pU7QDkeVr8
 a2tv|HtnytvwXi5o
 tv2Resmi|qWoSFQYASiw
 euronews|pykpO5kQJ98
-EKOTURKTV|9a_rPW7bkfk
+EKOTURKTV|P0pG_-kKZjo
 Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
