@@ -3,13 +3,14 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali|jHMsvYrf-UA
+Halktvkanali_1|qV1_olsCYvM
+Halktvkanali_2|jHMsvYrf-UA
 Sozcutelevizyonu|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
 KemalSunalFilmleriveSahneleri|qWDd505ciJQ
 arzufilm1964|NqbUZyS58u8
-FobosPlanet_1|MdThazYP_e8
-FobosPlanet_2|FeikWS1dnwE
+FobosPlanet_1|vdQJmfh-8d8
+FobosPlanet_2|MdThazYP_e8
 FobosPlanet_3|cjsZyFd955U
 FobosPlanet_4|vHOv3sJWkUs
 FobosPlanet_5|soSXsuGVkqc
@@ -160,8 +161,7 @@ dwnews|LuKwFajn37U
 aljazeeraenglish|gCNeDWCI0vo
 France24|a47ckXKZjxI
 abcnewsaustralia|vOTiJkg1voo
-ABCNews_1|vBrG6RI2VyI
-ABCNews_2|iipR5yUp36o
+ABCNews|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|UHXqe9qf_ZM
@@ -262,8 +262,7 @@ tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
 SyriaTelevision|h6cB5IUmVF0
 medyahabertv8|kyJf0mXuJ9A
-KOREAarirangTV_1|95M9wJJwug8
-KOREAarirangTV_2|hvVlyZ5GiE8
+KOREAarirangTV|hvVlyZ5GiE8
 Foxweather|wt6SIE7BXS8
 weathernation|3dDyjHc8DkA
 stormpower4617_1|dQW8xLOf_CU
