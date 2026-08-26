@@ -48,7 +48,7 @@ KurtlarVadisi|jv8QshEodmQ
 ShauntheSheepOfficial|dBloEq9d49A
 Behzatc.|XPy9T3ePqoQ
 ASpor|-zSaswVrQ_M
-cnnturk_1|ziqJL2HezoM
+cnnturk_1|Umux654T3Os
 cnnturk_2|XKSEefsE2Nw
 cnnturk_3|ogMaukPITDE
 cnnturk_4|6N8_r2uwLEc
@@ -58,8 +58,7 @@ Ahaber_1|6NkdTWxMpAg
 Ahaber_2|HVSxZ7TCqz0
 liderhabertv_1|XOPK3Qn_tHU
 liderhabertv_2|8nt4AKdiMqM
-krtcanli_1|tCgeakS_WJo
-krtcanli_2|_k0wG2Qah1g
+krtcanli|_k0wG2Qah1g
 haberturktv_1|6V5rzMnm_Qk
 haberturktv_2|s4KIyYkwiM0
 haberturktv_3|CJHVSYHpVvc
@@ -209,7 +208,8 @@ RhythmEmotion68_4|mX35sECE--I
 RhythmEmotion68_5|va4BD7pGCPc
 RhythmEmotion68_6|ItoNVjSmkx0
 RhythmEmotion68_7|q9iTGiUtYik
-CNNIDOFFICIAL|PDDOkUq33Sw
+CNNIDOFFICIAL_1|Np3mw-b-EPk
+CNNIDOFFICIAL_2|PDDOkUq33Sw
 12KScenicRelaxation_1|2FTbljN_fjY
 12KScenicRelaxation_2|WmVLjcqJBFg
 12KScenicRelaxation_3|Ttaep72wcNs
@@ -265,11 +265,10 @@ ravenhallmusic_3|nTch5eYBLp8
 ravenhallmusic_4|DM5a415zLgw
 ravenhallmusic_5|Zc9QSBmHG4M
 ABC7|s3iVFJoxrYc
-KozaTv_1|GcNBzhnmLIA
+KozaTv_1|F_tOdo_G_vs
 KozaTv_2|0TBY2WtWW7g
-ankarabbld_1|K_OcdvAuBR4
-ankarabbld_2|T_LPysrfMlY
-ankarabbld_3|B-84y-luaTs
+ankarabbld_1|T_LPysrfMlY
+ankarabbld_2|B-84y-luaTs
 Nilradyotv|TdZZH_XgZkk
 mkhabertv|uMm5diurHm4
 tele2_haber_1|tg13PdUUmhk
