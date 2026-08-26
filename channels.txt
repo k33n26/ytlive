@@ -3,7 +3,7 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|leALCwNBIPg
+Halktvkanali_1|r156z43qQjc
 Halktvkanali_2|jHMsvYrf-UA
 Sozcutelevizyonu_1|pVG80MBsTYc
 Sozcutelevizyonu_2|ztmY_cCtUl0
@@ -17,7 +17,6 @@ FobosPlanet_4|vHOv3sJWkUs
 FobosPlanet_5|soSXsuGVkqc
 FobosPlanet_6|mKCieTImjvU
 FobosPlanet_7|edKgbxcn5UA
-FobosPlanet_8|4WHshH5c-x8
 beINSPORTSTurkiye|i7UpPgxfZZ8
 avsarfilm|wJbP12jam70
 TurkFilmleri-TV|MPPOKE82HcQ
@@ -59,11 +58,10 @@ Ahaber_2|HVSxZ7TCqz0
 liderhabertv_1|XOPK3Qn_tHU
 liderhabertv_2|8nt4AKdiMqM
 krtcanli|_k0wG2Qah1g
-haberturktv_1|6V5rzMnm_Qk
-haberturktv_2|s4KIyYkwiM0
-haberturktv_3|CJHVSYHpVvc
-haberturktv_4|CPXn_5nTtao
-haberturktv_5|RNVNlJSUFoE
+haberturktv_1|s4KIyYkwiM0
+haberturktv_2|CJHVSYHpVvc
+haberturktv_3|CPXn_5nTtao
+haberturktv_4|RNVNlJSUFoE
 haberglobal|EqoCJ8BPxtE
 FilmAtolyesi|Jkg74w73aoQ
 MiParaisoVision_1|_ZapRaWABAo
@@ -92,7 +90,7 @@ kralmuzik_1|O_-NjHABJIg
 kralmuzik_2|6He9sFxFv8Y
 htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
-egemaxtv|9Iq7QkgeUus
+egemaxtv|F0zUfRbUM4s
 trthaber|myv0L5yK_rY
 tgrthaber|WX29nlgdqho
 bloomberght|5ngQ40FQHv0
@@ -138,7 +136,8 @@ EKOTURKTV|qIdbaMBTx8g
 Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews|YDvsBbKfLPA
+SkyNews_1|HK01cP9LmG4
+SkyNews_2|YDvsBbKfLPA
 aleminkirali|avDRwKKjeSI
 bbcearth|yMMTtY_L-y0
 AnimaliaWonders2101_1|uQciaVlLDQI
@@ -169,7 +168,8 @@ ABCNews_2|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|UHXqe9qf_ZM
-ulusalkanalTV|Gcxkjxhbhk8
+ulusalkanalTV_1|X85F2MN854Q
+ulusalkanalTV_2|Gcxkjxhbhk8
 CGTNEurope_1|mbfasoTU9m8
 CGTNEurope_2|OzfbXAxdEOE
 CGTNEurope_3|X_rdonku43c
@@ -191,8 +191,9 @@ Yeraltidizisi|1sBxo7hM31Y
 Kanal7PakistanDizileri|MTbf4z9L7L8
 SfrBir|ofw2CpH0aw0
 CokGuzelHareketler|JeIsM7AN7ss
-livenowfox_1|FKvTDFQ6QIU
-livenowfox_2|C96oohpWBGw
+livenowfox_1|oULNaHuClXI
+livenowfox_2|FKvTDFQ6QIU
+livenowfox_3|C96oohpWBGw
 warnerbrosentertainment_1|G43NInZfoPE
 warnerbrosentertainment_2|WVwP298MU7I
 EDHOatv|NsQcL37_tkI
@@ -208,8 +209,7 @@ RhythmEmotion68_4|mX35sECE--I
 RhythmEmotion68_5|va4BD7pGCPc
 RhythmEmotion68_6|ItoNVjSmkx0
 RhythmEmotion68_7|q9iTGiUtYik
-CNNIDOFFICIAL_1|Np3mw-b-EPk
-CNNIDOFFICIAL_2|PDDOkUq33Sw
+CNNIDOFFICIAL|PDDOkUq33Sw
 12KScenicRelaxation_1|2FTbljN_fjY
 12KScenicRelaxation_2|WmVLjcqJBFg
 12KScenicRelaxation_3|Ttaep72wcNs
@@ -267,9 +267,8 @@ ravenhallmusic_5|Zc9QSBmHG4M
 ABC7|s3iVFJoxrYc
 KozaTv_1|F_tOdo_G_vs
 KozaTv_2|0TBY2WtWW7g
-ankarabbld_1|T_LPysrfMlY
-ankarabbld_2|B-84y-luaTs
-Nilradyotv|TdZZH_XgZkk
+ankarabbld|B-84y-luaTs
+Nilradyotv|Bc1jOrsD22g
 mkhabertv|uMm5diurHm4
 tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
