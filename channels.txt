@@ -48,7 +48,7 @@ KurtlarVadisi|jv8QshEodmQ
 ShauntheSheepOfficial|dBloEq9d49A
 Behzatc.|XPy9T3ePqoQ
 ASpor|-zSaswVrQ_M
-cnnturk_1|GUERT77Z_ZI
+cnnturk_1|pN9RECSTfh8
 cnnturk_2|XKSEefsE2Nw
 cnnturk_3|ogMaukPITDE
 cnnturk_4|6N8_r2uwLEc
@@ -57,7 +57,7 @@ SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|6NkdTWxMpAg
 Ahaber_2|HVSxZ7TCqz0
 liderhabertv|8nt4AKdiMqM
-krtcanli_1|Q9wqvQsrVV0
+krtcanli_1|Bc_YCRqMhIY
 krtcanli_2|_k0wG2Qah1g
 haberturktv_1|x6ZPSv9pIh0
 haberturktv_2|s4KIyYkwiM0
@@ -74,7 +74,8 @@ UltimateNatureDocs_2|JVXC4DrH6PA
 kanal7tvcanli|vlfZ8bYOJ7k
 YirmidortTV_1|6B-nPOdP720
 YirmidortTV_2|qFKEi2BqHYc
-tv100|4WSvLRk83-c
+tv100_1|H3Uzpl3Qs1M
+tv100_2|4WSvLRk83-c
 MuhtesemGumballDunyasi|9LDR3lHACKM
 Kukuli_1|35V5umD3dTA
 Kukuli_2|il-6oO1woek
@@ -95,7 +96,8 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|9Iq7QkgeUus
 trthaber|myv0L5yK_rY
-tgrthaber|WX29nlgdqho
+tgrthaber_1|xN8h2zzIwxQ
+tgrthaber_2|WX29nlgdqho
 bloomberght|5ngQ40FQHv0
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -205,7 +207,8 @@ RhythmEmotion68_4|mX35sECE--I
 RhythmEmotion68_5|va4BD7pGCPc
 RhythmEmotion68_6|ItoNVjSmkx0
 RhythmEmotion68_7|q9iTGiUtYik
-CNNIDOFFICIAL|PDDOkUq33Sw
+CNNIDOFFICIAL_1|Hvwlj3fgPnE
+CNNIDOFFICIAL_2|PDDOkUq33Sw
 12KScenicRelaxation_1|2FTbljN_fjY
 12KScenicRelaxation_2|WmVLjcqJBFg
 12KScenicRelaxation_3|Ttaep72wcNs
@@ -261,7 +264,7 @@ ravenhallmusic_3|nTch5eYBLp8
 ravenhallmusic_4|DM5a415zLgw
 ravenhallmusic_5|Zc9QSBmHG4M
 ABC7|s3iVFJoxrYc
-KozaTv_1|ysGQ268Hmys
+KozaTv_1|DqU6ahRJBKc
 KozaTv_2|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|TdZZH_XgZkk
@@ -290,7 +293,7 @@ kodadikirlangic|t_sTFmAQCgQ
 kizilcikserbetidizi|QXTh9Vqzc18
 EsrefRuyadizitv|U2tcy8bvjuE
 birgecemasali|b5lUIsJZjMk
-nowtvturkiye|0SrsuehbM1Y
+nowtvturkiye|8dbHcreSBEI
 Abidiziatv|jhEx9jk3wuc
 muhtesemyuzyilofficial|tZxD_s29JZc
 diyanettv|8KOE6__ogN8
