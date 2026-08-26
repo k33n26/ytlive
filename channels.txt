@@ -3,7 +3,8 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali|jHMsvYrf-UA
+Halktvkanali_1|LZG44ZTC6uQ
+Halktvkanali_2|jHMsvYrf-UA
 Sozcutelevizyonu|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
 KemalSunalFilmleriveSahneleri|qWDd505ciJQ
@@ -160,8 +161,7 @@ dwnews|LuKwFajn37U
 aljazeeraenglish|gCNeDWCI0vo
 France24|a47ckXKZjxI
 abcnewsaustralia|vOTiJkg1voo
-ABCNews_1|Zvg044ooBHA
-ABCNews_2|iipR5yUp36o
+ABCNews|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|UHXqe9qf_ZM
@@ -273,8 +273,7 @@ stormpower4617_4|Pd_QZOtHhIs
 stormpower4617_5|A2JdCF7V6hY
 NaimatIslamic_1|YrQ5GW_2V0k
 NaimatIslamic_2|pLFMy9Qf5Ys
-NaimatIslamic_3|9S-OBXmv9u4
-NaimatIslamic_4|BtMUUgApnPs
+NaimatIslamic_3|BtMUUgApnPs
 ClassicMrBean|mF3s5-6mIH4
 animalplanet_1|-_HChoYoVNQ
 animalplanet_2|iG_-FTvPiLs
