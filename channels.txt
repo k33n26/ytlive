@@ -3,9 +3,9 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|1dDCGudoqFk
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali_1|b0NodLZoXGE
+Halktvkanali_1|ZJKCvppw9k8
 Halktvkanali_2|jHMsvYrf-UA
-Sozcutelevizyonu_1|NRlXozw7Btg
+Sozcutelevizyonu_1|ZXNqiSM1fYM
 Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
 KemalSunalFilmleriveSahneleri|qWDd505ciJQ
@@ -59,11 +59,10 @@ Ahaber_2|HVSxZ7TCqz0
 liderhabertv|8nt4AKdiMqM
 krtcanli_1|Bc_YCRqMhIY
 krtcanli_2|_k0wG2Qah1g
-haberturktv_1|x6ZPSv9pIh0
-haberturktv_2|s4KIyYkwiM0
-haberturktv_3|CJHVSYHpVvc
-haberturktv_4|CPXn_5nTtao
-haberturktv_5|RNVNlJSUFoE
+haberturktv_1|s4KIyYkwiM0
+haberturktv_2|CJHVSYHpVvc
+haberturktv_3|CPXn_5nTtao
+haberturktv_4|RNVNlJSUFoE
 haberglobal_1|QsNd0NnGBLA
 haberglobal_2|EqoCJ8BPxtE
 FilmAtolyesi|Jkg74w73aoQ
@@ -96,8 +95,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|9Iq7QkgeUus
 trthaber|myv0L5yK_rY
-tgrthaber_1|xN8h2zzIwxQ
-tgrthaber_2|WX29nlgdqho
+tgrthaber|WX29nlgdqho
 bloomberght|5ngQ40FQHv0
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -137,7 +135,7 @@ AltıÜstüİstanbul_2|6pU7QDkeVr8
 a2tv|HtnytvwXi5o
 tv2Resmi|qWoSFQYASiw
 euronews|pykpO5kQJ98
-EKOTURKTV|iMWgccslF08
+EKOTURKTV|qIdbaMBTx8g
 Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
@@ -207,8 +205,7 @@ RhythmEmotion68_4|mX35sECE--I
 RhythmEmotion68_5|va4BD7pGCPc
 RhythmEmotion68_6|ItoNVjSmkx0
 RhythmEmotion68_7|q9iTGiUtYik
-CNNIDOFFICIAL_1|Hvwlj3fgPnE
-CNNIDOFFICIAL_2|PDDOkUq33Sw
+CNNIDOFFICIAL|PDDOkUq33Sw
 12KScenicRelaxation_1|2FTbljN_fjY
 12KScenicRelaxation_2|WmVLjcqJBFg
 12KScenicRelaxation_3|Ttaep72wcNs
@@ -239,8 +236,7 @@ yesildeniztrt1|DKbXb7x38_Y
 AskMemnuKanalD|JpP13Wp1ke0
 zenginkizfakiroglantrt|3kTcvGWaO3Q
 CNN|GotlA1KKWoo
-kenyacitizentv_1|vh-DOF8iJGs
-kenyacitizentv_2|oM-4JU897AI
+kenyacitizentv|oM-4JU897AI
 TRTAvaz|CJWp6sbRs9E
 bbcnewsarabic|O1pGmVtj2Y8
 aljazeeradocumentary|TiPYdMXt_XI
@@ -371,8 +367,8 @@ OnlarTV|RfqmS7UEbBw
 MucizeDoktor|hyhEyjqL13g
 fenerbahce|LWkEawitLEw
 sifirtv|8GiqA-lLVzw
-Fireplace4K_1|32I_0OBTkFU
-Fireplace4K_2|6u63Sn8nEbs
+Fireplace4K_1|GmAnWo-JrEQ
+Fireplace4K_2|32I_0OBTkFU
 Fireplace4K_3|A5KcDOVnzbI
 Fireplace4K_4|9uXaOyK7JWY
 Fireplace4K_5|-5k7kSe8xck
