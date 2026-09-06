@@ -158,9 +158,8 @@ markets|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|U0JjOs-ayaM
 ulusalkanalTV|Gcxkjxhbhk8
-CGTNEurope_1|BN7k80lWyzM
-CGTNEurope_2|-exYtuV4Xx4
-CGTNEurope_3|fZqr56lztHw
+CGTNEurope_1|-exYtuV4Xx4
+CGTNEurope_2|fZqr56lztHw
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
 globalnewstw_1|a1YWMrmwXQs
