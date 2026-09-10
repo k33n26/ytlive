@@ -133,8 +133,7 @@ EKOTURKTV|CbB3pfVxqls
 Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|_rMKaFY8wRE
-SkyNews_2|xDWQ3LkccY8
+SkyNews|xDWQ3LkccY8
 aleminkirali|avDRwKKjeSI
 bbcearth|yMMTtY_L-y0
 AnimaliaWonders2101_1|c9__lfK65Xk
@@ -162,8 +161,7 @@ tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|U0JjOs-ayaM
 ulusalkanalTV|Gcxkjxhbhk8
 CGTNEurope_1|D4ASD3K4Jro
-CGTNEurope_2|FzDVdMLjlu4
-CGTNEurope_3|fZqr56lztHw
+CGTNEurope_2|fZqr56lztHw
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
 globalnewstw_1|a1YWMrmwXQs
@@ -254,7 +252,8 @@ ravenhallmusic_7|PYqVL6feOI0
 ravenhallmusic_8|nTch5eYBLp8
 ravenhallmusic_9|DM5a415zLgw
 ravenhallmusic_10|Zc9QSBmHG4M
-ABC7|s3iVFJoxrYc
+ABC7_1|CAhbIv8sQsM
+ABC7_2|s3iVFJoxrYc
 KozaTv|0TBY2WtWW7g
 ankarabbld|B-84y-luaTs
 Nilradyotv|Bn-ZsrC780U
@@ -263,7 +262,8 @@ tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
 SyriaTelevision|h6cB5IUmVF0
 medyahabertv8|kyJf0mXuJ9A
-KOREAarirangTV|hvVlyZ5GiE8
+KOREAarirangTV_1|gfnSIaodCBk
+KOREAarirangTV_2|hvVlyZ5GiE8
 Foxweather|wt6SIE7BXS8
 weathernation|3dDyjHc8DkA
 stormpower4617_1|dQW8xLOf_CU
