@@ -57,8 +57,7 @@ haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
 haberturktv_4|RNVNlJSUFoE
-haberglobal_1|G3iROc9KThQ
-haberglobal_2|EqoCJ8BPxtE
+haberglobal|EqoCJ8BPxtE
 FilmAtolyesi|Jkg74w73aoQ
 MiParaisoVision_1|_ZapRaWABAo
 MiParaisoVision_2|VABzf7Ig4l4
@@ -89,8 +88,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|esUoAjvS8qc
 trthaber|myv0L5yK_rY
-tgrthaber_1|7wz4SpodAF0
-tgrthaber_2|WX29nlgdqho
+tgrthaber|WX29nlgdqho
 bloomberght|j7B_zsL11Pw
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -161,10 +159,9 @@ markets|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|U0JjOs-ayaM
 ulusalkanalTV|Gcxkjxhbhk8
-CGTNEurope_1|_y5dMY2dnGY
-CGTNEurope_2|yO_NIjWnMcI
-CGTNEurope_3|qKFs0IrhSr0
-CGTNEurope_4|fZqr56lztHw
+CGTNEurope_1|yO_NIjWnMcI
+CGTNEurope_2|qKFs0IrhSr0
+CGTNEurope_3|fZqr56lztHw
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
 globalnewstw_1|a1YWMrmwXQs
