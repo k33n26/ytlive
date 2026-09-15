@@ -3,7 +3,8 @@ NostaljiTRT_2|jvC6-s5exnI
 bizimevtv2000|twu1Uk3Fhak
 guldurguldurtv|6iTXnuBXXqI
 tgrtbelgeseltv|32y7IEtD5OU
-Halktvkanali|jHMsvYrf-UA
+Halktvkanali_1|Tmu66Nj819w
+Halktvkanali_2|jHMsvYrf-UA
 Sozcutelevizyonu|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
 KemalSunalFilmleriveSahneleri|qWDd505ciJQ
@@ -154,14 +155,12 @@ dwnews|LuKwFajn37U
 aljazeeraenglish|gCNeDWCI0vo
 France24|a47ckXKZjxI
 abcnewsaustralia|vOTiJkg1voo
-ABCNews_1|2-oQVAi1YXk
-ABCNews_2|iipR5yUp36o
+ABCNews|iipR5yUp36o
 markets|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|U0JjOs-ayaM
 ulusalkanalTV|Gcxkjxhbhk8
-CGTNEurope_1|qKFs0IrhSr0
-CGTNEurope_2|fZqr56lztHw
+CGTNEurope|fZqr56lztHw
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
 globalnewstw_1|a1YWMrmwXQs
@@ -238,8 +237,7 @@ TheIslandwithBearGrylls|qTQK5hTRGh8
 channelnewsasia|XWq5kBlakcQ
 CBCNews|5vfaDsMhCF4
 CNBC|9NyxcX3rhQs
-EnjoyRelaxation-jz7gi_1|dHYTjbuM4hc
-EnjoyRelaxation-jz7gi_2|LeJ5ef6oQpI
+EnjoyRelaxation-jz7gi|LeJ5ef6oQpI
 SaudiNewsTV|iw0YDBYgaUU
 ravenhallmusic_1|-ExICaUHwFo
 ravenhallmusic_2|g1q22egnUOo
