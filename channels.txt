@@ -132,8 +132,7 @@ EKOTURKTV|7n0Qs8iAi1c
 Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|e4-rN03iHqs
-SkyNews_2|xDWQ3LkccY8
+SkyNews|xDWQ3LkccY8
 aleminkirali|avDRwKKjeSI
 bbcearth|yMMTtY_L-y0
 AnimaliaWonders2101_1|Icz8UD9pDgU
@@ -160,10 +159,9 @@ markets|QB5BNdBFujE
 tvbenguturk|MOhcWsOL1Us
 FlashHaberTV|U0JjOs-ayaM
 ulusalkanalTV|Gcxkjxhbhk8
-CGTNEurope_1|8m6VQqB0ZR0
-CGTNEurope_2|KU5sV9uTm14
-CGTNEurope_3|GJiSwnNxMYg
-CGTNEurope_4|fZqr56lztHw
+CGTNEurope_1|KU5sV9uTm14
+CGTNEurope_2|GJiSwnNxMYg
+CGTNEurope_3|fZqr56lztHw
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
 globalnewstw_1|a1YWMrmwXQs
@@ -263,7 +261,8 @@ tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
 SyriaTelevision|h6cB5IUmVF0
 medyahabertv8|kyJf0mXuJ9A
-KOREAarirangTV|hvVlyZ5GiE8
+KOREAarirangTV_1|pTD_lQXyB68
+KOREAarirangTV_2|hvVlyZ5GiE8
 Foxweather|wt6SIE7BXS8
 weathernation|3dDyjHc8DkA
 stormpower4617_1|dQW8xLOf_CU
@@ -297,6 +296,9 @@ BuildingwithLamChannel|4V76-O8BCV0
 NagoyaTVnewsCH_1|ElmLqemMkng
 NagoyaTVnewsCH_2|-C6FE2m7kX8
 home-news_1|mqqYqShxy0Q
+home-news_2|oW2Gb8YoGAg
+home-news_3|s2CxZ7N25i0
+home-news_4|e2pgLUmaxGs
 fukuokatncnews_1|CzgSFUAbE9s
 fukuokatncnews_2|NokinTfqIaM
 fukuokatncnews_3|A76bj7NZSs0
