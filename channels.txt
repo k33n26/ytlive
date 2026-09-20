@@ -8,13 +8,14 @@ Sozcutelevizyonu|ztmY_cCtUl0
 GulsahFilmOfficial|8AkJ9BgYB-c
 KemalSunalFilmleriveSahneleri|qWDd505ciJQ
 arzufilm1964|NqbUZyS58u8
-FobosPlanet_1|zwl92jr7Zrc
-FobosPlanet_2|lKA4AGp1J2k
+FobosPlanet_1|gBKB-3xk600
+FobosPlanet_2|zwl92jr7Zrc
 FobosPlanet_3|cjsZyFd955U
 FobosPlanet_4|vHOv3sJWkUs
 FobosPlanet_5|soSXsuGVkqc
 FobosPlanet_6|mKCieTImjvU
 FobosPlanet_7|edKgbxcn5UA
+FobosPlanet_8|4WHshH5c-x8
 beINSPORTSTurkiye|i7UpPgxfZZ8
 avsarfilm|wJbP12jam70
 TurkFilmleri-TV|MPPOKE82HcQ
@@ -87,8 +88,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|WkvhwhC182c
 trthaber|eqxFPKDlloo
-tgrthaber_1|4cB21D4nL68
-tgrthaber_2|WX29nlgdqho
+tgrthaber|WX29nlgdqho
 bloomberght|j7B_zsL11Pw
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -132,8 +132,7 @@ EKOTURKTV|7n0Qs8iAi1c
 Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|OshAgSUNY-I
-SkyNews_2|xDWQ3LkccY8
+SkyNews|xDWQ3LkccY8
 aleminkirali|avDRwKKjeSI
 bbcearth|yMMTtY_L-y0
 AnimaliaWonders2101_1|Icz8UD9pDgU
@@ -260,7 +259,8 @@ tele2_haber_1|tg13PdUUmhk
 tarihinarkaodasitv|Ap7-d2tnoAc
 SyriaTelevision|h6cB5IUmVF0
 medyahabertv8|kyJf0mXuJ9A
-KOREAarirangTV|hvVlyZ5GiE8
+KOREAarirangTV_1|Q6Jm2hAg_JM
+KOREAarirangTV_2|hvVlyZ5GiE8
 Foxweather|wt6SIE7BXS8
 weathernation|3dDyjHc8DkA
 stormpower4617_1|dQW8xLOf_CU
