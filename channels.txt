@@ -89,8 +89,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|ladekw4w6Es
 trthaber|GefoJ-LXYfc
-tgrthaber_1|blU-T1VcIpA
-tgrthaber_2|WX29nlgdqho
+tgrthaber|WX29nlgdqho
 bloomberght|j7B_zsL11Pw
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -133,8 +132,7 @@ EKOTURKTV|JlzvwHrlC5E
 Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|RfBiZdIFk98
-SkyNews_2|xDWQ3LkccY8
+SkyNews|xDWQ3LkccY8
 aleminkirali|avDRwKKjeSI
 bbcearth|yMMTtY_L-y0
 AnimaliaWonders2101_1|Icz8UD9pDgU
@@ -160,9 +158,8 @@ tvbenguturk|oM8knhi5hzQ
 FlashHaberTV|U0JjOs-ayaM
 ulusalkanalTV|Gcxkjxhbhk8
 CGTNEurope_1|aiS_ImoHlWo
-CGTNEurope_2|QkqRdCSdepo
-CGTNEurope_3|SMRFyUIPAZQ
-CGTNEurope_4|fZqr56lztHw
+CGTNEurope_2|SMRFyUIPAZQ
+CGTNEurope_3|fZqr56lztHw
 LiveNow24H_1|vNVp6bxkL1c
 LiveNow24H_2|PiSwAy-blvA
 globalnewstw_1|a1YWMrmwXQs
