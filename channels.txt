@@ -46,9 +46,8 @@ KurtlarVadisi|9LOEyR_lsNk
 ShaunandFriendsOfficial|UavAcv2CBfc
 Behzatc.|XPy9T3ePqoQ
 ASpor|nol9os2B8zE
-cnnturk_1|Nm15xfnvcN0
-cnnturk_2|ogMaukPITDE
-cnnturk_3|6N8_r2uwLEc
+cnnturk_1|ogMaukPITDE
+cnnturk_2|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|EyTWkmkQxJA
@@ -88,8 +87,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|l-k6ZH2v_C0
 trthaber|GefoJ-LXYfc
-tgrthaber_1|yol8MsMXDw8
-tgrthaber_2|WX29nlgdqho
+tgrthaber|WX29nlgdqho
 bloomberght|j7B_zsL11Pw
 Minikago|LBW6-pJuVI0
 neselidunyaminika|XZ1LjHefMYw
@@ -228,9 +226,11 @@ BBCTimestamp|6ftAy0nBdAQ
 criminalsandcrimefighters|Xy1fDg--fAM
 odyssey|ty9EpO0R6Y0
 AbsoluteHistory|DrxFPqPf1cA
-DreamTripspk_1|QrUisSNNwrA
-DreamTripspk_2|4QJEibrt9B8
-DreamTripspk_3|jA0O59m9OTA
+DreamTripspk_1|6MT0tOh7VLQ
+DreamTripspk_2|FZdoSCs2neY
+DreamTripspk_3|QrUisSNNwrA
+DreamTripspk_4|4QJEibrt9B8
+DreamTripspk_5|jA0O59m9OTA
 i24NEWS_EN|
 TheIslandwithBearGrylls|qTQK5hTRGh8
 channelnewsasia|XWq5kBlakcQ
