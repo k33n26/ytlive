@@ -4,8 +4,7 @@ bizimevtv2000|80t7luQisgA
 guldurguldurtv|_ZBKz_JZorw
 tgrtbelgeseltv|32y7IEtD5OU
 Halktvkanali|8_qAqJdVAuM
-Sozcutelevizyonu_1|qqOSvyREUkg
-Sozcutelevizyonu_2|ztmY_cCtUl0
+Sozcutelevizyonu|ztmY_cCtUl0
 GulsahFilmOfficial|IJKuZnfv_eA
 KemalSunalFilmleriveSahneleri|qWDd505ciJQ
 arzufilm1964|eOqxUpRToOM
@@ -47,9 +46,8 @@ KurtlarVadisi|-ks3K-fzJ-4
 ShaunandFriendsOfficial|UavAcv2CBfc
 Behzatc.|XPy9T3ePqoQ
 ASpor|nol9os2B8zE
-cnnturk_1|CJNnGq713_I
-cnnturk_2|ogMaukPITDE
-cnnturk_3|6N8_r2uwLEc
+cnnturk_1|ogMaukPITDE
+cnnturk_2|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|8tSCITfxC_E
@@ -60,8 +58,7 @@ haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
 haberturktv_4|RNVNlJSUFoE
-haberglobal_1|bYSjgIjE5E4
-haberglobal_2|EqoCJ8BPxtE
+haberglobal|EqoCJ8BPxtE
 FilmAtolyesi|OqVhyaoOBco
 MiParaisoVision_1|-I0YDbuyoSw
 MiParaisoVision_2|VABzf7Ig4l4
@@ -91,8 +88,7 @@ htspor|gcWaPe_LBMc
 TVNET|Z5bqy4gwEmc
 egemaxtv|l-k6ZH2v_C0
 trthaber|GefoJ-LXYfc
-tgrthaber_1|ge_63qdSerA
-tgrthaber_2|WX29nlgdqho
+tgrthaber|WX29nlgdqho
 bloomberght|j7B_zsL11Pw
 Minikago|LBW6-pJuVI0
 neselidunyaminika|6RhwvuQyw98
@@ -137,8 +133,7 @@ EKOTURKTV|_mfWafXdklg
 Taff-Pictures|EnQQj4yUhhA
 WarStoriesChannel|kU3Biz7ffUE
 SpacedustDOC|7mPLBotuqfY
-SkyNews_1|SWxz7rwG1oI
-SkyNews_2|xDWQ3LkccY8
+SkyNews|xDWQ3LkccY8
 aleminkirali|avDRwKKjeSI
 bbcearth|yMMTtY_L-y0
 AnimaliaWonders2101_1|Icz8UD9pDgU
