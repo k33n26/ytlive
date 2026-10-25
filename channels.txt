@@ -4,7 +4,8 @@ bizimevtv2000|80t7luQisgA
 guldurguldurtv|_ZBKz_JZorw
 tgrtbelgeseltv|32y7IEtD5OU
 Halktvkanali|8_qAqJdVAuM
-Sozcutelevizyonu|ztmY_cCtUl0
+Sozcutelevizyonu_1|OyShfhJNZGw
+Sozcutelevizyonu_2|ztmY_cCtUl0
 GulsahFilmOfficial|IJKuZnfv_eA
 KemalSunalFilmleriveSahneleri|qWDd505ciJQ
 arzufilm1964|O1QUyK8Nu8c
@@ -52,7 +53,8 @@ SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber_1|rAQmatfsdyU
 Ahaber_2|Rk8JyxJWi9o
 liderhabertv|m-jz75mFqu4
-krtcanli|yRBufi6xue8
+krtcanli_1|f65uwjqjdLA
+krtcanli_2|yRBufi6xue8
 haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
@@ -238,8 +240,7 @@ TheIslandwithBearGrylls|qTQK5hTRGh8
 channelnewsasia|-PWMxjBgr0k
 CBCNews|5vfaDsMhCF4
 CNBC|9NyxcX3rhQs
-EnjoyRelaxation-jz7gi_1|KuHZjGytk34
-EnjoyRelaxation-jz7gi_2|LeJ5ef6oQpI
+EnjoyRelaxation-jz7gi|LeJ5ef6oQpI
 SaudiNewsTV|iw0YDBYgaUU
 ravenhallmusic_1|7pWe8jmwsh0
 ravenhallmusic_2|08nq3Qxkx7Q
