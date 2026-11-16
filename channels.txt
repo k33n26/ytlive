@@ -4,8 +4,7 @@ bizimevtv2000|30M_F_2xy9Q
 guldurguldurtv|-Gr6jzWUUlg
 tgrtbelgeseltv|32y7IEtD5OU
 Halktvkanali|8_qAqJdVAuM
-Sozcutelevizyonu_1|1atBmz64kyk
-Sozcutelevizyonu_2|ztmY_cCtUl0
+Sozcutelevizyonu|ztmY_cCtUl0
 GulsahFilmOfficial|CrB2M8gKWo0
 KemalSunalFilmleriveSahneleri|uA2Lffjey3g
 arzufilm1964|GQ6t0cq2n2c
@@ -45,10 +44,8 @@ KurtlarVadisi|NcrK-O7AxIU
 ShaunandFriendsOfficial|UavAcv2CBfc
 Behzatc.|XPy9T3ePqoQ
 ASpor|U4psHiEhciE
-cnnturk_1|cop2nCbEIUw
-cnnturk_2|Gft0NiWg-qM
-cnnturk_3|ogMaukPITDE
-cnnturk_4|6N8_r2uwLEc
+cnnturk_1|ogMaukPITDE
+cnnturk_2|6N8_r2uwLEc
 NTV|pqq5c6k70kk
 SevkatYerimdarDizisi|_-g2YYka8-I
 Ahaber|VGXOgMifvpk
@@ -58,8 +55,7 @@ haberturktv_1|s4KIyYkwiM0
 haberturktv_2|CJHVSYHpVvc
 haberturktv_3|CPXn_5nTtao
 haberturktv_4|RNVNlJSUFoE
-haberglobal_1|XYHjhwQkZO4
-haberglobal_2|EqoCJ8BPxtE
+haberglobal|EqoCJ8BPxtE
 FilmAtolyesi|AEwNCbcVDEY
 MiParaisoVision|VABzf7Ig4l4
 UltimateNatureDocs_1|cIO_0aPXmq8
@@ -86,8 +82,7 @@ htspor|gcWaPe_LBMc
 TVNET|q7U7ge9x-c8
 egemaxtv|-ANj5OgM3Xg
 trthaber|SiB4y9mXhHI
-tgrthaber_1|9C03cHVDn1I
-tgrthaber_2|WX29nlgdqho
+tgrthaber|WX29nlgdqho
 bloomberght|j7B_zsL11Pw
 Minikago|bx6EuMWYtPU
 neselidunyaminika|6RhwvuQyw98
@@ -344,8 +339,8 @@ OnlarTV|I2LAV02R_5g
 MucizeDoktor|0kt_ydOTKgU
 fenerbahce|1yWE24A-aN8
 sifirtv|8GiqA-lLVzw
-Fireplace4K_1|tdQrosK7_Hw
-Fireplace4K_2|R4f9JPhJFUQ
+Fireplace4K_1|5-6KHzqFFgo
+Fireplace4K_2|tdQrosK7_Hw
 Fireplace4K_3|A5KcDOVnzbI
 Fireplace4K_4|9uXaOyK7JWY
 Fireplace4K_5|-5k7kSe8xck
